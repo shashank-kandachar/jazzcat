@@ -1,7 +1,7 @@
 {
   "name": "jazzcat",
-  "version": "0.1.0",
-  "description": "JazzCat v0.1 harmony analysis prototype.",
+  "version": "0.2.0",
+  "description": "JazzCat v0.2 bring-your-own-chart harmony prototype.",
   "type": "module",
   "scripts": {
     "analyse": "node --experimental-strip-types src/cli/analyse.ts",

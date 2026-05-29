@@ -58,7 +58,7 @@ async function main(): Promise<void> {
   const warnings = [...loaded.parsed.warnings];
 
   if (!fixture) {
-    warnings.push("No manual chord-array fixture matched this chart; harmony analysis is empty for v0.1.");
+    warnings.push("No manual chord-array fixture matched this chart; harmony analysis is empty until the iReal chord body is decoded.");
   }
 
   let chordSymbols = fixture?.chords ?? [];
@@ -84,7 +84,7 @@ async function main(): Promise<void> {
   const analysed = analyseProgression(chordSymbols);
   const output = {
     app: "JazzCat",
-    version: "0.1.0",
+    version: "0.2.0",
     source: loaded.source,
     metadata: {
       ...loaded.parsed.metadata,
@@ -128,7 +128,7 @@ main().catch((error: unknown) => {
     `${JSON.stringify(
       {
         app: "JazzCat",
-        version: "0.1.0",
+        version: "0.2.0",
         error: message,
         warnings: ["CLI failed before analysis completed."]
       },

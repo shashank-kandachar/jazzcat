@@ -3,17 +3,21 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>JazzCat Preview</title>
+    <title>JazzCat</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="app-shell">
       <header class="topbar">
         <div>
-          <p class="eyebrow">JazzCat v0.1</p>
+          <p class="eyebrow">JazzCat v0.2</p>
           <h1 id="tune-title">JazzCat</h1>
         </div>
         <dl class="meta-strip" aria-label="Tune metadata">
+          <div>
+            <dt>Composer</dt>
+            <dd id="meta-composer">-</dd>
+          </div>
           <div>
             <dt>Key</dt>
             <dd id="meta-key">-</dd>
@@ -23,34 +27,75 @@
             <dd id="meta-style">-</dd>
           </div>
           <div>
+            <dt>Tempo</dt>
+            <dd id="meta-tempo">-</dd>
+          </div>
+          <div>
+            <dt>Shift</dt>
+            <dd id="meta-shift">0</dd>
+          </div>
+          <div>
             <dt>Regions</dt>
             <dd id="meta-regions">-</dd>
           </div>
         </dl>
       </header>
 
-      <nav class="tune-tabs" id="tune-tabs" aria-label="Tunes"></nav>
+      <section class="import-panel" aria-label="Import chart">
+        <div class="import-control">
+          <label for="demo-select">Demo Tune</label>
+          <div class="inline-control">
+            <select id="demo-select"></select>
+            <button id="load-demo-button" type="button">Load</button>
+          </div>
+        </div>
+
+        <div class="import-control paste-control">
+          <label for="ireal-input">Paste iReal Link</label>
+          <textarea id="ireal-input" rows="3" spellcheck="false"></textarea>
+          <button id="analyse-paste-button" type="button">Analyse</button>
+        </div>
+
+        <div class="import-control">
+          <label for="html-file-input">Upload HTML</label>
+          <div class="inline-control">
+            <input id="html-file-input" type="file" accept=".html,text/html" />
+            <button id="analyse-upload-button" type="button">Analyse</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="status-row" aria-live="polite">
+        <div id="warning-list" class="warning-list"></div>
+        <span id="ireal-status" class="status-pill">iReal preserved</span>
+      </section>
 
       <section class="workbench" aria-label="Harmony workbench">
         <section class="chart-panel" aria-label="Chord chart">
           <div class="section-heading">
             <h2>Chart</h2>
-            <span id="ireal-status" class="status-pill">iReal preserved</span>
+            <div class="transpose-controls" aria-label="Transpose chart">
+              <button id="transpose-down" type="button" aria-label="Transpose down semitone">-</button>
+              <span id="transpose-label">Shift 0</span>
+              <button id="transpose-up" type="button" aria-label="Transpose up semitone">+</button>
+              <button id="transpose-reset" type="button">Reset</button>
+            </div>
           </div>
           <div id="chart-grid" class="chart-grid"></div>
         </section>
 
-        <section class="region-panel" aria-label="Regions">
+        <section class="region-panel" aria-label="Regions and selected analysis">
           <div class="section-heading">
             <h2>Regions</h2>
             <span id="confidence-summary" class="quiet-text"></span>
           </div>
           <div id="region-list" class="region-list"></div>
+          <div id="region-detail" class="region-detail"></div>
         </section>
       </section>
 
       <section class="lower-grid" aria-label="Practice and payload">
-        <section class="practice-panel" aria-label="Practice objects">
+        <section class="practice-panel" aria-label="Practice card">
           <div class="section-heading">
             <h2>Practice</h2>
           </div>
@@ -60,6 +105,7 @@
         <section class="payload-panel" aria-label="iReal payload">
           <div class="section-heading">
             <h2>Payload</h2>
+            <span id="payload-length" class="quiet-text"></span>
           </div>
           <pre id="payload-preview"></pre>
         </section>
