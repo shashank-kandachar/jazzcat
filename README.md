@@ -15,8 +15,24 @@ This first build focuses on:
 
 ```sh
 npm install
+npm run build:preview
 npm test
 npm run analyse -- fixtures/autumn-leaves.html
 ```
 
 The analyser writes JSON only.
+
+## Preview
+
+Build the browser data and serve the static preview:
+
+```sh
+npm run build:preview
+python3 -m http.server 4173
+```
+
+Then open:
+
+```text
+http://localhost:4173/ui/index.html
+```

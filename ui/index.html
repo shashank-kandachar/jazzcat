@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JazzCat Preview</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">JazzCat v0.1</p>
+          <h1 id="tune-title">JazzCat</h1>
+        </div>
+        <dl class="meta-strip" aria-label="Tune metadata">
+          <div>
+            <dt>Key</dt>
+            <dd id="meta-key">-</dd>
+          </div>
+          <div>
+            <dt>Style</dt>
+            <dd id="meta-style">-</dd>
+          </div>
+          <div>
+            <dt>Regions</dt>
+            <dd id="meta-regions">-</dd>
+          </div>
+        </dl>
+      </header>
+
+      <nav class="tune-tabs" id="tune-tabs" aria-label="Tunes"></nav>
+
+      <section class="workbench" aria-label="Harmony workbench">
+        <section class="chart-panel" aria-label="Chord chart">
+          <div class="section-heading">
+            <h2>Chart</h2>
+            <span id="ireal-status" class="status-pill">iReal preserved</span>
+          </div>
+          <div id="chart-grid" class="chart-grid"></div>
+        </section>
+
+        <section class="region-panel" aria-label="Regions">
+          <div class="section-heading">
+            <h2>Regions</h2>
+            <span id="confidence-summary" class="quiet-text"></span>
+          </div>
+          <div id="region-list" class="region-list"></div>
+        </section>
+      </section>
+
+      <section class="lower-grid" aria-label="Practice and payload">
+        <section class="practice-panel" aria-label="Practice objects">
+          <div class="section-heading">
+            <h2>Practice</h2>
+          </div>
+          <div id="practice-list" class="practice-list"></div>
+        </section>
+
+        <section class="payload-panel" aria-label="iReal payload">
+          <div class="section-heading">
+            <h2>Payload</h2>
+          </div>
+          <pre id="payload-preview"></pre>
+        </section>
+      </section>
+    </main>
+
+    <script src="./preview-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
