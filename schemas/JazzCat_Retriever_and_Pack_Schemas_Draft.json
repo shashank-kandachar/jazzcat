@@ -1,0 +1,73 @@
+{
+  "schema_bundle": "jazzcat-schemas-draft-v1",
+  "retrieve_request": {
+    "schema": "jazzcat-retrieve-request-v1",
+    "request_id": "req_example_001",
+    "requested_at": "YYYY-MM-DD",
+    "entity_type": "tune | artist | book | course | media | practice",
+    "entity": {
+      "title": "Example Tune or Book",
+      "artist_or_author": "Example Name",
+      "source": "iReal import | user entry | book upload | manual"
+    },
+    "requested_data": {
+      "tune_overview": true,
+      "artist_profile": true,
+      "iconic_versions": true,
+      "recommended_listening": true,
+      "harmony_context": true,
+      "practice_notes": true,
+      "youtube_backing_track_queries": true,
+      "course_links": true,
+      "book_summary": false
+    }
+  },
+  "knowledge_pack": {
+    "schema": "jazzcat-knowledge-pack-v1",
+    "request_id": "req_example_001",
+    "entities": {
+      "artists": [],
+      "tunes": [],
+      "recordings": [],
+      "course_links": [],
+      "practice_notes": []
+    },
+    "media": {
+      "youtube_search_queries": [],
+      "saved_links": []
+    },
+    "database_actions": [
+      {
+        "action": "upsert_tune | upsert_artist | append_recording | link_tune_to_artist | link_tune_to_course_module | append_media_query | append_user_note",
+        "target": "entity id or title",
+        "preview_summary": "Human-readable preview before import"
+      }
+    ],
+    "source_policy": {
+      "requires_user_review": true,
+      "source_confidence_supported": true
+    }
+  },
+  "book_pack": {
+    "schema": "jazzcat-book-pack-v1",
+    "book": {
+      "title": "",
+      "author": "",
+      "type": "theory | improvisation | guitar | exercises | repertoire",
+      "difficulty": "beginner | intermediate | advanced",
+      "best_used_for": []
+    },
+    "summary": {
+      "short": "",
+      "detailed": ""
+    },
+    "chapter_map": [],
+    "concepts": [],
+    "exercises": [],
+    "course_integration": [],
+    "copyright_policy": {
+      "contains_verbatim_book_text": false,
+      "notes": "Only original summaries, concept maps, short references, user-owned notes, and practice tasks."
+    }
+  }
+}

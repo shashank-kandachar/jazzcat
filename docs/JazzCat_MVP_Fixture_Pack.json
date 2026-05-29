@@ -1,0 +1,147 @@
+{
+  "app": "JazzCat",
+  "fixture_pack": "MVP Five-Tune Benchmark",
+  "purpose": "Test iReal import, metadata extraction, chord normalisation, local key-centre detection, ii–V logic, confidence scoring, and guitarist-friendly practice hints.",
+  "fixtures": [
+    {
+      "level": 2,
+      "title": "Autumn Leaves",
+      "role": "Main golden test",
+      "tests": [
+        "Relative major/minor relationship",
+        "Major ii–V–I into Bb major",
+        "Minor iiø–V–i into G minor",
+        "Temporary minor tonicisation",
+        "Global key versus local key"
+      ],
+      "expected_regions": [
+        "Bb major area",
+        "G minor area",
+        "E minor temporary tonicisation",
+        "G minor return"
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Tune Up",
+      "role": "Clean moving ii–V–I chain test",
+      "tests": [
+        "Sequential ii–V–I movements",
+        "Multiple clear key centres",
+        "Fast but textbook local resolutions"
+      ],
+      "expected_regions": [
+        "D major ii–V–I",
+        "C major ii–V–I",
+        "Bb major ii–V–I",
+        "Turnaround / return movement"
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Blue Bossa",
+      "role": "Minor home key plus major excursion",
+      "tests": [
+        "Minor tonic home base",
+        "Major-key excursion",
+        "Return to minor",
+        "Dominant altered return to home key"
+      ],
+      "expected_regions": [
+        "C minor area",
+        "Db major area",
+        "C minor return"
+      ]
+    },
+    {
+      "level": 4,
+      "title": "Solar",
+      "role": "Ambiguous modern-standard behaviour",
+      "tests": [
+        "Less textbook movement",
+        "Minor-major colour",
+        "Multiple local centres",
+        "Confidence scoring and alternate interpretations"
+      ],
+      "expected_regions": [
+        "C minor / C minor-major colour",
+        "F area",
+        "Eb / Db region depending on chart reading",
+        "ii–V return into C minor"
+      ]
+    },
+    {
+      "level": 5,
+      "title": "All The Things You Are",
+      "role": "Advanced modulation stress test",
+      "tests": [
+        "Fast local key-centre changes",
+        "Chained cadences",
+        "Section-level interpretation",
+        "Lower-confidence and alternate interpretations",
+        "Major/minor shifts"
+      ],
+      "expected_regions": [
+        "Ab major opening area",
+        "C major area",
+        "Eb major area",
+        "G / E minor-related movement",
+        "Ab return"
+      ]
+    }
+  ],
+  "extracted_metadata": [
+    {
+      "filename": "Autumn Leaves.html",
+      "title": "Autumn Leaves",
+      "composer": "Kosma Joseph",
+      "style": "Medium Swing",
+      "declared_key_raw": "G-",
+      "raw_ireal_url_present": true,
+      "decoded_ireal_prefix": "irealb://Autumn Leaves=Kosma Joseph==Medium Swing=G-=0=1r34LbKcu7QyX314C-7XyX7hA|QyX7^bE|yQX7^bB|QyX7F|QyQ|D7b4TA*{X7-CZ,XyQKQyX7-G|QyX31b7|DQyX7hAB*[}  lcKcl L..."
+    },
+    {
+      "filename": "Tune Up.html",
+      "title": "Tune Up",
+      "composer": "Davis Miles",
+      "style": "Up Tempo Swing",
+      "declared_key_raw": "Bb",
+      "raw_ireal_url_present": true,
+      "decoded_ireal_prefix": "irealb://Tune Up=Davis Miles==Up Tempo Swing=Bb==1r34LbKcu7cKQyX-7XyQyX7G|QyX7-DZL clKQyX7^D|QyX7A|Q|C^7E44T{^bB|Q-7XyQQyX7-E1N|QyX7-|GQyX7^bB|QyX7F||F7XyCZL l7..."
+    },
+    {
+      "filename": "Blue Bossa.html",
+      "title": "Blue Bossa",
+      "composer": "Dorham Kenny",
+      "style": "Bossa Nova",
+      "declared_key_raw": "C-",
+      "raw_ireal_url_present": true,
+      "decoded_ireal_prefix": "irealb://Blue Bossa=Dorham Kenny==Bossa Nova=C-==1r34LbKcu7KQyX7-7XyQX9#7G|QyX7hDZLl cKQyX7-FZL lcKyQ|C-C44T[-C|QyEb-7X|QyX7hDZL lcKQXy7^bD|QyX7bA|QyG7b9XZL lc7..."
+    },
+    {
+      "filename": "Solar.html",
+      "title": "Solar",
+      "composer": "Davis Miles",
+      "style": "Medium Swing",
+      "declared_key_raw": "C-",
+      "raw_ireal_url_present": true,
+      "decoded_ireal_prefix": "irealb://Solar=Davis Miles==Medium Swing=C-==1r34LbKcu7bB|Qy-6XyQL lcKQyX7^F|Qy7XC|QyX7-GZL lcKZF-7XC44T[7XyQ|Eb^7XyQ|Eb-7 Ab7LZDb^7XyQ|Dh7 G7b9 Z ==230=1"
+    },
+    {
+      "filename": "All The Things You Are.html",
+      "title": "All The Things You Are",
+      "composer": "Kern Jerome",
+      "style": "Medium Up Swing",
+      "declared_key_raw": "Ab",
+      "raw_ireal_url_present": true,
+      "decoded_ireal_prefix": "irealb://All The Things You Are=Kern Jerome==Medium Up Swing=Ab==1r34LbKcu77G 7-4F-7X7^bD|QyX7^bA|QXy7bE|QyX7-bB|QyXyQ|D4T[A*7^bA|XyQKcbE|QyX7bB|QyX7F-|QyX7-C[B..."
+    }
+  ],
+  "recommended_next_codex_task": [
+    "Add these five HTML files to fixtures/",
+    "Create a fixture manifest from this JSON",
+    "Implement metadata extraction tests for all five files",
+    "Use manual chord-array fallbacks for harmony analysis until full iReal chord-body decoding is stable",
+    "Create golden expected-analysis JSON files for Autumn Leaves, Tune Up, Blue Bossa, Solar, and All The Things You Are"
+  ]
+}

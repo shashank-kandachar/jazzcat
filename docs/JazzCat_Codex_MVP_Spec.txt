@@ -1,0 +1,532 @@
+# JazzCat — Codex-Ready MVP Specification
+
+## 1. Product Purpose
+
+JazzCat is a jazz harmony helper for musicians, especially guitarists. It accepts an iReal Pro chart or a plain chord chart, extracts the chords, detects local key centres, identifies common jazz cadences, and gives practical improvisation hints.
+
+The app should answer:
+
+- Where is the harmony resolving?
+- Is this a ii–V–I, minor iiø–V–i, V–I, secondary dominant, backdoor movement, or tritone-sub movement?
+- Can I simplify this passage by thinking mainly from the V chord?
+- What should I resolve into?
+
+The product should be useful for practising, teaching, and understanding jazz standards.
+
+Working name: JazzCat
+
+---
+
+## 2. MVP Scope
+
+Version 1 should be deliberately small and testable.
+
+### Input
+
+Support:
+
+1. iReal Pro HTML export containing an `irealb://...` link.
+2. Direct pasted `irealb://...` string.
+3. Plain text chord chart later, if easy.
+
+### Output
+
+Produce structured JSON first, before building a full UI.
+
+The first prototype should output:
+
+- title
+- composer, if available
+- declared key
+- style
+- tempo
+- parsed chord sequence
+- detected local key centres
+- detected harmonic functions
+- confidence levels
+- guitarist-friendly practice hints
+
+The first implementation does not need to play audio or render a beautiful chord chart. It only needs to parse and analyse.
+
+---
+
+## 3. Seed Test Case
+
+Use Shashank's uploaded `Autumn Leaves.html` iReal Pro export as the first golden test.
+
+Visible metadata from the file:
+
+- Title: Autumn Leaves
+- Composer: Joseph Kosma
+- Style: Medium Swing
+- Declared key: G minor / G-
+- Tempo: 112
+- Export source: iReal Pro HTML
+
+The file contains an `irealb://...` link with the chart payload.
+
+---
+
+## 4. Desired Musical Analysis for Autumn Leaves
+
+JazzCat should eventually recognise the broad movement of Autumn Leaves in G minor:
+
+### Opening major-region cadence
+
+Cm7 | F7 | Bbmaj7 | Ebmaj7
+
+Expected analysis:
+
+- Local key centre: Bb major
+- Function: ii–V–I–IV
+- Practice hint: Think F7 language over the ii–V and resolve into Bbmaj7.
+
+### Minor cadence into global tonic
+
+Am7b5 | D7b9 | Gm
+
+Expected analysis:
+
+- Local key centre: G minor
+- Function: iiø–V–i
+- Practice hint: Think D7 altered or D Phrygian dominant, then resolve to G minor chord tones.
+
+### Temporary minor tonicisation
+
+F#m7b5 | B7 | Em
+
+Expected analysis:
+
+- Local key centre: E minor
+- Function: iiø–V–i
+- Practice hint: Think B7 tension, then resolve to E minor.
+
+### Return to global tonic
+
+Am7b5 | D7b13 | Gm
+
+Expected analysis:
+
+- Local key centre: G minor
+- Function: iiø–V–i
+- Practice hint: Think D7 altered or D Phrygian dominant, then resolve to G minor.
+
+---
+
+## 5. iReal Parsing Requirements
+
+The parser should:
+
+1. Accept HTML as input.
+2. Locate the first `irealb://...` URL in the HTML.
+3. URL-decode the link.
+4. Split the iReal metadata fields as far as possible.
+5. Extract:
+   - title
+   - composer
+   - style
+   - declared key
+   - tempo
+   - encoded chord body
+6. Decode or translate the chord body into a normalised internal chord list.
+
+Important: iReal Pro's internal chord-body grammar may require iterative reverse-engineering. Start by preserving the raw chord body, then add decoding rules incrementally.
+
+Do not block the MVP on a perfect iReal parser. If needed, allow a manually supplied parsed chord sequence for the first harmony-engine tests.
+
+---
+
+## 6. Chord Normalisation
+
+Create a normalised chord model.
+
+Example:
+
+```json
+{
+  "root": "C",
+  "quality": "m7",
+  "bass": null,
+  "extensions": [],
+  "raw": "Cm7"
+}
+```
+
+Support at minimum:
+
+- maj7
+- m7
+- dominant 7
+- m7b5 / half-diminished
+- diminished
+- minor triad
+- major triad
+- altered dominants with b9, #9, b5/#11, #5/b13
+- slash chords, if encountered
+
+Examples:
+
+- C-7 → Cm7
+- Cmin7 → Cm7
+- C∆7 → Cmaj7
+- C^7 → Cmaj7
+- C7b9 → C7(b9)
+- C7b13 → C7(b13)
+- Cø7 → Cm7b5
+- C-7b5 → Cm7b5
+
+---
+
+## 7. Harmony Detection Rules
+
+Build the harmony engine as a rule-based analyser first.
+
+### 7.1 Major ii–V–I
+
+Pattern:
+
+m7 chord → dominant 7 chord → maj7/major chord
+
+Root movement:
+
+ii root moves up a perfect fourth to V.
+V root moves up a perfect fourth to I.
+
+Example:
+
+Dm7 | G7 | Cmaj7
+
+Output:
+
+- local_key: C major
+- function: ii–V–I
+- confidence: high
+- practice_hint: Think G7 language, then resolve to Cmaj7.
+
+### 7.2 Major ii–V without I
+
+Pattern:
+
+m7 chord → dominant 7 chord
+
+Example:
+
+Dm7 | G7
+
+Output:
+
+- implied_key: C major
+- function: ii–V
+- confidence: medium/high depending on next chord
+- practice_hint: Think G7 language; expect resolution to C.
+
+### 7.3 Minor iiø–V–i
+
+Pattern:
+
+m7b5 chord → dominant 7 altered/b9/b13 chord → minor chord
+
+Example:
+
+Am7b5 | D7b9 | Gm
+
+Output:
+
+- local_key: G minor
+- function: iiø–V–i
+- confidence: high
+- practice_hint: Think D7 altered or D Phrygian dominant, then resolve to G minor.
+
+### 7.4 Minor iiø–V without i
+
+Pattern:
+
+m7b5 chord → dominant 7 chord
+
+Example:
+
+Am7b5 | D7b9
+
+Output:
+
+- implied_key: G minor
+- function: iiø–V
+- confidence: medium/high depending on next chord
+- practice_hint: Think D7 tension; expect resolution to G minor.
+
+### 7.5 V–I / V–i
+
+Pattern:
+
+dominant 7 chord resolving up a perfect fourth or down a perfect fifth.
+
+Examples:
+
+G7 | Cmaj7
+G7 | Cm
+
+Output:
+
+- local_key: C major or C minor
+- function: V–I or V–i
+- confidence: high
+- practice_hint: Think G7 tension, then resolve to C chord tones.
+
+### 7.6 Secondary Dominants
+
+Pattern:
+
+dominant 7 chord resolving to a diatonic or temporary target that is not the global tonic.
+
+Example in C major:
+
+A7 | Dm7
+
+Output:
+
+- local_key: D minor or D as temporary target
+- function: V/ii
+- confidence: medium/high
+- practice_hint: Treat A7 as a temporary V resolving to Dm.
+
+### 7.7 Tritone Substitution
+
+Pattern:
+
+dominant 7 chord resolving down a half-step to the target.
+
+Example:
+
+Db7 | Cmaj7
+
+Output:
+
+- local_key: C major
+- function: tritone sub for G7 resolving to I
+- confidence: medium/high
+- practice_hint: Treat Db7 as altered G7 colour resolving to C.
+
+### 7.8 Backdoor ii–V
+
+Pattern:
+
+ivm7 → bVII7 → I major
+
+Example:
+
+Fm7 | Bb7 | Cmaj7
+
+Output:
+
+- local_key: C major
+- function: backdoor ii–V to I
+- confidence: medium/high
+- practice_hint: Use Bb7/backdoor dominant colour resolving to C major.
+
+### 7.9 Ambiguity
+
+When multiple interpretations are possible, return more than one candidate.
+
+Example:
+
+Dm7 | G7 | Em7 | A7
+
+Possible:
+
+- ii–V in C, then ii–V in D
+- turnaround fragment
+
+Output should include:
+
+- candidates
+- confidence
+- reason
+
+Do not overstate certainty.
+
+---
+
+## 8. Practice Hint Rules
+
+The hints should be short and guitarist-friendly.
+
+For major ii–V–I:
+
+"Think [V7] language, then resolve to [I]."
+
+Example:
+
+Dm7 | G7 | Cmaj7
+
+Hint:
+
+"Think G7 language across the ii–V, then resolve to Cmaj7."
+
+For minor iiø–V–i:
+
+"Think [V7] altered or Phrygian dominant, then resolve to [i minor]."
+
+Example:
+
+Am7b5 | D7b9 | Gm
+
+Hint:
+
+"Think D7 altered or D Phrygian dominant, then resolve to G minor."
+
+For tritone sub:
+
+"Treat [subV7] as tritone colour for [real V7], then resolve to [I]."
+
+Example:
+
+Db7 | Cmaj7
+
+Hint:
+
+"Treat Db7 as tritone colour for G7, then resolve to Cmaj7."
+
+---
+
+## 9. Suggested JSON Output Shape
+
+```json
+{
+  "app": "JazzCat",
+  "version": "0.1",
+  "source": {
+    "type": "ireal_html",
+    "filename": "Autumn Leaves.html"
+  },
+  "metadata": {
+    "title": "Autumn Leaves",
+    "composer": "Joseph Kosma",
+    "declared_key": "G minor",
+    "style": "Medium Swing",
+    "tempo": 112
+  },
+  "analysis": [
+    {
+      "span": {
+        "start_bar": 1,
+        "end_bar": 4
+      },
+      "chords": ["Cm7", "F7", "Bbmaj7", "Ebmaj7"],
+      "local_key": "Bb major",
+      "function": "ii–V–I–IV",
+      "confidence": "high",
+      "practice_hint": "Think F7 language across the ii–V, then resolve to Bbmaj7."
+    },
+    {
+      "span": {
+        "start_bar": 5,
+        "end_bar": 8
+      },
+      "chords": ["Am7b5", "D7b9", "Gm"],
+      "local_key": "G minor",
+      "function": "iiø–V–i",
+      "confidence": "high",
+      "practice_hint": "Think D7 altered or D Phrygian dominant, then resolve to G minor."
+    }
+  ],
+  "warnings": []
+}
+```
+
+---
+
+## 10. Prototype Architecture
+
+Suggested stack for first prototype:
+
+- TypeScript
+- Node.js CLI first
+- Later: React / Next.js UI
+
+Initial file structure:
+
+```text
+jazzcat/
+  src/
+    parser/
+      extractIrealLink.ts
+      parseIrealMetadata.ts
+      normaliseChord.ts
+    harmony/
+      intervals.ts
+      detectCadences.ts
+      analyseProgression.ts
+      practiceHints.ts
+    tests/
+      autumnLeaves.test.ts
+      cadenceRules.test.ts
+  fixtures/
+    Autumn Leaves.html
+  package.json
+  README.md
+```
+
+---
+
+## 11. First Codex Task
+
+Ask Codex to build this first:
+
+1. Create a TypeScript project called `jazzcat`.
+2. Add a CLI command:
+   `npm run analyse fixtures/Autumn\ Leaves.html`
+3. Extract the `irealb://...` link from the HTML.
+4. URL-decode it.
+5. Parse visible metadata where possible.
+6. For now, allow a manually supplied chord array for Autumn Leaves while the iReal chord-body decoder is under development.
+7. Run harmony analysis on the manual Autumn Leaves chord sequence.
+8. Output JSON in the shape described above.
+9. Add tests for:
+   - Dm7 G7 Cmaj7 → C major ii–V–I
+   - Am7b5 D7b9 Gm → G minor iiø–V–i
+   - Db7 Cmaj7 → tritone sub to C
+   - Fm7 Bb7 Cmaj7 → backdoor ii–V to C
+   - Autumn Leaves expected regions
+
+---
+
+## 12. Later UI Direction
+
+The UI should show:
+
+- chart title and global key
+- chord chart grid
+- coloured local key regions
+- clickable spans showing analysis
+- "think V" hint above ii–V movement
+- optional scale suggestions
+- confidence badges
+
+Example display:
+
+```text
+Autumn Leaves — G minor
+
+[ Bb major area ]
+Cm7    F7    Bbmaj7    Ebmaj7
+       Think F7 → resolve Bb
+
+[ G minor area ]
+Am7b5  D7b9  Gm
+       Think D7alt → resolve Gm
+```
+
+---
+
+## 13. Important Design Principle
+
+JazzCat should not pretend harmony has only one correct answer.
+
+It should show:
+
+- best interpretation
+- confidence level
+- alternate interpretation when useful
+- practical improvising shortcut
+
+The product should feel like a helpful jazz teacher, not a rigid theory examiner.

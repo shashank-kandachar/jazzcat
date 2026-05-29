@@ -1,0 +1,48 @@
+# JazzCat MVP Fixture Pack Notes
+
+This five-tune pack is the recommended controlled benchmark for JazzCat v0.1.
+
+## Fixture order
+
+1. Autumn Leaves — main golden test
+2. Tune Up — clean moving ii–V–I chain test
+3. Blue Bossa — minor key with major excursion
+4. Solar — ambiguous modern-standard behaviour
+5. All The Things You Are — advanced modulation stress test
+
+## Build strategy
+
+Do not require full iReal chord-body decoding before testing the harmony engine.
+
+Use two parallel paths:
+
+1. iReal import path:
+   - Load the HTML.
+   - Extract the irealb:// URL.
+   - Decode metadata.
+   - Preserve the raw chord payload.
+
+2. Manual harmony fixture path:
+   - Provide manually curated chord arrays for each tune.
+   - Run the harmony analyser on those arrays.
+   - Compare against expected local-key regions.
+
+This lets JazzCat develop the parser and the jazz engine independently.
+
+## Why this pack works
+
+Autumn Leaves proves the core idea.
+Tune Up proves clean key-centre movement.
+Blue Bossa proves minor/major contrast.
+Solar forces confidence scoring.
+All The Things You Are stress-tests fast modulation.
+
+## MVP success criterion
+
+JazzCat v0.1 should not perfectly solve every tune. It should:
+
+- extract metadata from all five iReal files;
+- correctly analyse the obvious ii–V and iiø–V spans;
+- mark local key centres with confidence;
+- give useful “think V → resolve” practice hints;
+- avoid overclaiming ambiguous areas.

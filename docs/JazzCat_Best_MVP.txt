@@ -1,0 +1,507 @@
+# JazzCat — Best MVP Definition
+
+## Core Promise
+
+JazzCat helps a jazz musician look at a chord chart and quickly understand:
+
+1. What local key centre am I in?
+2. What cadence or harmonic function is happening?
+3. Over a ii–V–I, what V chord can I think from?
+4. Where should the line resolve?
+5. What are the practical scale choices?
+
+JazzCat should feel like a compact jazz teacher sitting above the chart.
+
+---
+
+## MVP Tagline
+
+Paste an iReal chart. JazzCat marks the local key centres, detects ii–V movement, and tells you what dominant sound to practise.
+
+---
+
+## MVP Input
+
+Version 1 should accept:
+
+1. iReal Pro HTML export containing an `irealb://...` link.
+2. Direct pasted `irealb://...` link.
+3. Manual chord-array fallback for testing.
+
+Manual fallback is important. The iReal parser can be improved gradually, but the harmony engine must be testable immediately.
+
+---
+
+## MVP Output
+
+The first prototype should output structured JSON, then a simple UI.
+
+For each detected harmonic span, JazzCat should show:
+
+- chord span
+- local key centre
+- function
+- “think V” shortcut
+- resolution target
+- inside scale suggestion
+- tension scale suggestion
+- confidence score
+- short explanation
+
+Example:
+
+Dm7 | G7 | Cmaj7
+
+Output:
+
+Local key: C major
+Function: ii–V–I
+Think V: G7
+Resolve to: Cmaj7
+Inside: G Mixolydian / C major
+Tension: G altered / Ab melodic minor
+Confidence: High
+Explanation: Dm7 to G7 to Cmaj7 matches a textbook major ii–V–I in C.
+
+---
+
+## Best MVP Feature Set
+
+### 1. iReal Import Shell
+
+Must do:
+
+- Load HTML file.
+- Extract the `irealb://...` URL.
+- URL-decode the data.
+- Extract visible metadata:
+  - title
+  - composer
+  - style
+  - declared key
+  - tempo
+- Preserve raw iReal chord payload.
+
+Should not block MVP:
+
+- Perfectly decoding every iReal symbol.
+- Handling every repeat, coda, ending, rehearsal mark, or layout symbol.
+
+### 2. Manual Chord Input Fallback
+
+Because iReal chord-body decoding may take time, v1 should also allow this:
+
+```json
+{
+  "title": "Autumn Leaves",
+  "declared_key": "G minor",
+  "chords": [
+    ["Cm7", "F7", "Bbmaj7", "Ebmaj7"],
+    ["Am7b5", "D7b9", "Gm"],
+    ["F#m7b5", "B7", "Em"],
+    ["Am7b5", "D7b13", "Gm"]
+  ]
+}
+```
+
+This lets Codex build and test the jazz harmony engine immediately.
+
+### 3. Chord Normaliser
+
+Support these forms:
+
+- C-7 → Cm7
+- Cmin7 → Cm7
+- C∆7 → Cmaj7
+- C^7 → Cmaj7
+- C7b9 → C7(b9)
+- C7b13 → C7(b13)
+- Cø7 → Cm7b5
+- C-7b5 → Cm7b5
+- Cdim7 → Cdim7
+- C/G → C slash G
+
+Internal model:
+
+```json
+{
+  "raw": "D7b9",
+  "root": "D",
+  "quality": "7",
+  "extensions": ["b9"],
+  "bass": null
+}
+```
+
+### 4. Harmony Detection Engine
+
+This is the heart of JazzCat.
+
+Detect these first:
+
+#### Major ii–V–I
+
+Dm7 | G7 | Cmaj7
+
+Output:
+
+- Local key: C major
+- Function: ii–V–I
+- Think V: G7
+- Resolve to: Cmaj7
+- Confidence: High
+
+#### Major ii–V
+
+Dm7 | G7
+
+Output:
+
+- Implied key: C major
+- Function: ii–V
+- Think V: G7
+- Expected resolution: C
+- Confidence: Medium/High
+
+#### Minor iiø–V–i
+
+Am7b5 | D7b9 | Gm
+
+Output:
+
+- Local key: G minor
+- Function: iiø–V–i
+- Think V: D7
+- Resolve to: Gm
+- Confidence: High
+
+#### Minor iiø–V
+
+Am7b5 | D7b9
+
+Output:
+
+- Implied key: G minor
+- Function: iiø–V
+- Think V: D7
+- Expected resolution: Gm
+- Confidence: Medium/High
+
+#### V–I / V–i
+
+G7 | Cmaj7
+G7 | Cm
+
+Output:
+
+- Local key: C major or C minor
+- Function: V–I / V–i
+- Think V: G7
+- Resolve to: C
+- Confidence: High
+
+#### Secondary Dominant
+
+A7 | Dm7
+
+Output:
+
+- Temporary target: D minor
+- Function: V/ii or V of Dm
+- Think V: A7
+- Resolve to: Dm7
+- Confidence: Medium/High
+
+#### Tritone Sub
+
+Db7 | Cmaj7
+
+Output:
+
+- Local key: C major
+- Function: tritone substitute for G7 resolving to I
+- Think V: G7 altered colour through Db7
+- Resolve to: Cmaj7
+- Confidence: Medium/High
+
+#### Backdoor ii–V
+
+Fm7 | Bb7 | Cmaj7
+
+Output:
+
+- Local key: C major
+- Function: backdoor ii–V to I
+- Think V: Bb7 backdoor dominant colour
+- Resolve to: Cmaj7
+- Confidence: Medium/High
+
+---
+
+## Golden Test Ladder
+
+Do not start with only difficult tunes. Use a ladder.
+
+### Level 1 — Unit Cadence Tests
+
+1. Dm7 | G7 | Cmaj7
+2. Am7b5 | D7b9 | Gm
+3. G7 | Cmaj7
+4. Db7 | Cmaj7
+5. Fm7 | Bb7 | Cmaj7
+6. A7 | Dm7
+
+These prove the rule engine works.
+
+### Level 2 — Autumn Leaves
+
+This is the main golden tune.
+
+Expected broad analysis:
+
+Global key: G minor
+
+Cm7 | F7 | Bbmaj7 | Ebmaj7
+= Bb major area
+= ii–V–I–IV
+
+Am7b5 | D7b9 | Gm
+= G minor area
+= iiø–V–i
+
+F#m7b5 | B7 | Em
+= E minor temporary tonicisation
+= iiø–V–i
+
+Am7b5 | D7b13 | Gm
+= G minor return
+= iiø–V–i
+
+### Level 3 — Tune Up
+
+Tests clear ii–V–I movement through multiple keys.
+
+Expected broad behaviour:
+
+Em7 | A7 | Dmaj7
+= D major ii–V–I
+
+Dm7 | G7 | Cmaj7
+= C major ii–V–I
+
+Cm7 | F7 | Bbmaj7
+= Bb major ii–V–I
+
+### Level 4 — Blue Bossa
+
+Tests minor home key plus major-key excursion.
+
+Expected broad behaviour:
+
+C minor area
+Db major ii–V–I area
+C minor return
+
+### Level 5 — All The Things You Are
+
+Use as an advanced benchmark, not the first proof.
+
+Expected purpose:
+
+- fast local key-centre changes
+- section-level interpretation
+- chained modulations
+- confidence scoring
+- alternate interpretations
+
+JazzCat v1 does not need to perfectly solve All The Things You Are, but it should produce useful local cadence analysis and clearly mark lower-confidence regions.
+
+---
+
+## Guitarist Mode
+
+This is the killer MVP feature.
+
+For every ii–V or ii–V–I, show:
+
+- Think V:
+- Resolve to:
+- Inside sound:
+- Tension sound:
+- Target tones:
+
+Example:
+
+Dm7 | G7 | Cmaj7
+
+Think V: G7
+Resolve to: Cmaj7
+Inside sound: G Mixolydian / C major
+Tension sound: G altered / Ab melodic minor
+Target tones: B → C, F → E
+
+Example:
+
+Am7b5 | D7b9 | Gm
+
+Think V: D7
+Resolve to: G minor
+Inside/tension sound: D altered, D Phrygian dominant, G harmonic minor context
+Target tones: F# → G, C → Bb or B depending on colour, Eb → D
+
+---
+
+## Confidence System
+
+Use simple confidence labels:
+
+High:
+- exact ii–V–I or iiø–V–i resolution
+- clear V–I / V–i
+- root movement confirms target
+
+Medium:
+- ii–V without visible I
+- secondary dominant with likely target
+- tritone sub with clear half-step resolution
+- backdoor movement
+
+Low:
+- ambiguous turnaround
+- unresolved dominant
+- non-functional modal movement
+- chord quality unclear
+
+Always allow alternate candidates.
+
+Example:
+
+```json
+{
+  "primary": {
+    "local_key": "C major",
+    "function": "ii–V",
+    "confidence": "medium"
+  },
+  "alternates": [
+    {
+      "local_key": "A minor",
+      "reason": "Could be part of a longer turnaround depending on next bar."
+    }
+  ]
+}
+```
+
+---
+
+## First UI
+
+Keep it extremely simple.
+
+Screen layout:
+
+1. Top bar:
+   - JazzCat
+   - chart title
+   - global/declarative key
+   - tempo/style
+
+2. Main chart area:
+   - chord grid
+   - local key regions above bars
+   - highlighted ii–V spans
+
+3. Side panel:
+   - selected span analysis
+   - function
+   - think-V shortcut
+   - scale suggestions
+   - explanation
+   - confidence
+   - alternate interpretation if present
+
+Example:
+
+```text
+Autumn Leaves — G minor
+
+[Bb major area]
+Cm7    F7    Bbmaj7    Ebmaj7
+       Think F7 → resolve Bb
+
+[G minor area]
+Am7b5  D7b9  Gm
+       Think D7alt → resolve Gm
+```
+
+---
+
+## What Not To Build Yet
+
+Avoid these in v1:
+
+- audio playback
+- backing tracks
+- Spotify / YouTube import
+- automatic melody analysis
+- full reharmonisation engine
+- machine learning
+- advanced engraving
+- mobile app polish
+- every iReal symbol
+- perfect repeat/coda playback order
+
+The MVP should prove the harmony engine first.
+
+---
+
+## Codex First Build Instruction
+
+Build JazzCat v0.1 as a TypeScript CLI + minimal web preview.
+
+Required:
+
+1. Create a TypeScript project.
+2. Add an analyser CLI.
+3. Accept an iReal HTML file path.
+4. Extract and decode the `irealb://...` link.
+5. Extract visible metadata.
+6. Preserve raw iReal chord payload.
+7. Add manual chord-array fallback fixtures.
+8. Implement chord normalisation.
+9. Implement harmony detection rules:
+   - major ii–V–I
+   - major ii–V
+   - minor iiø–V–i
+   - minor iiø–V
+   - V–I / V–i
+   - secondary dominant
+   - tritone sub
+   - backdoor ii–V
+10. Generate JSON analysis.
+11. Add tests for Level 1 cadence examples.
+12. Add Autumn Leaves as the first golden tune.
+13. Build a minimal UI after tests pass.
+
+---
+
+## Success Criteria
+
+JazzCat MVP succeeds if it can:
+
+1. Load the Autumn Leaves iReal HTML export.
+2. Extract chart metadata.
+3. Analyse a manual Autumn Leaves chord sequence.
+4. Correctly identify Bb major, G minor, and E minor local areas.
+5. Mark ii–V and iiø–V–i spans.
+6. Tell the guitarist which V chord to think from.
+7. Show the resolution target.
+8. Give useful scale suggestions.
+9. Mark confidence clearly.
+10. Avoid pretending ambiguous harmony is certain.
+
+---
+
+## One-Sentence MVP
+
+JazzCat v0.1 accepts an iReal chart, extracts the tune metadata, analyses the chord progression for local key centres and ii–V movement, and gives guitarist-friendly “think the V, resolve here” practice guidance.

@@ -1,0 +1,18 @@
+{
+  "name": "jazzcat",
+  "version": "0.1.0",
+  "description": "JazzCat v0.1 harmony analysis prototype.",
+  "type": "module",
+  "scripts": {
+    "analyse": "node --experimental-strip-types src/cli/analyse.ts",
+    "test": "node --experimental-strip-types --test tests/*.test.ts"
+  },
+  "keywords": [
+    "jazz",
+    "harmony",
+    "ireal",
+    "guitar"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}

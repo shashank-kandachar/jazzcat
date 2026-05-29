@@ -1,0 +1,92 @@
+# JazzCat Product Architecture Addendum
+
+JazzCat should become a personal jazz study environment:
+
+- chart analysis
+- local key-centre detection
+- transposition
+- colour-coded harmony regions
+- guitar practice drills
+- structured jazz-guitar course
+- uploaded book summaries
+- tune and artist pages
+- backing-track/media references
+- Retriever JSON packs for external knowledge enrichment
+
+## Modules
+
+### JazzCat Core
+Pure harmony intelligence: chord parsing, normalisation, transposition, cadence detection, local key centres, semantic regions, scale suggestions, and practice objects.
+
+### JazzCat Import
+External chart inputs: iReal Pro HTML, direct irealb:// links, manual chord arrays, and future plain-text charts.
+
+### JazzCat Course
+Structured jazz-guitar learning path. Unit formula:
+Concept → guitar shape/grip → exercise → variation → 12-key drill → tune application.
+
+### JazzCat Guitar
+Guitar-specific translation: fretboard positions, string sets, guide tones, arpeggios, shell voicings, comping grips, lick transposition, and daily practice queues.
+
+### JazzCat Media
+Backing tracks, listening links, iconic versions, saved YouTube queries, source/confidence metadata, and later optional API search.
+
+### JazzCat Library
+Uploaded books and course enrichment. Store original summaries, chapter maps, concepts, exercises, course links, and user notes. Do not store large verbatim copyrighted text.
+
+### JazzCat Knowledge
+Artist pages and tune pages: bios, eras, recordings, listening paths, study angles, harmony notes, course links, media links, and user notes.
+
+### JazzCat Retriever
+Exports request JSON and imports knowledge/book/media/course packs.
+
+Workflow:
+JazzCat exports Retrieve Request JSON → user brings it to ChatGPT/Cee → ChatGPT returns Knowledge Pack JSON → JazzCat previews database actions → user approves import → local database updates.
+
+Retriever request types:
+- tune_research
+- artist_research
+- book_summary
+- course_enrichment
+- recording_list
+- backing_track_search
+- harmony_context
+- practice_pack
+
+Pack types:
+- jazzcat-knowledge-pack-v1
+- jazzcat-book-pack-v1
+- jazzcat-course-pack-v1
+- jazzcat-practice-pack-v1
+- jazzcat-media-pack-v1
+- jazzcat-database-update-v1
+
+Database actions:
+- upsert_tune
+- upsert_artist
+- append_recording
+- append_user_note
+- link_tune_to_artist
+- link_tune_to_course_module
+- merge_concepts
+- replace_summary
+- append_media_query
+- append_backing_track_candidate
+
+All imports must be previewable before applying.
+
+## Early priority
+
+Build now:
+1. jazzcat-core
+2. jazzcat-import
+3. jazzcat-cli
+4. test fixtures
+5. type/schema foundations for Course, Guitar, Media, Library, Knowledge, and Retriever
+
+Build later:
+1. full UI
+2. YouTube/API integration
+3. book PDF parsing
+4. playback engine
+5. advanced guitar practice UI
