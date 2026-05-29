@@ -10,7 +10,7 @@
     <main class="app-shell">
       <header class="topbar">
         <div>
-          <p class="eyebrow">JazzCat v0.2</p>
+          <p class="eyebrow">JazzCat v0.3</p>
           <h1 id="tune-title">JazzCat</h1>
         </div>
         <dl class="meta-strip" aria-label="Tune metadata">
@@ -63,6 +63,22 @@
             <button id="analyse-upload-button" type="button">Analyse</button>
           </div>
         </div>
+
+        <div class="import-control plain-text-control">
+          <label for="plain-title-input">Plain Text Title</label>
+          <input id="plain-title-input" type="text" placeholder="Untitled Progression" />
+        </div>
+
+        <div class="import-control plain-text-control">
+          <label for="plain-key-input">Declared Key</label>
+          <input id="plain-key-input" type="text" placeholder="Optional, e.g. C major" />
+        </div>
+
+        <div class="import-control plain-text-area-control">
+          <label for="plain-text-input">Plain Text Chords</label>
+          <textarea id="plain-text-input" rows="4" spellcheck="false">| Dm7 G7 | Cmaj7 | Cmaj7 |</textarea>
+          <button id="analyse-plain-text-button" type="button">Analyse Plain Text</button>
+        </div>
       </section>
 
       <section class="status-row" aria-live="polite">
@@ -95,11 +111,23 @@
       </section>
 
       <section class="lower-grid" aria-label="Practice and payload">
-        <section class="practice-panel" aria-label="Practice card">
+        <section class="practice-panel" aria-label="Practice Mode">
           <div class="section-heading">
-            <h2>Practice</h2>
+            <h2>Practice Mode</h2>
+            <div class="pack-actions">
+              <select id="key-trainer-mode" aria-label="Key trainer mode">
+                <option value="original">Original</option>
+                <option value="up_whole_step">Up whole step</option>
+                <option value="down_minor_third">Down minor third</option>
+                <option value="cycle_of_fourths">Cycle of fourths</option>
+                <option value="random_3_keys">Random 3 keys</option>
+              </select>
+              <button id="copy-pack-button" type="button">Copy JSON</button>
+              <button id="download-pack-button" type="button">Download JSON</button>
+            </div>
           </div>
           <div id="practice-list" class="practice-list"></div>
+          <div id="key-trainer-list" class="key-trainer-list"></div>
         </section>
 
         <section class="payload-panel" aria-label="iReal payload">

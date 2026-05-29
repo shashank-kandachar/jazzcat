@@ -4,16 +4,26 @@ import { analyseProgression } from "../core/harmony/analyseProgression.ts";
 import { preferFlatNames } from "../core/harmony/intervals.ts";
 import { transposeChart } from "../core/chord/transposeChord.ts";
 import type { ManualTuneFixture } from "../fixtures/manualChordFixtures.ts";
+import type { PlainTextChart } from "../import/parsePlainTextChart.ts";
+import { parsePlainTextChart } from "../import/parsePlainTextChart.ts";
 import { formatTransposeShift, wrapTransposeShift } from "./transposeControls.ts";
 
 export interface UiChordViewModel {
   bar: number;
+  sequence_index: number;
   symbol: string;
   root: string;
   quality: string;
   extensions: string[];
   bass: string | null;
   region_id: string | null;
+  colour_role: string | null;
+}
+
+export interface UiBarViewModel {
+  bar: number;
+  chords: UiChordViewModel[];
+  region_ids: string[];
   colour_role: string | null;
 }
 
@@ -30,7 +40,7 @@ export interface UiIrealPayloadViewModel {
 
 export interface ChartViewModel {
   id: string;
-  source_kind: "demo" | "pasted_ireal" | "uploaded_html" | "unknown_ireal";
+  source_kind: "demo" | "pasted_ireal" | "uploaded_html" | "unknown_ireal" | "plain_text";
   title: string;
   composer: string | null;
   declared_key: string | null;
@@ -39,6 +49,7 @@ export interface ChartViewModel {
   current_transposition_shift: number;
   current_transposition_label: string;
   expected_regions: string[];
+  bars: UiBarViewModel[];
   chords: UiChordViewModel[];
   regions: SemanticRegion[];
   analysis: HarmonyAnalysis[];
@@ -74,6 +85,10 @@ function regionForBar(regions: SemanticRegion[], bar: number): SemanticRegion | 
   return regions.find((region) => bar >= region.start_bar && bar <= region.end_bar) ?? null;
 }
 
+function regionForSequence(regions: SemanticRegion[], sequenceIndex: number): SemanticRegion | null {
+  return regions.find((region) => sequenceIndex >= region.start_bar && sequenceIndex <= region.end_bar) ?? null;
+}
+
 function metadataKey(metadata: IrealMetadata | undefined, fallback: ManualTuneFixture): string | null {
   return metadata?.declared_key ?? fallback.declared_key ?? null;
 }
@@ -84,6 +99,20 @@ export function createChartViewModel(fixture: ManualTuneFixture, options: ChartV
   const preferFlats = preferFlatNames(metadataKey(metadata, fixture), fixture.declared_key, ...fixture.chords);
   const shiftedChords = shift === 0 ? fixture.chords : transposeChart(fixture.chords, shift, { preferFlats });
   const analysed = analyseProgression(shiftedChords);
+  const chords = analysed.chords.map((chord) => {
+    const region = regionForBar(analysed.regions, chord.bar);
+    return {
+      bar: chord.bar,
+      sequence_index: chord.bar,
+      symbol: chord.parsed.symbol,
+      root: chord.parsed.root,
+      quality: chord.parsed.quality,
+      extensions: chord.parsed.extensions,
+      bass: chord.parsed.bass,
+      region_id: region?.region_id ?? null,
+      colour_role: region?.colour_role ?? null
+    };
+  });
 
   return {
     id: fixture.slug,
@@ -96,19 +125,13 @@ export function createChartViewModel(fixture: ManualTuneFixture, options: ChartV
     current_transposition_shift: shift,
     current_transposition_label: formatTransposeShift(shift),
     expected_regions: fixture.expected_regions,
-    chords: analysed.chords.map((chord) => {
-      const region = regionForBar(analysed.regions, chord.bar);
-      return {
-        bar: chord.bar,
-        symbol: chord.parsed.symbol,
-        root: chord.parsed.root,
-        quality: chord.parsed.quality,
-        extensions: chord.parsed.extensions,
-        bass: chord.parsed.bass,
-        region_id: region?.region_id ?? null,
-        colour_role: region?.colour_role ?? null
-      };
-    }),
+    bars: chords.map((chord) => ({
+      bar: chord.bar,
+      chords: [chord],
+      region_ids: chord.region_id ? [chord.region_id] : [],
+      colour_role: chord.colour_role
+    })),
+    chords,
     regions: analysed.regions,
     analysis: analysed.analysis,
     practice_objects: analysed.practice_objects,
@@ -140,11 +163,89 @@ export function createUnknownImportViewModel(
     current_transposition_shift: 0,
     current_transposition_label: "0",
     expected_regions: [],
+    bars: [],
     chords: [],
     regions: [],
     analysis: [],
     practice_objects: [],
     ireal: payloadViewModel(parsedIreal),
     warnings: [...warningSet]
+  };
+}
+
+function splitShiftedChordsIntoBars(parsedChart: PlainTextChart, shiftedChords: string[]): Array<{ bar: number; chords: string[] }> {
+  let cursor = 0;
+  return parsedChart.bars.map((bar) => {
+    const shifted = shiftedChords.slice(cursor, cursor + bar.chords.length);
+    cursor += bar.chords.length;
+    return {
+      bar: bar.bar,
+      chords: shifted
+    };
+  });
+}
+
+export function createPlainTextChartViewModel(
+  input: string,
+  options: {
+    title?: string;
+    declaredKey?: string;
+    transpose?: number;
+  } = {}
+): ChartViewModel {
+  const parsed = parsePlainTextChart(input);
+  const shift = wrapTransposeShift(options.transpose ?? 0);
+  const preferFlats = preferFlatNames(options.declaredKey, ...parsed.chords);
+  const shiftedChords = shift === 0 ? parsed.chords : transposeChart(parsed.chords, shift, { preferFlats });
+  const shiftedBars = splitShiftedChordsIntoBars(parsed, shiftedChords);
+  const analysed = analyseProgression(shiftedChords);
+  const chords: UiChordViewModel[] = [];
+
+  shiftedBars.forEach((bar) => {
+    bar.chords.forEach((symbol) => {
+      const sequenceIndex = chords.length + 1;
+      const chartChord = analysed.chords[sequenceIndex - 1];
+      const region = regionForSequence(analysed.regions, sequenceIndex);
+      chords.push({
+        bar: bar.bar,
+        sequence_index: sequenceIndex,
+        symbol: chartChord?.parsed.symbol ?? symbol,
+        root: chartChord?.parsed.root ?? "",
+        quality: chartChord?.parsed.quality ?? "",
+        extensions: chartChord?.parsed.extensions ?? [],
+        bass: chartChord?.parsed.bass ?? null,
+        region_id: region?.region_id ?? null,
+        colour_role: region?.colour_role ?? null
+      });
+    });
+  });
+
+  return {
+    id: "plain-text-chart",
+    source_kind: "plain_text",
+    title: options.title?.trim() || "Untitled Progression",
+    composer: null,
+    declared_key: options.declaredKey?.trim() || null,
+    style: "Plain Text",
+    tempo: null,
+    current_transposition_shift: shift,
+    current_transposition_label: formatTransposeShift(shift),
+    expected_regions: [],
+    bars: shiftedBars.map((bar) => {
+      const barChords = chords.filter((chord) => chord.bar === bar.bar);
+      const regionIds = [...new Set(barChords.map((chord) => chord.region_id).filter((id): id is string => Boolean(id)))];
+      return {
+        bar: bar.bar,
+        chords: barChords,
+        region_ids: regionIds,
+        colour_role: barChords.find((chord) => chord.colour_role)?.colour_role ?? null
+      };
+    }),
+    chords,
+    regions: analysed.regions,
+    analysis: analysed.analysis,
+    practice_objects: analysed.practice_objects,
+    ireal: payloadViewModel(null),
+    warnings: [...parsed.warnings, ...analysed.warnings]
   };
 }

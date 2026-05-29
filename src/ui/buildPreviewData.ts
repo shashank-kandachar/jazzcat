@@ -17,7 +17,7 @@ export interface BrowserDemoTuneData {
 
 export interface PreviewData {
   app: "JazzCat";
-  version: "0.2.0";
+  version: "0.3.0";
   demo_tunes: BrowserDemoTuneData[];
 }
 
@@ -51,7 +51,7 @@ export async function buildPreviewData(): Promise<PreviewData> {
 
   return {
     app: "JazzCat",
-    version: "0.2.0",
+    version: "0.3.0",
     demo_tunes: demoTunes
   };
 }

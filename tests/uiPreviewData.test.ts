@@ -5,7 +5,7 @@ import { buildPreviewData } from "../src/ui/buildPreviewData.ts";
 test("builds preview data for all five benchmark tunes", async () => {
   const data = await buildPreviewData();
   assert.equal(data.app, "JazzCat");
-  assert.equal(data.version, "0.2.0");
+  assert.equal(data.version, "0.3.0");
   assert.equal(data.demo_tunes.length, 5);
   assert.ok(data.demo_tunes.every((tune) => tune.models_by_shift["0"].chords.length > 0));
   assert.ok(data.demo_tunes.every((tune) => tune.models_by_shift["0"].regions.length > 0));

@@ -1,6 +1,6 @@
 window.JAZZCAT_PREVIEW_DATA = {
   "app": "JazzCat",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "demo_tunes": [
     {
       "slug": "autumn-leaves",
@@ -27,9 +27,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "D7(b9)",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gm",
+                  "root": "G",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gm",
+                  "root": "G",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "F#m7b5",
+                  "root": "F#",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Em",
+                  "root": "E",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Em",
+                  "root": "E",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "D7(b13)",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gm",
+                  "root": "G",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gm",
+                  "root": "G",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -40,6 +367,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -50,6 +378,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -60,6 +389,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -70,6 +400,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -80,6 +411,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "D7(b9)",
               "root": "D",
               "quality": "7",
@@ -92,6 +424,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gm",
               "root": "G",
               "quality": "m",
@@ -102,6 +435,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gm",
               "root": "G",
               "quality": "m",
@@ -112,6 +446,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "F#m7b5",
               "root": "F#",
               "quality": "m7b5",
@@ -122,6 +457,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -132,6 +468,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Em",
               "root": "E",
               "quality": "m",
@@ -142,6 +479,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Em",
               "root": "E",
               "quality": "m",
@@ -152,6 +490,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -162,6 +501,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "D7(b13)",
               "root": "D",
               "quality": "7",
@@ -174,6 +514,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gm",
               "root": "G",
               "quality": "m",
@@ -184,6 +525,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gm",
               "root": "G",
               "quality": "m",
@@ -587,9 +929,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Eb7(b9)",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Abm",
+                  "root": "Ab",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Abm",
+                  "root": "Ab",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Fm",
+                  "root": "F",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Fm",
+                  "root": "F",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Eb7(b13)",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Abm",
+                  "root": "Ab",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Abm",
+                  "root": "Ab",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -600,6 +1269,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -610,6 +1280,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -620,6 +1291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -630,6 +1302,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -640,6 +1313,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Eb7(b9)",
               "root": "Eb",
               "quality": "7",
@@ -652,6 +1326,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Abm",
               "root": "Ab",
               "quality": "m",
@@ -662,6 +1337,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Abm",
               "root": "Ab",
               "quality": "m",
@@ -672,6 +1348,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -682,6 +1359,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -692,6 +1370,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Fm",
               "root": "F",
               "quality": "m",
@@ -702,6 +1381,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Fm",
               "root": "F",
               "quality": "m",
@@ -712,6 +1392,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -722,6 +1403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Eb7(b13)",
               "root": "Eb",
               "quality": "7",
@@ -734,6 +1416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Abm",
               "root": "Ab",
               "quality": "m",
@@ -744,6 +1427,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Abm",
               "root": "Ab",
               "quality": "m",
@@ -1147,9 +1831,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "E7(b9)",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Am",
+                  "root": "A",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Am",
+                  "root": "A",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gbm",
+                  "root": "Gb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gbm",
+                  "root": "Gb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "E7(b13)",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Am",
+                  "root": "A",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Am",
+                  "root": "A",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -1160,6 +2171,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -1170,6 +2182,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -1180,6 +2193,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -1190,6 +2204,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -1200,6 +2215,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "E7(b9)",
               "root": "E",
               "quality": "7",
@@ -1212,6 +2228,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Am",
               "root": "A",
               "quality": "m",
@@ -1222,6 +2239,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Am",
               "root": "A",
               "quality": "m",
@@ -1232,6 +2250,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -1242,6 +2261,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -1252,6 +2272,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gbm",
               "root": "Gb",
               "quality": "m",
@@ -1262,6 +2283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gbm",
               "root": "Gb",
               "quality": "m",
@@ -1272,6 +2294,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -1282,6 +2305,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "E7(b13)",
               "root": "E",
               "quality": "7",
@@ -1294,6 +2318,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Am",
               "root": "A",
               "quality": "m",
@@ -1304,6 +2329,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Am",
               "root": "A",
               "quality": "m",
@@ -1707,9 +2733,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "F7(b9)",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bbm",
+                  "root": "Bb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bbm",
+                  "root": "Bb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gm",
+                  "root": "G",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gm",
+                  "root": "G",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "F7(b13)",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bbm",
+                  "root": "Bb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bbm",
+                  "root": "Bb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -1720,6 +3073,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -1730,6 +3084,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -1740,6 +3095,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -1750,6 +3106,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -1760,6 +3117,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "F7(b9)",
               "root": "F",
               "quality": "7",
@@ -1772,6 +3130,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bbm",
               "root": "Bb",
               "quality": "m",
@@ -1782,6 +3141,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bbm",
               "root": "Bb",
               "quality": "m",
@@ -1792,6 +3152,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -1802,6 +3163,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -1812,6 +3174,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gm",
               "root": "G",
               "quality": "m",
@@ -1822,6 +3185,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gm",
               "root": "G",
               "quality": "m",
@@ -1832,6 +3196,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -1842,6 +3207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "F7(b13)",
               "root": "F",
               "quality": "7",
@@ -1854,6 +3220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bbm",
               "root": "Bb",
               "quality": "m",
@@ -1864,6 +3231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bbm",
               "root": "Bb",
               "quality": "m",
@@ -2267,9 +3635,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Gb7(b9)",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bm",
+                  "root": "B",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bm",
+                  "root": "B",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Abm",
+                  "root": "Ab",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Abm",
+                  "root": "Ab",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Gb7(b13)",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bm",
+                  "root": "B",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bm",
+                  "root": "B",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -2280,6 +3975,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -2290,6 +3986,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -2300,6 +3997,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -2310,6 +4008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -2320,6 +4019,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Gb7(b9)",
               "root": "Gb",
               "quality": "7",
@@ -2332,6 +4032,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bm",
               "root": "B",
               "quality": "m",
@@ -2342,6 +4043,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bm",
               "root": "B",
               "quality": "m",
@@ -2352,6 +4054,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -2362,6 +4065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -2372,6 +4076,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Abm",
               "root": "Ab",
               "quality": "m",
@@ -2382,6 +4087,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Abm",
               "root": "Ab",
               "quality": "m",
@@ -2392,6 +4098,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -2402,6 +4109,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Gb7(b13)",
               "root": "Gb",
               "quality": "7",
@@ -2414,6 +4122,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bm",
               "root": "B",
               "quality": "m",
@@ -2424,6 +4133,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bm",
               "root": "B",
               "quality": "m",
@@ -2827,9 +4537,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "G7(b9)",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Cm",
+                  "root": "C",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Cm",
+                  "root": "C",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Am",
+                  "root": "A",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Am",
+                  "root": "A",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "G7(b13)",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Cm",
+                  "root": "C",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Cm",
+                  "root": "C",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -2840,6 +4877,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -2850,6 +4888,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -2860,6 +4899,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -2870,6 +4910,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -2880,6 +4921,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "G7(b9)",
               "root": "G",
               "quality": "7",
@@ -2892,6 +4934,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Cm",
               "root": "C",
               "quality": "m",
@@ -2902,6 +4945,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Cm",
               "root": "C",
               "quality": "m",
@@ -2912,6 +4956,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -2922,6 +4967,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -2932,6 +4978,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Am",
               "root": "A",
               "quality": "m",
@@ -2942,6 +4989,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Am",
               "root": "A",
               "quality": "m",
@@ -2952,6 +5000,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -2962,6 +5011,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "G7(b13)",
               "root": "G",
               "quality": "7",
@@ -2974,6 +5024,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Cm",
               "root": "C",
               "quality": "m",
@@ -2984,6 +5035,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Cm",
               "root": "C",
               "quality": "m",
@@ -3387,9 +5439,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Ab7(b9)",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dbm",
+                  "root": "Db",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dbm",
+                  "root": "Db",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bbm",
+                  "root": "Bb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bbm",
+                  "root": "Bb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Ab7(b13)",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dbm",
+                  "root": "Db",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Dbm",
+                  "root": "Db",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -3400,6 +5779,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -3410,6 +5790,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -3420,6 +5801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -3430,6 +5812,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -3440,6 +5823,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Ab7(b9)",
               "root": "Ab",
               "quality": "7",
@@ -3452,6 +5836,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dbm",
               "root": "Db",
               "quality": "m",
@@ -3462,6 +5847,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dbm",
               "root": "Db",
               "quality": "m",
@@ -3472,6 +5858,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -3482,6 +5869,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -3492,6 +5880,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bbm",
               "root": "Bb",
               "quality": "m",
@@ -3502,6 +5891,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bbm",
               "root": "Bb",
               "quality": "m",
@@ -3512,6 +5902,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -3522,6 +5913,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Ab7(b13)",
               "root": "Ab",
               "quality": "7",
@@ -3534,6 +5926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dbm",
               "root": "Db",
               "quality": "m",
@@ -3544,6 +5937,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Dbm",
               "root": "Db",
               "quality": "m",
@@ -3947,9 +6341,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "A7(b9)",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dm",
+                  "root": "D",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dm",
+                  "root": "D",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bm",
+                  "root": "B",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bm",
+                  "root": "B",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "A7(b13)",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dm",
+                  "root": "D",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Dm",
+                  "root": "D",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -3960,6 +6681,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -3970,6 +6692,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -3980,6 +6703,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -3990,6 +6714,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -4000,6 +6725,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "A7(b9)",
               "root": "A",
               "quality": "7",
@@ -4012,6 +6738,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dm",
               "root": "D",
               "quality": "m",
@@ -4022,6 +6749,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dm",
               "root": "D",
               "quality": "m",
@@ -4032,6 +6760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -4042,6 +6771,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -4052,6 +6782,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bm",
               "root": "B",
               "quality": "m",
@@ -4062,6 +6793,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bm",
               "root": "B",
               "quality": "m",
@@ -4072,6 +6804,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -4082,6 +6815,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "A7(b13)",
               "root": "A",
               "quality": "7",
@@ -4094,6 +6828,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dm",
               "root": "D",
               "quality": "m",
@@ -4104,6 +6839,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Dm",
               "root": "D",
               "quality": "m",
@@ -4507,9 +7243,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Bb7(b9)",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Ebm",
+                  "root": "Eb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Ebm",
+                  "root": "Eb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Cm",
+                  "root": "C",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Cm",
+                  "root": "C",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Bb7(b13)",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Ebm",
+                  "root": "Eb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Ebm",
+                  "root": "Eb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -4520,6 +7583,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -4530,6 +7594,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -4540,6 +7605,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -4550,6 +7616,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -4560,6 +7627,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Bb7(b9)",
               "root": "Bb",
               "quality": "7",
@@ -4572,6 +7640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Ebm",
               "root": "Eb",
               "quality": "m",
@@ -4582,6 +7651,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Ebm",
               "root": "Eb",
               "quality": "m",
@@ -4592,6 +7662,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -4602,6 +7673,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -4612,6 +7684,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Cm",
               "root": "C",
               "quality": "m",
@@ -4622,6 +7695,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Cm",
               "root": "C",
               "quality": "m",
@@ -4632,6 +7706,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -4642,6 +7717,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Bb7(b13)",
               "root": "Bb",
               "quality": "7",
@@ -4654,6 +7730,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Ebm",
               "root": "Eb",
               "quality": "m",
@@ -4664,6 +7741,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Ebm",
               "root": "Eb",
               "quality": "m",
@@ -5067,9 +8145,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "B7(b9)",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Em",
+                  "root": "E",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Em",
+                  "root": "E",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dbm",
+                  "root": "Db",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dbm",
+                  "root": "Db",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "B7(b13)",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Em",
+                  "root": "E",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Em",
+                  "root": "E",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -5080,6 +8485,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -5090,6 +8496,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -5100,6 +8507,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -5110,6 +8518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -5120,6 +8529,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "B7(b9)",
               "root": "B",
               "quality": "7",
@@ -5132,6 +8542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Em",
               "root": "E",
               "quality": "m",
@@ -5142,6 +8553,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Em",
               "root": "E",
               "quality": "m",
@@ -5152,6 +8564,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -5162,6 +8575,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -5172,6 +8586,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dbm",
               "root": "Db",
               "quality": "m",
@@ -5182,6 +8597,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dbm",
               "root": "Db",
               "quality": "m",
@@ -5192,6 +8608,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -5202,6 +8619,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "B7(b13)",
               "root": "B",
               "quality": "7",
@@ -5214,6 +8632,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Em",
               "root": "E",
               "quality": "m",
@@ -5224,6 +8643,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Em",
               "root": "E",
               "quality": "m",
@@ -5627,9 +9047,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "C7(b9)",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Fm",
+                  "root": "F",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Fm",
+                  "root": "F",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dm",
+                  "root": "D",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dm",
+                  "root": "D",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "C7(b13)",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Fm",
+                  "root": "F",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Fm",
+                  "root": "F",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -5640,6 +9387,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -5650,6 +9398,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -5660,6 +9409,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -5670,6 +9420,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -5680,6 +9431,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "C7(b9)",
               "root": "C",
               "quality": "7",
@@ -5692,6 +9444,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Fm",
               "root": "F",
               "quality": "m",
@@ -5702,6 +9455,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Fm",
               "root": "F",
               "quality": "m",
@@ -5712,6 +9466,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -5722,6 +9477,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -5732,6 +9488,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dm",
               "root": "D",
               "quality": "m",
@@ -5742,6 +9499,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dm",
               "root": "D",
               "quality": "m",
@@ -5752,6 +9510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -5762,6 +9521,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "C7(b13)",
               "root": "C",
               "quality": "7",
@@ -5774,6 +9534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Fm",
               "root": "F",
               "quality": "m",
@@ -5784,6 +9545,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Fm",
               "root": "F",
               "quality": "m",
@@ -6187,9 +9949,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Db7(b9)",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gbm",
+                  "root": "Gb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gbm",
+                  "root": "Gb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Ebm",
+                  "root": "Eb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Ebm",
+                  "root": "Eb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Db7(b13)",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [
+                    "b13"
+                  ],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gbm",
+                  "root": "Gb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gbm",
+                  "root": "Gb",
+                  "quality": "m",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -6200,6 +10289,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -6210,6 +10300,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -6220,6 +10311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -6230,6 +10322,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -6240,6 +10333,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Db7(b9)",
               "root": "Db",
               "quality": "7",
@@ -6252,6 +10346,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gbm",
               "root": "Gb",
               "quality": "m",
@@ -6262,6 +10357,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gbm",
               "root": "Gb",
               "quality": "m",
@@ -6272,6 +10368,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -6282,6 +10379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -6292,6 +10390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Ebm",
               "root": "Eb",
               "quality": "m",
@@ -6302,6 +10401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Ebm",
               "root": "Eb",
               "quality": "m",
@@ -6312,6 +10412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -6322,6 +10423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Db7(b13)",
               "root": "Db",
               "quality": "7",
@@ -6334,6 +10436,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gbm",
               "root": "Gb",
               "quality": "m",
@@ -6344,6 +10447,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gbm",
               "root": "Gb",
               "quality": "m",
@@ -6758,9 +10862,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "A7(b9)",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -6771,6 +11220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -6781,6 +11231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -6791,6 +11242,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -6801,6 +11253,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -6811,6 +11264,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -6821,6 +11275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -6831,6 +11286,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -6841,6 +11297,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -6851,6 +11308,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -6861,6 +11319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -6871,6 +11330,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -6881,6 +11341,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -6891,6 +11352,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "A7(b9)",
               "root": "A",
               "quality": "7",
@@ -6903,6 +11365,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -6913,6 +11376,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -6923,6 +11387,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -7362,9 +11827,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Bb7(b9)",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -7375,6 +12185,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -7385,6 +12196,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -7395,6 +12207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -7405,6 +12218,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -7415,6 +12229,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -7425,6 +12240,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -7435,6 +12251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -7445,6 +12262,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -7455,6 +12273,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -7465,6 +12284,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -7475,6 +12295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -7485,6 +12306,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -7495,6 +12317,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Bb7(b9)",
               "root": "Bb",
               "quality": "7",
@@ -7507,6 +12330,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -7517,6 +12341,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -7527,6 +12352,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -7966,9 +12792,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "B7(b9)",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -7979,6 +13150,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -7989,6 +13161,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -7999,6 +13172,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -8009,6 +13183,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -8019,6 +13194,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -8029,6 +13205,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -8039,6 +13216,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -8049,6 +13227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -8059,6 +13238,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -8069,6 +13249,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -8079,6 +13260,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -8089,6 +13271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -8099,6 +13282,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "B7(b9)",
               "root": "B",
               "quality": "7",
@@ -8111,6 +13295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -8121,6 +13306,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -8131,6 +13317,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -8570,9 +13757,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "C7(b9)",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -8583,6 +14115,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -8593,6 +14126,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -8603,6 +14137,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -8613,6 +14148,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -8623,6 +14159,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -8633,6 +14170,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -8643,6 +14181,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -8653,6 +14192,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -8663,6 +14203,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -8673,6 +14214,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -8683,6 +14225,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -8693,6 +14236,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -8703,6 +14247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "C7(b9)",
               "root": "C",
               "quality": "7",
@@ -8715,6 +14260,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -8725,6 +14271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -8735,6 +14282,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -9174,9 +14722,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Db7(b9)",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -9187,6 +15080,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -9197,6 +15091,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -9207,6 +15102,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -9217,6 +15113,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -9227,6 +15124,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -9237,6 +15135,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -9247,6 +15146,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -9257,6 +15157,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -9267,6 +15168,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -9277,6 +15179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -9287,6 +15190,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -9297,6 +15201,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -9307,6 +15212,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Db7(b9)",
               "root": "Db",
               "quality": "7",
@@ -9319,6 +15225,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -9329,6 +15236,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -9339,6 +15247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -9778,9 +15687,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "D7(b9)",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -9791,6 +16045,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -9801,6 +16056,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -9811,6 +16067,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -9821,6 +16078,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -9831,6 +16089,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -9841,6 +16100,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -9851,6 +16111,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -9861,6 +16122,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -9871,6 +16133,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -9881,6 +16144,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -9891,6 +16155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -9901,6 +16166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -9911,6 +16177,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "D7(b9)",
               "root": "D",
               "quality": "7",
@@ -9923,6 +16190,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -9933,6 +16201,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -9943,6 +16212,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -10382,9 +16652,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Eb7(b9)",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -10395,6 +17010,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -10405,6 +17021,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -10415,6 +17032,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -10425,6 +17043,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -10435,6 +17054,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -10445,6 +17065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -10455,6 +17076,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -10465,6 +17087,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -10475,6 +17098,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -10485,6 +17109,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -10495,6 +17120,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -10505,6 +17131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -10515,6 +17142,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Eb7(b9)",
               "root": "Eb",
               "quality": "7",
@@ -10527,6 +17155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -10537,6 +17166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -10547,6 +17177,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -10986,9 +17617,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "E7(b9)",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -10999,6 +17975,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -11009,6 +17986,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -11019,6 +17997,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -11029,6 +18008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -11039,6 +18019,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -11049,6 +18030,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -11059,6 +18041,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -11069,6 +18052,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -11079,6 +18063,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -11089,6 +18074,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -11099,6 +18085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -11109,6 +18096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -11119,6 +18107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "E7(b9)",
               "root": "E",
               "quality": "7",
@@ -11131,6 +18120,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -11141,6 +18131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -11151,6 +18142,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -11590,9 +18582,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "F7(b9)",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -11603,6 +18940,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -11613,6 +18951,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -11623,6 +18962,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -11633,6 +18973,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -11643,6 +18984,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -11653,6 +18995,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -11663,6 +19006,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -11673,6 +19017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -11683,6 +19028,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -11693,6 +19039,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -11703,6 +19050,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -11713,6 +19061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -11723,6 +19072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "F7(b9)",
               "root": "F",
               "quality": "7",
@@ -11735,6 +19085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -11745,6 +19096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -11755,6 +19107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -12194,9 +19547,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Gb7(b9)",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -12207,6 +19905,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -12217,6 +19916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -12227,6 +19927,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -12237,6 +19938,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -12247,6 +19949,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -12257,6 +19960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -12267,6 +19971,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -12277,6 +19982,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -12287,6 +19993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -12297,6 +20004,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -12307,6 +20015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -12317,6 +20026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -12327,6 +20037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Gb7(b9)",
               "root": "Gb",
               "quality": "7",
@@ -12339,6 +20050,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -12349,6 +20061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -12359,6 +20072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -12798,9 +20512,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "G7(b9)",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -12811,6 +20870,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -12821,6 +20881,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -12831,6 +20892,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -12841,6 +20903,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -12851,6 +20914,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -12861,6 +20925,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -12871,6 +20936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -12881,6 +20947,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -12891,6 +20958,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -12901,6 +20969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -12911,6 +20980,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -12921,6 +20991,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -12931,6 +21002,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "G7(b9)",
               "root": "G",
               "quality": "7",
@@ -12943,6 +21015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -12953,6 +21026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -12963,6 +21037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -13402,9 +21477,354 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Ab7(b9)",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -13415,6 +21835,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -13425,6 +21846,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -13435,6 +21857,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -13445,6 +21868,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -13455,6 +21879,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -13465,6 +21890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -13475,6 +21901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -13485,6 +21912,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -13495,6 +21923,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -13505,6 +21934,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -13515,6 +21945,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -13525,6 +21956,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -13535,6 +21967,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Ab7(b9)",
               "root": "Ab",
               "quality": "7",
@@ -13547,6 +21980,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -13557,6 +21991,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -13567,6 +22002,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -14016,9 +22452,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "G7(b9)",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "G7(b9)",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -14029,6 +22792,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -14039,6 +22803,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -14049,6 +22814,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -14059,6 +22825,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -14069,6 +22836,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "G7(b9)",
               "root": "G",
               "quality": "7",
@@ -14081,6 +22849,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -14091,6 +22860,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -14101,6 +22871,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -14111,6 +22882,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -14121,6 +22893,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -14131,6 +22904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -14141,6 +22915,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -14151,6 +22926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "G7(b9)",
               "root": "G",
               "quality": "7",
@@ -14163,6 +22939,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -14173,6 +22950,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -14649,9 +23427,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Ab7(b9)",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Ab7(b9)",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -14662,6 +23767,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -14672,6 +23778,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -14682,6 +23789,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -14692,6 +23800,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -14702,6 +23811,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Ab7(b9)",
               "root": "Ab",
               "quality": "7",
@@ -14714,6 +23824,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -14724,6 +23835,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -14734,6 +23846,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -14744,6 +23857,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -14754,6 +23868,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -14764,6 +23879,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -14774,6 +23890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -14784,6 +23901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Ab7(b9)",
               "root": "Ab",
               "quality": "7",
@@ -14796,6 +23914,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -14806,6 +23925,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -15282,9 +24402,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "A7(b9)",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "A7(b9)",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -15295,6 +24742,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -15305,6 +24753,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -15315,6 +24764,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -15325,6 +24775,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -15335,6 +24786,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "A7(b9)",
               "root": "A",
               "quality": "7",
@@ -15347,6 +24799,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -15357,6 +24810,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -15367,6 +24821,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -15377,6 +24832,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -15387,6 +24843,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -15397,6 +24854,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -15407,6 +24865,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -15417,6 +24876,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "A7(b9)",
               "root": "A",
               "quality": "7",
@@ -15429,6 +24889,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -15439,6 +24900,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -15915,9 +25377,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Bb7(b9)",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Bb7(b9)",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -15928,6 +25717,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -15938,6 +25728,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -15948,6 +25739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -15958,6 +25750,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -15968,6 +25761,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Bb7(b9)",
               "root": "Bb",
               "quality": "7",
@@ -15980,6 +25774,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -15990,6 +25785,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -16000,6 +25796,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -16010,6 +25807,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -16020,6 +25818,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -16030,6 +25829,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -16040,6 +25840,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -16050,6 +25851,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Bb7(b9)",
               "root": "Bb",
               "quality": "7",
@@ -16062,6 +25864,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -16072,6 +25875,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -16548,9 +26352,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "B7(b9)",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "B7(b9)",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -16561,6 +26692,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -16571,6 +26703,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -16581,6 +26714,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -16591,6 +26725,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -16601,6 +26736,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "B7(b9)",
               "root": "B",
               "quality": "7",
@@ -16613,6 +26749,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -16623,6 +26760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -16633,6 +26771,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -16643,6 +26782,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -16653,6 +26793,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -16663,6 +26804,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -16673,6 +26815,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -16683,6 +26826,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "B7(b9)",
               "root": "B",
               "quality": "7",
@@ -16695,6 +26839,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -16705,6 +26850,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -17181,9 +27327,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "C7(b9)",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "C7(b9)",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -17194,6 +27667,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -17204,6 +27678,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -17214,6 +27689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -17224,6 +27700,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -17234,6 +27711,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "C7(b9)",
               "root": "C",
               "quality": "7",
@@ -17246,6 +27724,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -17256,6 +27735,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -17266,6 +27746,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -17276,6 +27757,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -17286,6 +27768,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -17296,6 +27779,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -17306,6 +27790,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -17316,6 +27801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "C7(b9)",
               "root": "C",
               "quality": "7",
@@ -17328,6 +27814,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -17338,6 +27825,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -17814,9 +28302,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Db7(b9)",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Db7(b9)",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -17827,6 +28642,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -17837,6 +28653,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -17847,6 +28664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -17857,6 +28675,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -17867,6 +28686,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Db7(b9)",
               "root": "Db",
               "quality": "7",
@@ -17879,6 +28699,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -17889,6 +28710,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -17899,6 +28721,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -17909,6 +28732,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -17919,6 +28743,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -17929,6 +28754,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -17939,6 +28765,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -17949,6 +28776,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Db7(b9)",
               "root": "Db",
               "quality": "7",
@@ -17961,6 +28789,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -17971,6 +28800,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -18447,9 +29277,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "D7(b9)",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "D7(b9)",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -18460,6 +29617,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -18470,6 +29628,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -18480,6 +29639,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -18490,6 +29650,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -18500,6 +29661,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "D7(b9)",
               "root": "D",
               "quality": "7",
@@ -18512,6 +29674,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -18522,6 +29685,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -18532,6 +29696,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -18542,6 +29707,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -18552,6 +29718,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -18562,6 +29729,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -18572,6 +29740,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -18582,6 +29751,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "D7(b9)",
               "root": "D",
               "quality": "7",
@@ -18594,6 +29764,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -18604,6 +29775,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -19080,9 +30252,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Eb7(b9)",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Eb7(b9)",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -19093,6 +30592,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -19103,6 +30603,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -19113,6 +30614,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -19123,6 +30625,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -19133,6 +30636,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Eb7(b9)",
               "root": "Eb",
               "quality": "7",
@@ -19145,6 +30649,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -19155,6 +30660,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -19165,6 +30671,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -19175,6 +30682,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -19185,6 +30693,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -19195,6 +30704,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -19205,6 +30715,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -19215,6 +30726,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Eb7(b9)",
               "root": "Eb",
               "quality": "7",
@@ -19227,6 +30739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -19237,6 +30750,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -19713,9 +31227,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "E7(b9)",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "E7(b9)",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -19726,6 +31567,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -19736,6 +31578,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -19746,6 +31589,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -19756,6 +31600,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -19766,6 +31611,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "E7(b9)",
               "root": "E",
               "quality": "7",
@@ -19778,6 +31624,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -19788,6 +31635,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -19798,6 +31646,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -19808,6 +31657,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -19818,6 +31668,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -19828,6 +31679,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -19838,6 +31690,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -19848,6 +31701,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "E7(b9)",
               "root": "E",
               "quality": "7",
@@ -19860,6 +31714,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -19870,6 +31725,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -20346,9 +32202,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "F7(b9)",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "F7(b9)",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -20359,6 +32542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -20369,6 +32553,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -20379,6 +32564,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -20389,6 +32575,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -20399,6 +32586,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "F7(b9)",
               "root": "F",
               "quality": "7",
@@ -20411,6 +32599,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -20421,6 +32610,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -20431,6 +32621,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -20441,6 +32632,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -20451,6 +32643,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -20461,6 +32654,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -20471,6 +32665,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -20481,6 +32676,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "F7(b9)",
               "root": "F",
               "quality": "7",
@@ -20493,6 +32689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -20503,6 +32700,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -20979,9 +33177,336 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Gb7(b9)",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Gb7(b9)",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "ambiguous-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -20992,6 +33517,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -21002,6 +33528,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -21012,6 +33539,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -21022,6 +33550,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -21032,6 +33561,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Gb7(b9)",
               "root": "Gb",
               "quality": "7",
@@ -21044,6 +33574,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -21054,6 +33585,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -21064,6 +33596,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -21074,6 +33607,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -21084,6 +33618,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -21094,6 +33629,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -21104,6 +33640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -21114,6 +33651,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Gb7(b9)",
               "root": "Gb",
               "quality": "7",
@@ -21126,6 +33664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -21136,6 +33675,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -21624,9 +34164,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Cmmaj7",
+                  "root": "C",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Cm6",
+                  "root": "C",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "G7(b9)",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Cm6",
+                  "root": "C",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Cmmaj7",
               "root": "C",
               "quality": "mmaj7",
@@ -21637,6 +34482,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Cm6",
               "root": "C",
               "quality": "m6",
@@ -21647,6 +34493,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -21657,6 +34504,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -21667,6 +34515,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -21677,6 +34526,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -21687,6 +34537,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -21697,6 +34548,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -21707,6 +34559,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -21717,6 +34570,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -21727,6 +34581,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -21737,6 +34592,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -21747,6 +34603,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -21757,6 +34614,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "G7(b9)",
               "root": "G",
               "quality": "7",
@@ -21769,6 +34627,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Cm6",
               "root": "C",
               "quality": "m6",
@@ -22169,9 +35028,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dbmmaj7",
+                  "root": "Db",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Dbm6",
+                  "root": "Db",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Ab7(b9)",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dbm6",
+                  "root": "Db",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dbmmaj7",
               "root": "Db",
               "quality": "mmaj7",
@@ -22182,6 +35346,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Dbm6",
               "root": "Db",
               "quality": "m6",
@@ -22192,6 +35357,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -22202,6 +35368,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -22212,6 +35379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -22222,6 +35390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -22232,6 +35401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -22242,6 +35412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -22252,6 +35423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -22262,6 +35434,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -22272,6 +35445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -22282,6 +35456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -22292,6 +35467,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -22302,6 +35478,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Ab7(b9)",
               "root": "Ab",
               "quality": "7",
@@ -22314,6 +35491,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dbm6",
               "root": "Db",
               "quality": "m6",
@@ -22714,9 +35892,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dmmaj7",
+                  "root": "D",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Dm6",
+                  "root": "D",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "A7(b9)",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dm6",
+                  "root": "D",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dmmaj7",
               "root": "D",
               "quality": "mmaj7",
@@ -22727,6 +36210,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Dm6",
               "root": "D",
               "quality": "m6",
@@ -22737,6 +36221,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -22747,6 +36232,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -22757,6 +36243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -22767,6 +36254,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -22777,6 +36265,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -22787,6 +36276,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -22797,6 +36287,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -22807,6 +36298,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -22817,6 +36309,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -22827,6 +36320,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -22837,6 +36331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -22847,6 +36342,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "A7(b9)",
               "root": "A",
               "quality": "7",
@@ -22859,6 +36355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dm6",
               "root": "D",
               "quality": "m6",
@@ -23259,9 +36756,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Ebmmaj7",
+                  "root": "Eb",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Ebm6",
+                  "root": "Eb",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Bb7(b9)",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Ebm6",
+                  "root": "Eb",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Ebmmaj7",
               "root": "Eb",
               "quality": "mmaj7",
@@ -23272,6 +37074,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Ebm6",
               "root": "Eb",
               "quality": "m6",
@@ -23282,6 +37085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -23292,6 +37096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -23302,6 +37107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -23312,6 +37118,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -23322,6 +37129,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -23332,6 +37140,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -23342,6 +37151,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -23352,6 +37162,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -23362,6 +37173,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -23372,6 +37184,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -23382,6 +37195,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -23392,6 +37206,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Bb7(b9)",
               "root": "Bb",
               "quality": "7",
@@ -23404,6 +37219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Ebm6",
               "root": "Eb",
               "quality": "m6",
@@ -23804,9 +37620,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Emmaj7",
+                  "root": "E",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Em6",
+                  "root": "E",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "B7(b9)",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Em6",
+                  "root": "E",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Emmaj7",
               "root": "E",
               "quality": "mmaj7",
@@ -23817,6 +37938,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Em6",
               "root": "E",
               "quality": "m6",
@@ -23827,6 +37949,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -23837,6 +37960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -23847,6 +37971,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -23857,6 +37982,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -23867,6 +37993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -23877,6 +38004,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -23887,6 +38015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -23897,6 +38026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -23907,6 +38037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -23917,6 +38048,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -23927,6 +38059,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -23937,6 +38070,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "B7(b9)",
               "root": "B",
               "quality": "7",
@@ -23949,6 +38083,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Em6",
               "root": "E",
               "quality": "m6",
@@ -24349,9 +38484,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Fmmaj7",
+                  "root": "F",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Fm6",
+                  "root": "F",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "C7(b9)",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Fm6",
+                  "root": "F",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Fmmaj7",
               "root": "F",
               "quality": "mmaj7",
@@ -24362,6 +38802,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Fm6",
               "root": "F",
               "quality": "m6",
@@ -24372,6 +38813,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -24382,6 +38824,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -24392,6 +38835,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -24402,6 +38846,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -24412,6 +38857,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -24422,6 +38868,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -24432,6 +38879,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -24442,6 +38890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -24452,6 +38901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -24462,6 +38912,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -24472,6 +38923,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -24482,6 +38934,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "C7(b9)",
               "root": "C",
               "quality": "7",
@@ -24494,6 +38947,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Fm6",
               "root": "F",
               "quality": "m6",
@@ -24894,9 +39348,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gbmmaj7",
+                  "root": "Gb",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gbm6",
+                  "root": "Gb",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Db7(b9)",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gbm6",
+                  "root": "Gb",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gbmmaj7",
               "root": "Gb",
               "quality": "mmaj7",
@@ -24907,6 +39666,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gbm6",
               "root": "Gb",
               "quality": "m6",
@@ -24917,6 +39677,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -24927,6 +39688,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -24937,6 +39699,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -24947,6 +39710,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -24957,6 +39721,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -24967,6 +39732,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -24977,6 +39743,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -24987,6 +39754,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -24997,6 +39765,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -25007,6 +39776,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -25017,6 +39787,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -25027,6 +39798,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Db7(b9)",
               "root": "Db",
               "quality": "7",
@@ -25039,6 +39811,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gbm6",
               "root": "Gb",
               "quality": "m6",
@@ -25439,9 +40212,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gmmaj7",
+                  "root": "G",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gm6",
+                  "root": "G",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "D7(b9)",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gm6",
+                  "root": "G",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gmmaj7",
               "root": "G",
               "quality": "mmaj7",
@@ -25452,6 +40530,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gm6",
               "root": "G",
               "quality": "m6",
@@ -25462,6 +40541,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -25472,6 +40552,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -25482,6 +40563,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -25492,6 +40574,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -25502,6 +40585,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -25512,6 +40596,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -25522,6 +40607,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -25532,6 +40618,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -25542,6 +40629,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -25552,6 +40640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -25562,6 +40651,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -25572,6 +40662,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "D7(b9)",
               "root": "D",
               "quality": "7",
@@ -25584,6 +40675,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gm6",
               "root": "G",
               "quality": "m6",
@@ -25984,9 +41076,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Abmmaj7",
+                  "root": "Ab",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Abm6",
+                  "root": "Ab",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Eb7(b9)",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Abm6",
+                  "root": "Ab",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Abmmaj7",
               "root": "Ab",
               "quality": "mmaj7",
@@ -25997,6 +41394,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Abm6",
               "root": "Ab",
               "quality": "m6",
@@ -26007,6 +41405,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -26017,6 +41416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -26027,6 +41427,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -26037,6 +41438,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -26047,6 +41449,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -26057,6 +41460,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -26067,6 +41471,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -26077,6 +41482,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -26087,6 +41493,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -26097,6 +41504,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -26107,6 +41515,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -26117,6 +41526,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Eb7(b9)",
               "root": "Eb",
               "quality": "7",
@@ -26129,6 +41539,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Abm6",
               "root": "Ab",
               "quality": "m6",
@@ -26529,9 +41940,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Ammaj7",
+                  "root": "A",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Am6",
+                  "root": "A",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "E7(b9)",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Am6",
+                  "root": "A",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Ammaj7",
               "root": "A",
               "quality": "mmaj7",
@@ -26542,6 +42258,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Am6",
               "root": "A",
               "quality": "m6",
@@ -26552,6 +42269,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -26562,6 +42280,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -26572,6 +42291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -26582,6 +42302,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -26592,6 +42313,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -26602,6 +42324,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -26612,6 +42335,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -26622,6 +42346,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -26632,6 +42357,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -26642,6 +42368,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -26652,6 +42379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -26662,6 +42390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "E7(b9)",
               "root": "E",
               "quality": "7",
@@ -26674,6 +42403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Am6",
               "root": "A",
               "quality": "m6",
@@ -27074,9 +42804,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bbmmaj7",
+                  "root": "Bb",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bbm6",
+                  "root": "Bb",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "F7(b9)",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bbm6",
+                  "root": "Bb",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bbmmaj7",
               "root": "Bb",
               "quality": "mmaj7",
@@ -27087,6 +43122,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bbm6",
               "root": "Bb",
               "quality": "m6",
@@ -27097,6 +43133,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -27107,6 +43144,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -27117,6 +43155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -27127,6 +43166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -27137,6 +43177,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -27147,6 +43188,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -27157,6 +43199,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -27167,6 +43210,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -27177,6 +43221,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -27187,6 +43232,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -27197,6 +43243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -27207,6 +43254,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "F7(b9)",
               "root": "F",
               "quality": "7",
@@ -27219,6 +43267,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bbm6",
               "root": "Bb",
               "quality": "m6",
@@ -27619,9 +43668,314 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bmmaj7",
+                  "root": "B",
+                  "quality": "mmaj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bm6",
+                  "root": "B",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Gb7(b9)",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [
+                    "b9"
+                  ],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bm6",
+                  "root": "B",
+                  "quality": "m6",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bmmaj7",
               "root": "B",
               "quality": "mmaj7",
@@ -27632,6 +43986,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bm6",
               "root": "B",
               "quality": "m6",
@@ -27642,6 +43997,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -27652,6 +44008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -27662,6 +44019,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -27672,6 +44030,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -27682,6 +44041,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -27692,6 +44052,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -27702,6 +44063,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -27712,6 +44074,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -27722,6 +44085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -27732,6 +44096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -27742,6 +44107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -27752,6 +44118,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Gb7(b9)",
               "root": "Gb",
               "quality": "7",
@@ -27764,6 +44131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bm6",
               "root": "B",
               "quality": "m6",
@@ -28176,9 +44544,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Am7b5",
+                  "root": "A",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -28189,6 +44960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -28199,6 +44971,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -28209,6 +44982,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -28219,6 +44993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -28229,6 +45004,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -28239,6 +45015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -28249,6 +45026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -28259,6 +45037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -28269,6 +45048,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -28279,6 +45059,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -28289,6 +45070,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -28299,6 +45081,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Am7b5",
               "root": "A",
               "quality": "m7b5",
@@ -28309,6 +45092,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -28319,6 +45103,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -28329,6 +45114,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -28339,6 +45125,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -28349,6 +45136,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -28359,6 +45147,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -28369,6 +45158,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -28882,9 +45672,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bbm7b5",
+                  "root": "Bb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -28895,6 +46088,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -28905,6 +46099,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -28915,6 +46110,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -28925,6 +46121,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -28935,6 +46132,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -28945,6 +46143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -28955,6 +46154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -28965,6 +46165,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -28975,6 +46176,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -28985,6 +46187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -28995,6 +46198,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -29005,6 +46209,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bbm7b5",
               "root": "Bb",
               "quality": "m7b5",
@@ -29015,6 +46220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -29025,6 +46231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -29035,6 +46242,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -29045,6 +46253,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -29055,6 +46264,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -29065,6 +46275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -29075,6 +46286,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -29588,9 +46800,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Bm7b5",
+                  "root": "B",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -29601,6 +47216,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -29611,6 +47227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -29621,6 +47238,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -29631,6 +47249,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -29641,6 +47260,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -29651,6 +47271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -29661,6 +47282,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -29671,6 +47293,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -29681,6 +47304,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -29691,6 +47315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -29701,6 +47326,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -29711,6 +47337,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Bm7b5",
               "root": "B",
               "quality": "m7b5",
@@ -29721,6 +47348,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -29731,6 +47359,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -29741,6 +47370,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -29751,6 +47381,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -29761,6 +47392,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -29771,6 +47403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -29781,6 +47414,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -30294,9 +47928,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Cm7b5",
+                  "root": "C",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -30307,6 +48344,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -30317,6 +48355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -30327,6 +48366,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -30337,6 +48377,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -30347,6 +48388,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -30357,6 +48399,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -30367,6 +48410,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -30377,6 +48421,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -30387,6 +48432,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -30397,6 +48443,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -30407,6 +48454,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -30417,6 +48465,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Cm7b5",
               "root": "C",
               "quality": "m7b5",
@@ -30427,6 +48476,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -30437,6 +48487,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -30447,6 +48498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -30457,6 +48509,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -30467,6 +48520,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -30477,6 +48531,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -30487,6 +48542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -31000,9 +49056,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dbm7b5",
+                  "root": "Db",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -31013,6 +49472,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -31023,6 +49483,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -31033,6 +49494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -31043,6 +49505,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -31053,6 +49516,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -31063,6 +49527,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -31073,6 +49538,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -31083,6 +49549,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -31093,6 +49560,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -31103,6 +49571,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -31113,6 +49582,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -31123,6 +49593,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dbm7b5",
               "root": "Db",
               "quality": "m7b5",
@@ -31133,6 +49604,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -31143,6 +49615,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -31153,6 +49626,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -31163,6 +49637,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -31173,6 +49648,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -31183,6 +49659,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -31193,6 +49670,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -31706,9 +50184,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Dm7b5",
+                  "root": "D",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -31719,6 +50600,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -31729,6 +50611,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -31739,6 +50622,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -31749,6 +50633,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -31759,6 +50644,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -31769,6 +50655,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -31779,6 +50666,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -31789,6 +50677,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -31799,6 +50688,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -31809,6 +50699,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -31819,6 +50710,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -31829,6 +50721,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Dm7b5",
               "root": "D",
               "quality": "m7b5",
@@ -31839,6 +50732,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -31849,6 +50743,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -31859,6 +50754,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -31869,6 +50765,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -31879,6 +50776,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -31889,6 +50787,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -31899,6 +50798,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -32412,9 +51312,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Ebm7b5",
+                  "root": "Eb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -32425,6 +51728,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -32435,6 +51739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -32445,6 +51750,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -32455,6 +51761,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -32465,6 +51772,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -32475,6 +51783,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -32485,6 +51794,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -32495,6 +51805,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -32505,6 +51816,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -32515,6 +51827,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -32525,6 +51838,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -32535,6 +51849,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Ebm7b5",
               "root": "Eb",
               "quality": "m7b5",
@@ -32545,6 +51860,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -32555,6 +51871,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -32565,6 +51882,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -32575,6 +51893,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -32585,6 +51904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -32595,6 +51915,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -32605,6 +51926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -33118,9 +52440,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Fm7",
+                  "root": "F",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Em7b5",
+                  "root": "E",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Cm7",
+                  "root": "C",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -33131,6 +52856,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Fm7",
               "root": "F",
               "quality": "m7",
@@ -33141,6 +52867,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -33151,6 +52878,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -33161,6 +52889,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -33171,6 +52900,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -33181,6 +52911,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -33191,6 +52922,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -33201,6 +52933,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -33211,6 +52944,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -33221,6 +52955,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -33231,6 +52966,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -33241,6 +52977,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Em7b5",
               "root": "E",
               "quality": "m7b5",
@@ -33251,6 +52988,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -33261,6 +52999,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -33271,6 +53010,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -33281,6 +53021,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Cm7",
               "root": "C",
               "quality": "m7",
@@ -33291,6 +53032,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -33301,6 +53043,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -33311,6 +53054,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -33824,9 +53568,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gbm7",
+                  "root": "Gb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Fm7b5",
+                  "root": "F",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Bb7",
+                  "root": "Bb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Ebmaj7",
+                  "root": "Eb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Dbm7",
+                  "root": "Db",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -33837,6 +53984,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gbm7",
               "root": "Gb",
               "quality": "m7",
@@ -33847,6 +53995,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -33857,6 +54006,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -33867,6 +54017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -33877,6 +54028,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -33887,6 +54039,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -33897,6 +54050,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -33907,6 +54061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -33917,6 +54072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -33927,6 +54083,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -33937,6 +54094,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -33947,6 +54105,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Fm7b5",
               "root": "F",
               "quality": "m7b5",
@@ -33957,6 +54116,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Bb7",
               "root": "Bb",
               "quality": "7",
@@ -33967,6 +54127,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -33977,6 +54138,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Ebmaj7",
               "root": "Eb",
               "quality": "maj7",
@@ -33987,6 +54149,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Dbm7",
               "root": "Db",
               "quality": "m7",
@@ -33997,6 +54160,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -34007,6 +54171,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -34017,6 +54182,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -34530,9 +54696,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Gm7",
+                  "root": "G",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gbm7b5",
+                  "root": "Gb",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "B7",
+                  "root": "B",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Emaj7",
+                  "root": "E",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Dm7",
+                  "root": "D",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "G7",
+                  "root": "G",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -34543,6 +55112,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Gm7",
               "root": "G",
               "quality": "m7",
@@ -34553,6 +55123,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -34563,6 +55134,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -34573,6 +55145,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -34583,6 +55156,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -34593,6 +55167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -34603,6 +55178,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -34613,6 +55189,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -34623,6 +55200,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -34633,6 +55211,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -34643,6 +55222,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -34653,6 +55233,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gbm7b5",
               "root": "Gb",
               "quality": "m7b5",
@@ -34663,6 +55244,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "B7",
               "root": "B",
               "quality": "7",
@@ -34673,6 +55255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -34683,6 +55266,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Emaj7",
               "root": "E",
               "quality": "maj7",
@@ -34693,6 +55277,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Dm7",
               "root": "D",
               "quality": "m7",
@@ -34703,6 +55288,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "G7",
               "root": "G",
               "quality": "7",
@@ -34713,6 +55299,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -34723,6 +55310,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -35236,9 +55824,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Abm7",
+                  "root": "Ab",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "F7",
+                  "root": "F",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bbmaj7",
+                  "root": "Bb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bbm7",
+                  "root": "Bb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "Eb7",
+                  "root": "Eb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Abmaj7",
+                  "root": "Ab",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Gm7b5",
+                  "root": "G",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "C7",
+                  "root": "C",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Fmaj7",
+                  "root": "F",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Ebm7",
+                  "root": "Eb",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "Ab7",
+                  "root": "Ab",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Dbmaj7",
+                  "root": "Db",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -35249,6 +56240,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Abm7",
               "root": "Ab",
               "quality": "m7",
@@ -35259,6 +56251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -35269,6 +56262,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -35279,6 +56273,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -35289,6 +56284,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "F7",
               "root": "F",
               "quality": "7",
@@ -35299,6 +56295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -35309,6 +56306,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bbmaj7",
               "root": "Bb",
               "quality": "maj7",
@@ -35319,6 +56317,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bbm7",
               "root": "Bb",
               "quality": "m7",
@@ -35329,6 +56328,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "Eb7",
               "root": "Eb",
               "quality": "7",
@@ -35339,6 +56339,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -35349,6 +56350,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Abmaj7",
               "root": "Ab",
               "quality": "maj7",
@@ -35359,6 +56361,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Gm7b5",
               "root": "G",
               "quality": "m7b5",
@@ -35369,6 +56372,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "C7",
               "root": "C",
               "quality": "7",
@@ -35379,6 +56383,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -35389,6 +56394,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Fmaj7",
               "root": "F",
               "quality": "maj7",
@@ -35399,6 +56405,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Ebm7",
               "root": "Eb",
               "quality": "m7",
@@ -35409,6 +56416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "Ab7",
               "root": "Ab",
               "quality": "7",
@@ -35419,6 +56427,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Dbmaj7",
               "root": "Db",
               "quality": "maj7",
@@ -35429,6 +56438,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -35942,9 +56952,412 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "bars": [
+            {
+              "bar": 1,
+              "chords": [
+                {
+                  "bar": 1,
+                  "sequence_index": 1,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-1",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-1"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 2,
+              "chords": [
+                {
+                  "bar": 2,
+                  "sequence_index": 2,
+                  "symbol": "Am7",
+                  "root": "A",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 3,
+              "chords": [
+                {
+                  "bar": 3,
+                  "sequence_index": 3,
+                  "symbol": "D7",
+                  "root": "D",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 4,
+              "chords": [
+                {
+                  "bar": 4,
+                  "sequence_index": 4,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 5,
+              "chords": [
+                {
+                  "bar": 5,
+                  "sequence_index": 5,
+                  "symbol": "Cmaj7",
+                  "root": "C",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-2",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-2"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 6,
+              "chords": [
+                {
+                  "bar": 6,
+                  "sequence_index": 6,
+                  "symbol": "Gb7",
+                  "root": "Gb",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 7,
+              "chords": [
+                {
+                  "bar": 7,
+                  "sequence_index": 7,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-3",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-3"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 8,
+              "chords": [
+                {
+                  "bar": 8,
+                  "sequence_index": 8,
+                  "symbol": "Bmaj7",
+                  "root": "B",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-4",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-4"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 9,
+              "chords": [
+                {
+                  "bar": 9,
+                  "sequence_index": 9,
+                  "symbol": "Bm7",
+                  "root": "B",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 10,
+              "chords": [
+                {
+                  "bar": 10,
+                  "sequence_index": 10,
+                  "symbol": "E7",
+                  "root": "E",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 11,
+              "chords": [
+                {
+                  "bar": 11,
+                  "sequence_index": 11,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-5",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-5"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 12,
+              "chords": [
+                {
+                  "bar": 12,
+                  "sequence_index": 12,
+                  "symbol": "Amaj7",
+                  "root": "A",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-6",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-6"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 13,
+              "chords": [
+                {
+                  "bar": 13,
+                  "sequence_index": 13,
+                  "symbol": "Abm7b5",
+                  "root": "Ab",
+                  "quality": "m7b5",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 14,
+              "chords": [
+                {
+                  "bar": 14,
+                  "sequence_index": 14,
+                  "symbol": "Db7",
+                  "root": "Db",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-7",
+                  "colour_role": "minor-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-7"
+              ],
+              "colour_role": "minor-key-region"
+            },
+            {
+              "bar": 15,
+              "chords": [
+                {
+                  "bar": 15,
+                  "sequence_index": 15,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-8",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-8"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 16,
+              "chords": [
+                {
+                  "bar": 16,
+                  "sequence_index": 16,
+                  "symbol": "Gbmaj7",
+                  "root": "Gb",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-9",
+                  "colour_role": "ambiguous-region"
+                }
+              ],
+              "region_ids": [
+                "region-9"
+              ],
+              "colour_role": "ambiguous-region"
+            },
+            {
+              "bar": 17,
+              "chords": [
+                {
+                  "bar": 17,
+                  "sequence_index": 17,
+                  "symbol": "Em7",
+                  "root": "E",
+                  "quality": "m7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 18,
+              "chords": [
+                {
+                  "bar": 18,
+                  "sequence_index": 18,
+                  "symbol": "A7",
+                  "root": "A",
+                  "quality": "7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 19,
+              "chords": [
+                {
+                  "bar": 19,
+                  "sequence_index": 19,
+                  "symbol": "Dmaj7",
+                  "root": "D",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            },
+            {
+              "bar": 20,
+              "chords": [
+                {
+                  "bar": 20,
+                  "sequence_index": 20,
+                  "symbol": "Gmaj7",
+                  "root": "G",
+                  "quality": "maj7",
+                  "extensions": [],
+                  "bass": null,
+                  "region_id": "region-10",
+                  "colour_role": "major-key-region"
+                }
+              ],
+              "region_ids": [
+                "region-10"
+              ],
+              "colour_role": "major-key-region"
+            }
+          ],
           "chords": [
             {
               "bar": 1,
+              "sequence_index": 1,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -35955,6 +57368,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 2,
+              "sequence_index": 2,
               "symbol": "Am7",
               "root": "A",
               "quality": "m7",
@@ -35965,6 +57379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 3,
+              "sequence_index": 3,
               "symbol": "D7",
               "root": "D",
               "quality": "7",
@@ -35975,6 +57390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 4,
+              "sequence_index": 4,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",
@@ -35985,6 +57401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 5,
+              "sequence_index": 5,
               "symbol": "Cmaj7",
               "root": "C",
               "quality": "maj7",
@@ -35995,6 +57412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 6,
+              "sequence_index": 6,
               "symbol": "Gb7",
               "root": "Gb",
               "quality": "7",
@@ -36005,6 +57423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 7,
+              "sequence_index": 7,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -36015,6 +57434,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 8,
+              "sequence_index": 8,
               "symbol": "Bmaj7",
               "root": "B",
               "quality": "maj7",
@@ -36025,6 +57445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 9,
+              "sequence_index": 9,
               "symbol": "Bm7",
               "root": "B",
               "quality": "m7",
@@ -36035,6 +57456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 10,
+              "sequence_index": 10,
               "symbol": "E7",
               "root": "E",
               "quality": "7",
@@ -36045,6 +57467,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 11,
+              "sequence_index": 11,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -36055,6 +57478,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 12,
+              "sequence_index": 12,
               "symbol": "Amaj7",
               "root": "A",
               "quality": "maj7",
@@ -36065,6 +57489,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 13,
+              "sequence_index": 13,
               "symbol": "Abm7b5",
               "root": "Ab",
               "quality": "m7b5",
@@ -36075,6 +57500,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 14,
+              "sequence_index": 14,
               "symbol": "Db7",
               "root": "Db",
               "quality": "7",
@@ -36085,6 +57511,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 15,
+              "sequence_index": 15,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -36095,6 +57522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 16,
+              "sequence_index": 16,
               "symbol": "Gbmaj7",
               "root": "Gb",
               "quality": "maj7",
@@ -36105,6 +57533,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 17,
+              "sequence_index": 17,
               "symbol": "Em7",
               "root": "E",
               "quality": "m7",
@@ -36115,6 +57544,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 18,
+              "sequence_index": 18,
               "symbol": "A7",
               "root": "A",
               "quality": "7",
@@ -36125,6 +57555,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 19,
+              "sequence_index": 19,
               "symbol": "Dmaj7",
               "root": "D",
               "quality": "maj7",
@@ -36135,6 +57566,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             },
             {
               "bar": 20,
+              "sequence_index": 20,
               "symbol": "Gmaj7",
               "root": "G",
               "quality": "maj7",

@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import { createChartViewModel } from "../src/ui/chartViewModel.ts";
+import { createChartViewModel, createPlainTextChartViewModel } from "../src/ui/chartViewModel.ts";
 import { createImportedChartViewModel, extractBrowserIrealLink, parseBrowserChartInput } from "../src/ui/importController.ts";
 import { createPracticeCardForRegion, REGION_ROLE_CLASSES } from "../src/ui/regionViewModel.ts";
 import type { ManualTuneFixture } from "../src/fixtures/manualChordFixtures.ts";
@@ -97,4 +97,18 @@ test("selected ii-V region produces a practice card", () => {
   assert.equal(card.think_v, "G7");
   assert.equal(card.resolve_to, "Cmaj7");
   assert.ok(card.drills.length > 0);
+});
+
+test("plain-text UI model preserves bars with multiple chords", () => {
+  const model = createPlainTextChartViewModel("| Dm7 G7 | Cmaj7 |", {
+    title: "Practice ii-V-I",
+    declaredKey: "C major"
+  });
+
+  assert.equal(model.source_kind, "plain_text");
+  assert.deepEqual(
+    model.bars.map((bar) => bar.chords.map((chord) => chord.symbol)),
+    [["Dm7", "G7"], ["Cmaj7"]]
+  );
+  assert.equal(model.analysis[0].function, "ii-V-I");
 });

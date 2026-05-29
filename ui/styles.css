@@ -66,10 +66,16 @@ button:disabled {
 
 textarea,
 select,
+input[type="text"],
 input[type="file"] {
   width: 100%;
   background: var(--surface);
   color: var(--ink);
+}
+
+input[type="text"] {
+  min-height: 38px;
+  padding: 0 10px;
 }
 
 textarea {
@@ -192,6 +198,20 @@ dd {
   min-width: 112px;
 }
 
+.plain-text-control,
+.plain-text-area-control {
+  grid-column: span 1;
+}
+
+.plain-text-area-control {
+  grid-column: 1 / -1;
+}
+
+.plain-text-area-control button {
+  justify-self: start;
+  min-width: 156px;
+}
+
 .status-row {
   display: flex;
   min-height: 32px;
@@ -257,6 +277,18 @@ dd {
   margin-bottom: 12px;
 }
 
+.pack-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.pack-actions select {
+  width: auto;
+  min-width: 160px;
+}
+
 .quiet-text {
   color: var(--muted);
   font-size: 0.82rem;
@@ -318,10 +350,17 @@ dd {
 }
 
 .chord-symbol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
   align-self: end;
   font-size: 1.22rem;
   font-weight: 840;
   overflow-wrap: anywhere;
+}
+
+.chord-symbol span {
+  display: inline-block;
 }
 
 .region-list,
@@ -419,6 +458,11 @@ dd {
   background: var(--surface);
 }
 
+.subheading {
+  margin: 12px 0 6px;
+  font-size: 0.84rem;
+}
+
 .practice-scale {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -456,6 +500,33 @@ dd {
 
 .target-tones {
   margin-top: 10px;
+}
+
+.key-trainer-list {
+  margin-top: 12px;
+}
+
+.key-trainer-table {
+  display: grid;
+  gap: 6px;
+}
+
+.key-trainer-row {
+  display: grid;
+  grid-template-columns: minmax(90px, 0.8fr) 54px minmax(160px, 1.4fr) minmax(92px, 0.8fr) minmax(120px, 1fr);
+  gap: 8px;
+  align-items: center;
+  min-height: 42px;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-soft);
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.key-trainer-row strong {
+  color: var(--ink);
 }
 
 pre {
@@ -532,6 +603,10 @@ pre {
 
   .chart-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .key-trainer-row {
+    grid-template-columns: 1fr;
   }
 
   .section-heading,

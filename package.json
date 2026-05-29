@@ -1,10 +1,11 @@
 {
   "name": "jazzcat",
-  "version": "0.2.0",
-  "description": "JazzCat v0.2 bring-your-own-chart harmony prototype.",
+  "version": "0.3.0",
+  "description": "JazzCat v0.3 practice mode and plain-text chord entry prototype.",
   "type": "module",
   "scripts": {
     "analyse": "node --experimental-strip-types src/cli/analyse.ts",
+    "analyse:text": "node --experimental-strip-types src/cli/analyseText.ts",
     "build:preview": "node --experimental-strip-types src/ui/buildPreviewData.ts",
     "test": "node --experimental-strip-types --test tests/*.test.ts"
   },
