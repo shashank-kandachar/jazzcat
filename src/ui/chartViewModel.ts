@@ -1,5 +1,6 @@
 import type { IrealMetadata, ParsedIrealPayload } from "../import/parseIrealMetadata.ts";
 import type { HarmonyAnalysis, PracticeObject, SemanticRegion } from "../core/types.ts";
+import type { ChartSection } from "../core/tuneStudyTypes.ts";
 import { analyseProgression } from "../core/harmony/analyseProgression.ts";
 import { preferFlatNames } from "../core/harmony/intervals.ts";
 import { transposeChart } from "../core/chord/transposeChord.ts";
@@ -25,6 +26,8 @@ export interface UiBarViewModel {
   chords: UiChordViewModel[];
   region_ids: string[];
   colour_role: string | null;
+  section_id: string | null;
+  section_label: string | null;
 }
 
 export interface UiIrealPayloadViewModel {
@@ -44,11 +47,13 @@ export interface ChartViewModel {
   title: string;
   composer: string | null;
   declared_key: string | null;
+  form: string | null;
   style: string | null;
   tempo: number | null;
   current_transposition_shift: number;
   current_transposition_label: string;
   expected_regions: string[];
+  sections: ChartSection[];
   bars: UiBarViewModel[];
   chords: UiChordViewModel[];
   regions: SemanticRegion[];
@@ -121,15 +126,19 @@ export function createChartViewModel(fixture: ManualTuneFixture, options: ChartV
     composer: metadata?.composer ?? null,
     declared_key: metadata?.declared_key ?? fixture.declared_key,
     style: metadata?.style ?? fixture.style,
+    form: null,
     tempo: metadata?.tempo ?? null,
     current_transposition_shift: shift,
     current_transposition_label: formatTransposeShift(shift),
     expected_regions: fixture.expected_regions,
+    sections: [],
     bars: chords.map((chord) => ({
       bar: chord.bar,
       chords: [chord],
       region_ids: chord.region_id ? [chord.region_id] : [],
-      colour_role: chord.colour_role
+      colour_role: chord.colour_role,
+      section_id: null,
+      section_label: null
     })),
     chords,
     regions: analysed.regions,
@@ -158,11 +167,13 @@ export function createUnknownImportViewModel(
     title: metadata.title ?? "Unknown iReal Chart",
     composer: metadata.composer ?? null,
     declared_key: metadata.declared_key ?? null,
+    form: null,
     style: metadata.style ?? null,
     tempo: metadata.tempo ?? null,
     current_transposition_shift: 0,
     current_transposition_label: "0",
     expected_regions: [],
+    sections: [],
     bars: [],
     chords: [],
     regions: [],
@@ -185,6 +196,18 @@ function splitShiftedChordsIntoBars(parsedChart: PlainTextChart, shiftedChords: 
   });
 }
 
+function sequenceToBarNumbers(parsedChart: PlainTextChart): Map<number, number> {
+  const sequenceToBar = new Map<number, number>();
+  let cursor = 0;
+  parsedChart.bars.forEach((bar) => {
+    bar.chords.forEach(() => {
+      cursor += 1;
+      sequenceToBar.set(cursor, bar.bar);
+    });
+  });
+  return sequenceToBar;
+}
+
 export function createPlainTextChartViewModel(
   input: string,
   options: {
@@ -195,10 +218,24 @@ export function createPlainTextChartViewModel(
 ): ChartViewModel {
   const parsed = parsePlainTextChart(input);
   const shift = wrapTransposeShift(options.transpose ?? 0);
-  const preferFlats = preferFlatNames(options.declaredKey, ...parsed.chords);
+  const declaredKey = options.declaredKey?.trim() || parsed.metadata.declared_key;
+  const preferFlats = preferFlatNames(declaredKey, ...parsed.chords);
   const shiftedChords = shift === 0 ? parsed.chords : transposeChart(parsed.chords, shift, { preferFlats });
   const shiftedBars = splitShiftedChordsIntoBars(parsed, shiftedChords);
   const analysed = analyseProgression(shiftedChords);
+  const sequenceToBar = sequenceToBarNumbers(parsed);
+  const remappedAnalysis = analysed.analysis.map((item) => ({
+    ...item,
+    span: {
+      start_bar: sequenceToBar.get(item.span.start_bar) ?? item.span.start_bar,
+      end_bar: sequenceToBar.get(item.span.end_bar) ?? item.span.end_bar
+    }
+  }));
+  const remappedRegions = analysed.regions.map((region) => ({
+    ...region,
+    start_bar: sequenceToBar.get(region.start_bar) ?? region.start_bar,
+    end_bar: sequenceToBar.get(region.end_bar) ?? region.end_bar
+  }));
   const chords: UiChordViewModel[] = [];
 
   shiftedBars.forEach((bar) => {
@@ -223,27 +260,32 @@ export function createPlainTextChartViewModel(
   return {
     id: "plain-text-chart",
     source_kind: "plain_text",
-    title: options.title?.trim() || "Untitled Progression",
-    composer: null,
-    declared_key: options.declaredKey?.trim() || null,
-    style: "Plain Text",
-    tempo: null,
+    title: options.title?.trim() || parsed.metadata.title || "Untitled Progression",
+    composer: parsed.metadata.composer,
+    declared_key: declaredKey,
+    form: parsed.metadata.form,
+    style: parsed.metadata.style ?? "Plain Text",
+    tempo: parsed.metadata.tempo,
     current_transposition_shift: shift,
     current_transposition_label: formatTransposeShift(shift),
     expected_regions: [],
+    sections: parsed.sections,
     bars: shiftedBars.map((bar) => {
       const barChords = chords.filter((chord) => chord.bar === bar.bar);
       const regionIds = [...new Set(barChords.map((chord) => chord.region_id).filter((id): id is string => Boolean(id)))];
+      const sourceBar = parsed.bars.find((item) => item.bar === bar.bar);
       return {
         bar: bar.bar,
         chords: barChords,
         region_ids: regionIds,
-        colour_role: barChords.find((chord) => chord.colour_role)?.colour_role ?? null
+        colour_role: barChords.find((chord) => chord.colour_role)?.colour_role ?? null,
+        section_id: sourceBar?.section_id ?? null,
+        section_label: sourceBar?.section_label ?? null
       };
     }),
     chords,
-    regions: analysed.regions,
-    analysis: analysed.analysis,
+    regions: remappedRegions,
+    analysis: remappedAnalysis,
     practice_objects: analysed.practice_objects,
     ireal: payloadViewModel(null),
     warnings: [...parsed.warnings, ...analysed.warnings]

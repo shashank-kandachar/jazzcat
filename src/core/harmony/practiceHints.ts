@@ -18,8 +18,10 @@ export function buildPracticeObjects(analysis: HarmonyAnalysis[]): PracticeObjec
       target_tones: item.target_tones ?? targetTonesFor(item.resolve_to ?? ""),
       suggested_drills: [
         `Play guide tones through ${item.chords.join(" | ")}.`,
+        `Voice-lead shell voicings through ${item.chords.join(" | ")}.`,
         `Run the line in 12 keys, resolving clearly to ${item.resolve_to}.`,
-        `Comp shell voicings, then single-note lines from ${item.think_v}.`
+        `Comp shell voicings, then single-note lines from ${item.think_v}.`,
+        "Play the same idea in two nearby fretboard positions."
       ]
     }));
 }

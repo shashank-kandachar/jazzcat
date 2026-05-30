@@ -10,7 +10,7 @@
     <main class="app-shell">
       <header class="topbar">
         <div>
-          <p class="eyebrow">JazzCat v0.3</p>
+          <p class="eyebrow">JazzCat v0.4</p>
           <h1 id="tune-title">JazzCat</h1>
         </div>
         <dl class="meta-strip" aria-label="Tune metadata">
@@ -25,6 +25,10 @@
           <div>
             <dt>Style</dt>
             <dd id="meta-style">-</dd>
+          </div>
+          <div>
+            <dt>Form</dt>
+            <dd id="meta-form">-</dd>
           </div>
           <div>
             <dt>Tempo</dt>
@@ -76,7 +80,13 @@
 
         <div class="import-control plain-text-area-control">
           <label for="plain-text-input">Plain Text Chords</label>
-          <textarea id="plain-text-input" rows="4" spellcheck="false">| Dm7 G7 | Cmaj7 | Cmaj7 |</textarea>
+          <textarea id="plain-text-input" rows="4" spellcheck="false">Title: Untitled Study
+Key: C major
+Form: AABA
+A:
+| Dm7 G7 | Cmaj7 | / | Cmaj7 |
+Bridge:
+| E7 A7 | D7 G7 | Cmaj7 | Cmaj7 |</textarea>
           <button id="analyse-plain-text-button" type="button">Analyse Plain Text</button>
         </div>
       </section>
@@ -89,7 +99,7 @@
       <section class="workbench" aria-label="Harmony workbench">
         <section class="chart-panel" aria-label="Chord chart">
           <div class="section-heading">
-            <h2>Chart</h2>
+            <h2>Lead Sheet</h2>
             <div class="transpose-controls" aria-label="Transpose chart">
               <button id="transpose-down" type="button" aria-label="Transpose down semitone">-</button>
               <span id="transpose-label">Shift 0</span>
@@ -105,6 +115,7 @@
             <h2>Regions</h2>
             <span id="confidence-summary" class="quiet-text"></span>
           </div>
+          <div id="harmony-map" class="harmony-map"></div>
           <div id="region-list" class="region-list"></div>
           <div id="region-detail" class="region-detail"></div>
         </section>
@@ -128,6 +139,10 @@
           </div>
           <div id="practice-list" class="practice-list"></div>
           <div id="key-trainer-list" class="key-trainer-list"></div>
+          <div class="practice-notes">
+            <label for="practice-notes-input">Tune Notes / Practice Notes</label>
+            <textarea id="practice-notes-input" rows="4" spellcheck="true" placeholder="Add your own practice notes here."></textarea>
+          </div>
         </section>
 
         <section class="payload-panel" aria-label="iReal payload">

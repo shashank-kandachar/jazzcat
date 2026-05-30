@@ -1,6 +1,6 @@
 window.JAZZCAT_PREVIEW_DATA = {
   "app": "JazzCat",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "demo_tunes": [
     {
       "slug": "autumn-leaves",
@@ -18,6 +18,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 0,
           "current_transposition_label": "0",
@@ -27,6 +28,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -46,7 +48,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -66,7 +70,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -86,7 +92,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -106,7 +114,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -126,7 +136,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -148,7 +160,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -168,7 +182,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -188,7 +204,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -208,7 +226,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -228,7 +248,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -248,7 +270,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -268,7 +292,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -288,7 +314,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -310,7 +338,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -330,7 +360,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -350,7 +382,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -653,6 +687,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -679,6 +714,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7(b9) altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7(b9)",
               "resolve_to": "Gm",
               "scale_suggestions": {
@@ -727,6 +763,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7 altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7",
               "resolve_to": "Em",
               "scale_suggestions": {
@@ -775,6 +812,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7(b13) altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7(b13)",
               "resolve_to": "Gm",
               "scale_suggestions": {
@@ -830,8 +868,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7 | Ebmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -852,8 +892,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7(b9) | Gm.",
+                "Voice-lead shell voicings through Am7b5 | D7(b9) | Gm.",
                 "Run the line in 12 keys, resolving clearly to Gm.",
-                "Comp shell voicings, then single-note lines from D7(b9)."
+                "Comp shell voicings, then single-note lines from D7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -874,8 +916,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through F#m7b5 | B7 | Em.",
+                "Voice-lead shell voicings through F#m7b5 | B7 | Em.",
                 "Run the line in 12 keys, resolving clearly to Em.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -896,8 +940,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7(b13) | Gm.",
+                "Voice-lead shell voicings through Am7b5 | D7(b13) | Gm.",
                 "Run the line in 12 keys, resolving clearly to Gm.",
-                "Comp shell voicings, then single-note lines from D7(b13)."
+                "Comp shell voicings, then single-note lines from D7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -920,6 +966,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 1,
           "current_transposition_label": "+1",
@@ -929,6 +976,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -948,7 +996,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -968,7 +1018,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -988,7 +1040,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -1008,7 +1062,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -1028,7 +1084,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -1050,7 +1108,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -1070,7 +1130,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -1090,7 +1152,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -1110,7 +1174,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -1130,7 +1196,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -1150,7 +1218,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -1170,7 +1240,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -1190,7 +1262,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -1212,7 +1286,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -1232,7 +1308,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -1252,7 +1330,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -1555,6 +1635,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -1581,6 +1662,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7(b9) altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7(b9)",
               "resolve_to": "Abm",
               "scale_suggestions": {
@@ -1629,6 +1711,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7 altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7",
               "resolve_to": "Fm",
               "scale_suggestions": {
@@ -1677,6 +1760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7(b13) altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7(b13)",
               "resolve_to": "Abm",
               "scale_suggestions": {
@@ -1732,8 +1816,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7 | Emaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -1754,8 +1840,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7(b9) | Abm.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7(b9) | Abm.",
                 "Run the line in 12 keys, resolving clearly to Abm.",
-                "Comp shell voicings, then single-note lines from Eb7(b9)."
+                "Comp shell voicings, then single-note lines from Eb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -1776,8 +1864,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7 | Fm.",
+                "Voice-lead shell voicings through Gm7b5 | C7 | Fm.",
                 "Run the line in 12 keys, resolving clearly to Fm.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -1798,8 +1888,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7(b13) | Abm.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7(b13) | Abm.",
                 "Run the line in 12 keys, resolving clearly to Abm.",
-                "Comp shell voicings, then single-note lines from Eb7(b13)."
+                "Comp shell voicings, then single-note lines from Eb7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -1822,6 +1914,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 2,
           "current_transposition_label": "+2",
@@ -1831,6 +1924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -1850,7 +1944,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -1870,7 +1966,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -1890,7 +1988,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -1910,7 +2010,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -1930,7 +2032,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -1952,7 +2056,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -1972,7 +2078,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -1992,7 +2100,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -2012,7 +2122,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -2032,7 +2144,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -2052,7 +2166,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -2072,7 +2188,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -2092,7 +2210,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -2114,7 +2234,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -2134,7 +2256,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -2154,7 +2278,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -2457,6 +2583,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -2483,6 +2610,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7(b9) altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7(b9)",
               "resolve_to": "Am",
               "scale_suggestions": {
@@ -2531,6 +2659,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7 altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7",
               "resolve_to": "Gbm",
               "scale_suggestions": {
@@ -2579,6 +2708,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7(b13) altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7(b13)",
               "resolve_to": "Am",
               "scale_suggestions": {
@@ -2634,8 +2764,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7 | Fmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -2656,8 +2788,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7(b9) | Am.",
+                "Voice-lead shell voicings through Bm7b5 | E7(b9) | Am.",
                 "Run the line in 12 keys, resolving clearly to Am.",
-                "Comp shell voicings, then single-note lines from E7(b9)."
+                "Comp shell voicings, then single-note lines from E7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -2678,8 +2812,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7 | Gbm.",
+                "Voice-lead shell voicings through Abm7b5 | Db7 | Gbm.",
                 "Run the line in 12 keys, resolving clearly to Gbm.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -2700,8 +2836,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7(b13) | Am.",
+                "Voice-lead shell voicings through Bm7b5 | E7(b13) | Am.",
                 "Run the line in 12 keys, resolving clearly to Am.",
-                "Comp shell voicings, then single-note lines from E7(b13)."
+                "Comp shell voicings, then single-note lines from E7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -2724,6 +2862,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 3,
           "current_transposition_label": "+3",
@@ -2733,6 +2872,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -2752,7 +2892,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -2772,7 +2914,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -2792,7 +2936,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -2812,7 +2958,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -2832,7 +2980,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -2854,7 +3004,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -2874,7 +3026,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -2894,7 +3048,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -2914,7 +3070,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -2934,7 +3092,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -2954,7 +3114,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -2974,7 +3136,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -2994,7 +3158,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -3016,7 +3182,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -3036,7 +3204,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -3056,7 +3226,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -3359,6 +3531,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -3385,6 +3558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7(b9) altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7(b9)",
               "resolve_to": "Bbm",
               "scale_suggestions": {
@@ -3433,6 +3607,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7 altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7",
               "resolve_to": "Gm",
               "scale_suggestions": {
@@ -3481,6 +3656,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7(b13) altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7(b13)",
               "resolve_to": "Bbm",
               "scale_suggestions": {
@@ -3536,8 +3712,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7 | Gbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -3558,8 +3736,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7(b9) | Bbm.",
+                "Voice-lead shell voicings through Cm7b5 | F7(b9) | Bbm.",
                 "Run the line in 12 keys, resolving clearly to Bbm.",
-                "Comp shell voicings, then single-note lines from F7(b9)."
+                "Comp shell voicings, then single-note lines from F7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -3580,8 +3760,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7 | Gm.",
+                "Voice-lead shell voicings through Am7b5 | D7 | Gm.",
                 "Run the line in 12 keys, resolving clearly to Gm.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -3602,8 +3784,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7(b13) | Bbm.",
+                "Voice-lead shell voicings through Cm7b5 | F7(b13) | Bbm.",
                 "Run the line in 12 keys, resolving clearly to Bbm.",
-                "Comp shell voicings, then single-note lines from F7(b13)."
+                "Comp shell voicings, then single-note lines from F7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -3626,6 +3810,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 4,
           "current_transposition_label": "+4",
@@ -3635,6 +3820,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -3654,7 +3840,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -3674,7 +3862,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -3694,7 +3884,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -3714,7 +3906,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -3734,7 +3928,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -3756,7 +3952,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -3776,7 +3974,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -3796,7 +3996,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -3816,7 +4018,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -3836,7 +4040,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -3856,7 +4062,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -3876,7 +4084,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -3896,7 +4106,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -3918,7 +4130,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -3938,7 +4152,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -3958,7 +4174,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -4261,6 +4479,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -4287,6 +4506,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7(b9) altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7(b9)",
               "resolve_to": "Bm",
               "scale_suggestions": {
@@ -4335,6 +4555,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7 altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7",
               "resolve_to": "Abm",
               "scale_suggestions": {
@@ -4383,6 +4604,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7(b13) altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7(b13)",
               "resolve_to": "Bm",
               "scale_suggestions": {
@@ -4438,8 +4660,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7 | Gmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -4460,8 +4684,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7(b9) | Bm.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7(b9) | Bm.",
                 "Run the line in 12 keys, resolving clearly to Bm.",
-                "Comp shell voicings, then single-note lines from Gb7(b9)."
+                "Comp shell voicings, then single-note lines from Gb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -4482,8 +4708,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7 | Abm.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7 | Abm.",
                 "Run the line in 12 keys, resolving clearly to Abm.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -4504,8 +4732,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7(b13) | Bm.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7(b13) | Bm.",
                 "Run the line in 12 keys, resolving clearly to Bm.",
-                "Comp shell voicings, then single-note lines from Gb7(b13)."
+                "Comp shell voicings, then single-note lines from Gb7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -4528,6 +4758,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 5,
           "current_transposition_label": "+5",
@@ -4537,6 +4768,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -4556,7 +4788,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -4576,7 +4810,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -4596,7 +4832,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -4616,7 +4854,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -4636,7 +4876,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -4658,7 +4900,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -4678,7 +4922,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -4698,7 +4944,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -4718,7 +4966,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -4738,7 +4988,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -4758,7 +5010,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -4778,7 +5032,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -4798,7 +5054,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -4820,7 +5078,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -4840,7 +5100,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -4860,7 +5122,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -5163,6 +5427,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -5189,6 +5454,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7(b9) altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7(b9)",
               "resolve_to": "Cm",
               "scale_suggestions": {
@@ -5237,6 +5503,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7 altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7",
               "resolve_to": "Am",
               "scale_suggestions": {
@@ -5285,6 +5552,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7(b13) altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7(b13)",
               "resolve_to": "Cm",
               "scale_suggestions": {
@@ -5340,8 +5608,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7 | Abmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -5362,8 +5632,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7(b9) | Cm.",
+                "Voice-lead shell voicings through Dm7b5 | G7(b9) | Cm.",
                 "Run the line in 12 keys, resolving clearly to Cm.",
-                "Comp shell voicings, then single-note lines from G7(b9)."
+                "Comp shell voicings, then single-note lines from G7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -5384,8 +5656,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7 | Am.",
+                "Voice-lead shell voicings through Bm7b5 | E7 | Am.",
                 "Run the line in 12 keys, resolving clearly to Am.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -5406,8 +5680,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7(b13) | Cm.",
+                "Voice-lead shell voicings through Dm7b5 | G7(b13) | Cm.",
                 "Run the line in 12 keys, resolving clearly to Cm.",
-                "Comp shell voicings, then single-note lines from G7(b13)."
+                "Comp shell voicings, then single-note lines from G7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -5430,6 +5706,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": 6,
           "current_transposition_label": "+6",
@@ -5439,6 +5716,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -5458,7 +5736,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -5478,7 +5758,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -5498,7 +5780,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -5518,7 +5802,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -5538,7 +5824,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -5560,7 +5848,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -5580,7 +5870,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -5600,7 +5892,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -5620,7 +5914,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -5640,7 +5936,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -5660,7 +5958,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -5680,7 +5980,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -5700,7 +6002,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -5722,7 +6026,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -5742,7 +6048,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -5762,7 +6070,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -6065,6 +6375,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -6091,6 +6402,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7(b9) altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7(b9)",
               "resolve_to": "Dbm",
               "scale_suggestions": {
@@ -6139,6 +6451,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7 altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7",
               "resolve_to": "Bbm",
               "scale_suggestions": {
@@ -6187,6 +6500,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7(b13) altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7(b13)",
               "resolve_to": "Dbm",
               "scale_suggestions": {
@@ -6242,8 +6556,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7 | Amaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -6264,8 +6580,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7(b9) | Dbm.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7(b9) | Dbm.",
                 "Run the line in 12 keys, resolving clearly to Dbm.",
-                "Comp shell voicings, then single-note lines from Ab7(b9)."
+                "Comp shell voicings, then single-note lines from Ab7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -6286,8 +6604,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7 | Bbm.",
+                "Voice-lead shell voicings through Cm7b5 | F7 | Bbm.",
                 "Run the line in 12 keys, resolving clearly to Bbm.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -6308,8 +6628,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7(b13) | Dbm.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7(b13) | Dbm.",
                 "Run the line in 12 keys, resolving clearly to Dbm.",
-                "Comp shell voicings, then single-note lines from Ab7(b13)."
+                "Comp shell voicings, then single-note lines from Ab7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -6332,6 +6654,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": -5,
           "current_transposition_label": "-5",
@@ -6341,6 +6664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -6360,7 +6684,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -6380,7 +6706,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -6400,7 +6728,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -6420,7 +6750,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -6440,7 +6772,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -6462,7 +6796,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -6482,7 +6818,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -6502,7 +6840,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -6522,7 +6862,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -6542,7 +6884,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -6562,7 +6906,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -6582,7 +6928,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -6602,7 +6950,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -6624,7 +6974,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -6644,7 +6996,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -6664,7 +7018,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -6967,6 +7323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -6993,6 +7350,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7(b9) altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7(b9)",
               "resolve_to": "Dm",
               "scale_suggestions": {
@@ -7041,6 +7399,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7 altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7",
               "resolve_to": "Bm",
               "scale_suggestions": {
@@ -7089,6 +7448,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7(b13) altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7(b13)",
               "resolve_to": "Dm",
               "scale_suggestions": {
@@ -7144,8 +7504,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7 | Bbmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -7166,8 +7528,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7(b9) | Dm.",
+                "Voice-lead shell voicings through Em7b5 | A7(b9) | Dm.",
                 "Run the line in 12 keys, resolving clearly to Dm.",
-                "Comp shell voicings, then single-note lines from A7(b9)."
+                "Comp shell voicings, then single-note lines from A7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -7188,8 +7552,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7 | Bm.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7 | Bm.",
                 "Run the line in 12 keys, resolving clearly to Bm.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -7210,8 +7576,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7(b13) | Dm.",
+                "Voice-lead shell voicings through Em7b5 | A7(b13) | Dm.",
                 "Run the line in 12 keys, resolving clearly to Dm.",
-                "Comp shell voicings, then single-note lines from A7(b13)."
+                "Comp shell voicings, then single-note lines from A7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -7234,6 +7602,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": -4,
           "current_transposition_label": "-4",
@@ -7243,6 +7612,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -7262,7 +7632,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -7282,7 +7654,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -7302,7 +7676,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -7322,7 +7698,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -7342,7 +7720,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -7364,7 +7744,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -7384,7 +7766,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -7404,7 +7788,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -7424,7 +7810,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -7444,7 +7832,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -7464,7 +7854,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -7484,7 +7876,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -7504,7 +7898,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -7526,7 +7922,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -7546,7 +7944,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -7566,7 +7966,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -7869,6 +8271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -7895,6 +8298,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7(b9) altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7(b9)",
               "resolve_to": "Ebm",
               "scale_suggestions": {
@@ -7943,6 +8347,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7 altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7",
               "resolve_to": "Cm",
               "scale_suggestions": {
@@ -7991,6 +8396,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7(b13) altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7(b13)",
               "resolve_to": "Ebm",
               "scale_suggestions": {
@@ -8046,8 +8452,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7 | Bmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -8068,8 +8476,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7(b9) | Ebm.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7(b9) | Ebm.",
                 "Run the line in 12 keys, resolving clearly to Ebm.",
-                "Comp shell voicings, then single-note lines from Bb7(b9)."
+                "Comp shell voicings, then single-note lines from Bb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -8090,8 +8500,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7 | Cm.",
+                "Voice-lead shell voicings through Dm7b5 | G7 | Cm.",
                 "Run the line in 12 keys, resolving clearly to Cm.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -8112,8 +8524,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7(b13) | Ebm.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7(b13) | Ebm.",
                 "Run the line in 12 keys, resolving clearly to Ebm.",
-                "Comp shell voicings, then single-note lines from Bb7(b13)."
+                "Comp shell voicings, then single-note lines from Bb7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -8136,6 +8550,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": -3,
           "current_transposition_label": "-3",
@@ -8145,6 +8560,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -8164,7 +8580,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -8184,7 +8602,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -8204,7 +8624,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -8224,7 +8646,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -8244,7 +8668,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -8266,7 +8692,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -8286,7 +8714,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -8306,7 +8736,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -8326,7 +8758,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -8346,7 +8780,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -8366,7 +8802,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -8386,7 +8824,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -8406,7 +8846,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -8428,7 +8870,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -8448,7 +8892,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -8468,7 +8914,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -8771,6 +9219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -8797,6 +9246,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7(b9) altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7(b9)",
               "resolve_to": "Em",
               "scale_suggestions": {
@@ -8845,6 +9295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7 altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7",
               "resolve_to": "Dbm",
               "scale_suggestions": {
@@ -8893,6 +9344,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7(b13) altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7(b13)",
               "resolve_to": "Em",
               "scale_suggestions": {
@@ -8948,8 +9400,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7 | Cmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -8970,8 +9424,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7(b9) | Em.",
+                "Voice-lead shell voicings through Gbm7b5 | B7(b9) | Em.",
                 "Run the line in 12 keys, resolving clearly to Em.",
-                "Comp shell voicings, then single-note lines from B7(b9)."
+                "Comp shell voicings, then single-note lines from B7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -8992,8 +9448,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7 | Dbm.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7 | Dbm.",
                 "Run the line in 12 keys, resolving clearly to Dbm.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -9014,8 +9472,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7(b13) | Em.",
+                "Voice-lead shell voicings through Gbm7b5 | B7(b13) | Em.",
                 "Run the line in 12 keys, resolving clearly to Em.",
-                "Comp shell voicings, then single-note lines from B7(b13)."
+                "Comp shell voicings, then single-note lines from B7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -9038,6 +9498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": -2,
           "current_transposition_label": "-2",
@@ -9047,6 +9508,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -9066,7 +9528,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -9086,7 +9550,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -9106,7 +9572,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -9126,7 +9594,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -9146,7 +9616,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -9168,7 +9640,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -9188,7 +9662,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -9208,7 +9684,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -9228,7 +9706,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -9248,7 +9728,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -9268,7 +9750,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -9288,7 +9772,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -9308,7 +9794,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -9330,7 +9818,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -9350,7 +9840,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -9370,7 +9862,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -9673,6 +10167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -9699,6 +10194,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7(b9) altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7(b9)",
               "resolve_to": "Fm",
               "scale_suggestions": {
@@ -9747,6 +10243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7 altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7",
               "resolve_to": "Dm",
               "scale_suggestions": {
@@ -9795,6 +10292,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7(b13) altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7(b13)",
               "resolve_to": "Fm",
               "scale_suggestions": {
@@ -9850,8 +10348,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7 | Dbmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -9872,8 +10372,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7(b9) | Fm.",
+                "Voice-lead shell voicings through Gm7b5 | C7(b9) | Fm.",
                 "Run the line in 12 keys, resolving clearly to Fm.",
-                "Comp shell voicings, then single-note lines from C7(b9)."
+                "Comp shell voicings, then single-note lines from C7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -9894,8 +10396,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7 | Dm.",
+                "Voice-lead shell voicings through Em7b5 | A7 | Dm.",
                 "Run the line in 12 keys, resolving clearly to Dm.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -9916,8 +10420,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7(b13) | Fm.",
+                "Voice-lead shell voicings through Gm7b5 | C7(b13) | Fm.",
                 "Run the line in 12 keys, resolving clearly to Fm.",
-                "Comp shell voicings, then single-note lines from C7(b13)."
+                "Comp shell voicings, then single-note lines from C7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -9940,6 +10446,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kosma Joseph",
           "declared_key": "G minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 112,
           "current_transposition_shift": -1,
           "current_transposition_label": "-1",
@@ -9949,6 +10456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "E minor temporary tonicisation",
             "G minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -9968,7 +10476,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -9988,7 +10498,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -10008,7 +10520,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -10028,7 +10542,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -10048,7 +10564,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -10070,7 +10588,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -10090,7 +10610,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -10110,7 +10632,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -10130,7 +10654,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -10150,7 +10676,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -10170,7 +10698,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -10190,7 +10720,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -10210,7 +10742,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -10232,7 +10766,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -10252,7 +10788,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -10272,7 +10810,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -10575,6 +11115,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -10601,6 +11142,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7(b9) altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7(b9)",
               "resolve_to": "Gbm",
               "scale_suggestions": {
@@ -10649,6 +11191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7 altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7",
               "resolve_to": "Ebm",
               "scale_suggestions": {
@@ -10697,6 +11240,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7(b13) altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7(b13)",
               "resolve_to": "Gbm",
               "scale_suggestions": {
@@ -10752,8 +11296,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7 | Dmaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -10774,8 +11320,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7(b9) | Gbm.",
+                "Voice-lead shell voicings through Abm7b5 | Db7(b9) | Gbm.",
                 "Run the line in 12 keys, resolving clearly to Gbm.",
-                "Comp shell voicings, then single-note lines from Db7(b9)."
+                "Comp shell voicings, then single-note lines from Db7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -10796,8 +11344,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7 | Ebm.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7 | Ebm.",
                 "Run the line in 12 keys, resolving clearly to Ebm.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -10818,8 +11368,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7(b13) | Gbm.",
+                "Voice-lead shell voicings through Abm7b5 | Db7(b13) | Gbm.",
                 "Run the line in 12 keys, resolving clearly to Gbm.",
-                "Comp shell voicings, then single-note lines from Db7(b13)."
+                "Comp shell voicings, then single-note lines from Db7(b13).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -10853,6 +11405,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 0,
           "current_transposition_label": "0",
@@ -10862,6 +11415,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -10881,7 +11435,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -10901,7 +11457,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -10921,7 +11479,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -10941,7 +11501,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -10961,7 +11523,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -10981,7 +11545,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -11001,7 +11567,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -11021,7 +11589,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -11041,7 +11611,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -11061,7 +11633,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -11081,7 +11655,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -11101,7 +11677,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -11121,7 +11699,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -11143,7 +11723,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -11163,7 +11745,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -11183,7 +11767,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -11203,7 +11789,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -11527,6 +12115,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -11575,6 +12164,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -11623,6 +12213,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -11671,6 +12262,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7(b9) altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7(b9)",
               "resolve_to": "Dm7",
               "scale_suggestions": {
@@ -11696,6 +12288,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think G7 tension, then resolve to Cmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -11728,8 +12321,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -11750,8 +12345,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -11772,8 +12369,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -11794,8 +12393,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7(b9) | Dm7.",
+                "Voice-lead shell voicings through Em7b5 | A7(b9) | Dm7.",
                 "Run the line in 12 keys, resolving clearly to Dm7.",
-                "Comp shell voicings, then single-note lines from A7(b9)."
+                "Comp shell voicings, then single-note lines from A7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -11818,6 +12419,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 1,
           "current_transposition_label": "+1",
@@ -11827,6 +12429,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -11846,7 +12449,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -11866,7 +12471,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -11886,7 +12493,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -11906,7 +12515,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -11926,7 +12537,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -11946,7 +12559,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -11966,7 +12581,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -11986,7 +12603,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -12006,7 +12625,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -12026,7 +12647,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -12046,7 +12669,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -12066,7 +12691,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -12086,7 +12713,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -12108,7 +12737,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -12128,7 +12759,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -12148,7 +12781,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -12168,7 +12803,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -12492,6 +13129,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -12540,6 +13178,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -12588,6 +13227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -12636,6 +13276,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7(b9) altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7(b9)",
               "resolve_to": "Ebm7",
               "scale_suggestions": {
@@ -12661,6 +13302,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 tension, then resolve to Dbmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -12693,8 +13335,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -12715,8 +13359,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -12737,8 +13383,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -12759,8 +13407,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7(b9) | Ebm7.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7(b9) | Ebm7.",
                 "Run the line in 12 keys, resolving clearly to Ebm7.",
-                "Comp shell voicings, then single-note lines from Bb7(b9)."
+                "Comp shell voicings, then single-note lines from Bb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -12783,6 +13433,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 2,
           "current_transposition_label": "+2",
@@ -12792,6 +13443,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -12811,7 +13463,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -12831,7 +13485,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -12851,7 +13507,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -12871,7 +13529,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -12891,7 +13551,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -12911,7 +13573,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -12931,7 +13595,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -12951,7 +13617,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -12971,7 +13639,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -12991,7 +13661,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -13011,7 +13683,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -13031,7 +13705,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -13051,7 +13727,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -13073,7 +13751,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -13093,7 +13773,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -13113,7 +13795,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -13133,7 +13817,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -13457,6 +14143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -13505,6 +14192,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -13553,6 +14241,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -13601,6 +14290,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7(b9) altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7(b9)",
               "resolve_to": "Em7",
               "scale_suggestions": {
@@ -13626,6 +14316,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think A7 tension, then resolve to Dmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -13658,8 +14349,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -13680,8 +14373,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -13702,8 +14397,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -13724,8 +14421,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7(b9) | Em7.",
+                "Voice-lead shell voicings through Gbm7b5 | B7(b9) | Em7.",
                 "Run the line in 12 keys, resolving clearly to Em7.",
-                "Comp shell voicings, then single-note lines from B7(b9)."
+                "Comp shell voicings, then single-note lines from B7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -13748,6 +14447,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 3,
           "current_transposition_label": "+3",
@@ -13757,6 +14457,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -13776,7 +14477,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -13796,7 +14499,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -13816,7 +14521,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -13836,7 +14543,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -13856,7 +14565,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -13876,7 +14587,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -13896,7 +14609,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -13916,7 +14631,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -13936,7 +14653,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -13956,7 +14675,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -13976,7 +14697,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -13996,7 +14719,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -14016,7 +14741,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -14038,7 +14765,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -14058,7 +14787,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -14078,7 +14809,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -14098,7 +14831,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -14422,6 +15157,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -14470,6 +15206,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -14518,6 +15255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -14566,6 +15304,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7(b9) altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7(b9)",
               "resolve_to": "Fm7",
               "scale_suggestions": {
@@ -14591,6 +15330,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 tension, then resolve to Ebmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -14623,8 +15363,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -14645,8 +15387,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -14667,8 +15411,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -14689,8 +15435,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7(b9) | Fm7.",
+                "Voice-lead shell voicings through Gm7b5 | C7(b9) | Fm7.",
                 "Run the line in 12 keys, resolving clearly to Fm7.",
-                "Comp shell voicings, then single-note lines from C7(b9)."
+                "Comp shell voicings, then single-note lines from C7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -14713,6 +15461,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 4,
           "current_transposition_label": "+4",
@@ -14722,6 +15471,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -14741,7 +15491,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -14761,7 +15513,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -14781,7 +15535,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -14801,7 +15557,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -14821,7 +15579,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -14841,7 +15601,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -14861,7 +15623,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -14881,7 +15645,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -14901,7 +15667,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -14921,7 +15689,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -14941,7 +15711,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -14961,7 +15733,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -14981,7 +15755,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -15003,7 +15779,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -15023,7 +15801,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -15043,7 +15823,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -15063,7 +15845,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -15387,6 +16171,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -15435,6 +16220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -15483,6 +16269,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -15531,6 +16318,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7(b9) altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7(b9)",
               "resolve_to": "Gbm7",
               "scale_suggestions": {
@@ -15556,6 +16344,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think B7 tension, then resolve to Emaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -15588,8 +16377,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -15610,8 +16401,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -15632,8 +16425,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -15654,8 +16449,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7(b9) | Gbm7.",
+                "Voice-lead shell voicings through Abm7b5 | Db7(b9) | Gbm7.",
                 "Run the line in 12 keys, resolving clearly to Gbm7.",
-                "Comp shell voicings, then single-note lines from Db7(b9)."
+                "Comp shell voicings, then single-note lines from Db7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -15678,6 +16475,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 5,
           "current_transposition_label": "+5",
@@ -15687,6 +16485,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -15706,7 +16505,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -15726,7 +16527,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -15746,7 +16549,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -15766,7 +16571,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -15786,7 +16593,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -15806,7 +16615,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -15826,7 +16637,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -15846,7 +16659,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -15866,7 +16681,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -15886,7 +16703,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -15906,7 +16725,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -15926,7 +16747,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -15946,7 +16769,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -15968,7 +16793,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -15988,7 +16815,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -16008,7 +16837,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -16028,7 +16859,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -16352,6 +17185,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -16400,6 +17234,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -16448,6 +17283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -16496,6 +17332,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7(b9) altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7(b9)",
               "resolve_to": "Gm7",
               "scale_suggestions": {
@@ -16521,6 +17358,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think C7 tension, then resolve to Fmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -16553,8 +17391,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -16575,8 +17415,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -16597,8 +17439,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -16619,8 +17463,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7(b9) | Gm7.",
+                "Voice-lead shell voicings through Am7b5 | D7(b9) | Gm7.",
                 "Run the line in 12 keys, resolving clearly to Gm7.",
-                "Comp shell voicings, then single-note lines from D7(b9)."
+                "Comp shell voicings, then single-note lines from D7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -16643,6 +17489,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 6,
           "current_transposition_label": "+6",
@@ -16652,6 +17499,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -16671,7 +17519,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -16691,7 +17541,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -16711,7 +17563,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -16731,7 +17585,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -16751,7 +17607,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -16771,7 +17629,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -16791,7 +17651,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -16811,7 +17673,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -16831,7 +17695,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -16851,7 +17717,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -16871,7 +17739,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -16891,7 +17761,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -16911,7 +17783,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -16933,7 +17807,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -16953,7 +17829,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -16973,7 +17851,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -16993,7 +17873,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -17317,6 +18199,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -17365,6 +18248,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -17413,6 +18297,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -17461,6 +18346,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7(b9) altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7(b9)",
               "resolve_to": "Abm7",
               "scale_suggestions": {
@@ -17486,6 +18372,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 tension, then resolve to Gbmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -17518,8 +18405,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -17540,8 +18429,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -17562,8 +18453,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -17584,8 +18477,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7(b9) | Abm7.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7(b9) | Abm7.",
                 "Run the line in 12 keys, resolving clearly to Abm7.",
-                "Comp shell voicings, then single-note lines from Eb7(b9)."
+                "Comp shell voicings, then single-note lines from Eb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -17608,6 +18503,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -5,
           "current_transposition_label": "-5",
@@ -17617,6 +18513,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -17636,7 +18533,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -17656,7 +18555,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -17676,7 +18577,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -17696,7 +18599,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -17716,7 +18621,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -17736,7 +18643,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -17756,7 +18665,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -17776,7 +18687,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -17796,7 +18709,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -17816,7 +18731,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -17836,7 +18753,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -17856,7 +18775,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -17876,7 +18797,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -17898,7 +18821,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -17918,7 +18843,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -17938,7 +18865,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -17958,7 +18887,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -18282,6 +19213,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -18330,6 +19262,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -18378,6 +19311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -18426,6 +19360,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7(b9) altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7(b9)",
               "resolve_to": "Am7",
               "scale_suggestions": {
@@ -18451,6 +19386,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think D7 tension, then resolve to Gmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -18483,8 +19419,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -18505,8 +19443,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -18527,8 +19467,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -18549,8 +19491,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7(b9) | Am7.",
+                "Voice-lead shell voicings through Bm7b5 | E7(b9) | Am7.",
                 "Run the line in 12 keys, resolving clearly to Am7.",
-                "Comp shell voicings, then single-note lines from E7(b9)."
+                "Comp shell voicings, then single-note lines from E7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -18573,6 +19517,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -4,
           "current_transposition_label": "-4",
@@ -18582,6 +19527,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -18601,7 +19547,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -18621,7 +19569,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -18641,7 +19591,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -18661,7 +19613,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -18681,7 +19635,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -18701,7 +19657,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -18721,7 +19679,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -18741,7 +19701,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -18761,7 +19723,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -18781,7 +19745,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -18801,7 +19767,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -18821,7 +19789,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -18841,7 +19811,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -18863,7 +19835,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -18883,7 +19857,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -18903,7 +19879,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -18923,7 +19901,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -19247,6 +20227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -19295,6 +20276,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -19343,6 +20325,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -19391,6 +20374,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7(b9) altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7(b9)",
               "resolve_to": "Bbm7",
               "scale_suggestions": {
@@ -19416,6 +20400,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 tension, then resolve to Abmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -19448,8 +20433,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -19470,8 +20457,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -19492,8 +20481,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -19514,8 +20505,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7(b9) | Bbm7.",
+                "Voice-lead shell voicings through Cm7b5 | F7(b9) | Bbm7.",
                 "Run the line in 12 keys, resolving clearly to Bbm7.",
-                "Comp shell voicings, then single-note lines from F7(b9)."
+                "Comp shell voicings, then single-note lines from F7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -19538,6 +20531,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -3,
           "current_transposition_label": "-3",
@@ -19547,6 +20541,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -19566,7 +20561,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -19586,7 +20583,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -19606,7 +20605,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -19626,7 +20627,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -19646,7 +20649,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -19666,7 +20671,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -19686,7 +20693,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -19706,7 +20715,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -19726,7 +20737,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -19746,7 +20759,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -19766,7 +20781,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -19786,7 +20803,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -19806,7 +20825,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -19828,7 +20849,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -19848,7 +20871,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -19868,7 +20893,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -19888,7 +20915,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -20212,6 +21241,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -20260,6 +21290,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -20308,6 +21339,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -20356,6 +21388,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7(b9) altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7(b9)",
               "resolve_to": "Bm7",
               "scale_suggestions": {
@@ -20381,6 +21414,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think E7 tension, then resolve to Amaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -20413,8 +21447,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -20435,8 +21471,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -20457,8 +21495,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -20479,8 +21519,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7(b9) | Bm7.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7(b9) | Bm7.",
                 "Run the line in 12 keys, resolving clearly to Bm7.",
-                "Comp shell voicings, then single-note lines from Gb7(b9)."
+                "Comp shell voicings, then single-note lines from Gb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -20503,6 +21545,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -2,
           "current_transposition_label": "-2",
@@ -20512,6 +21555,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -20531,7 +21575,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -20551,7 +21597,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -20571,7 +21619,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -20591,7 +21641,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -20611,7 +21663,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -20631,7 +21685,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -20651,7 +21707,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -20671,7 +21729,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -20691,7 +21751,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -20711,7 +21773,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -20731,7 +21795,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -20751,7 +21817,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -20771,7 +21839,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -20793,7 +21863,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -20813,7 +21885,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -20833,7 +21907,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -20853,7 +21929,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -21177,6 +22255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -21225,6 +22304,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -21273,6 +22353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -21321,6 +22402,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7(b9) altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7(b9)",
               "resolve_to": "Cm7",
               "scale_suggestions": {
@@ -21346,6 +22428,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think F7 tension, then resolve to Bbmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -21378,8 +22461,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -21400,8 +22485,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -21422,8 +22509,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -21444,8 +22533,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7(b9) | Cm7.",
+                "Voice-lead shell voicings through Dm7b5 | G7(b9) | Cm7.",
                 "Run the line in 12 keys, resolving clearly to Cm7.",
-                "Comp shell voicings, then single-note lines from G7(b9)."
+                "Comp shell voicings, then single-note lines from G7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -21468,6 +22559,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "Bb major",
           "style": "Up Tempo Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -1,
           "current_transposition_label": "-1",
@@ -21477,6 +22569,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Bb major ii-V-I",
             "Turnaround / return movement"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -21496,7 +22589,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -21516,7 +22611,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -21536,7 +22633,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -21556,7 +22655,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -21576,7 +22677,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -21596,7 +22699,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -21616,7 +22721,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -21636,7 +22743,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -21656,7 +22765,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -21676,7 +22787,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -21696,7 +22809,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -21716,7 +22831,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -21736,7 +22853,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -21758,7 +22877,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -21778,7 +22899,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -21798,7 +22921,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -21818,7 +22943,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -22142,6 +23269,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -22190,6 +23318,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -22238,6 +23367,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -22286,6 +23416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7(b9) altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7(b9)",
               "resolve_to": "Dbm7",
               "scale_suggestions": {
@@ -22311,6 +23442,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 tension, then resolve to Bmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -22343,8 +23475,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -22365,8 +23499,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -22387,8 +23523,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -22409,8 +23547,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7(b9) | Dbm7.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7(b9) | Dbm7.",
                 "Run the line in 12 keys, resolving clearly to Dbm7.",
-                "Comp shell voicings, then single-note lines from Ab7(b9)."
+                "Comp shell voicings, then single-note lines from Ab7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -22444,6 +23584,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 0,
           "current_transposition_label": "0",
@@ -22452,6 +23593,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -22465,13 +23607,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -22484,14 +23628,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -22504,14 +23650,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -22524,14 +23672,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -22544,14 +23694,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -22566,14 +23718,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -22586,14 +23740,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -22606,14 +23762,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -22626,14 +23784,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -22646,14 +23806,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -22666,14 +23828,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -22686,14 +23850,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -22706,14 +23872,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -22728,14 +23896,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -22748,14 +23918,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -22768,14 +23940,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -22788,7 +23962,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -22798,8 +23972,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -22809,8 +23983,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -22820,8 +23994,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -22831,7 +24005,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -22844,7 +24018,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -22855,7 +24029,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -22866,7 +24040,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -22877,7 +24051,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -22888,7 +24062,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -22899,7 +24073,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -22910,7 +24084,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -22921,7 +24095,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -22934,7 +24108,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -22945,7 +24119,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -22956,7 +24130,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -22964,57 +24138,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Cm7",
                 "Cm7"
               ],
               "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Cm7"
+                "Fm7",
+                "Fm7"
               ],
-              "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "F minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Fm7"
-              ],
-              "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Fm7"
-              ],
-              "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -23029,7 +24179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -23042,7 +24192,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -23057,7 +24207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -23070,7 +24220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -23085,7 +24235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -23102,88 +24252,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Cm7"
-              ],
-              "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "C minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Cm7",
                 "Cm7"
               ],
               "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Cm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Cm7",
+                "7th of Cm7",
+                "root of Cm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "C minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Fm7"
-              ],
-              "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "F minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Fm7",
                 "Fm7"
               ],
               "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Fm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Fm7",
+                "7th of Fm7",
+                "root of Fm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "F minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -23201,6 +24319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7(b9) altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7(b9)",
               "resolve_to": "Cm7",
               "scale_suggestions": {
@@ -23249,6 +24368,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -23297,6 +24417,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7(b9) altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7(b9)",
               "resolve_to": "Cm7",
               "scale_suggestions": {
@@ -23351,8 +24472,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7(b9) | Cm7.",
+                "Voice-lead shell voicings through Dm7b5 | G7(b9) | Cm7.",
                 "Run the line in 12 keys, resolving clearly to Cm7.",
-                "Comp shell voicings, then single-note lines from G7(b9)."
+                "Comp shell voicings, then single-note lines from G7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -23373,8 +24496,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -23395,8 +24520,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7(b9) | Cm7.",
+                "Voice-lead shell voicings through Dm7b5 | G7(b9) | Cm7.",
                 "Run the line in 12 keys, resolving clearly to Cm7.",
-                "Comp shell voicings, then single-note lines from G7(b9)."
+                "Comp shell voicings, then single-note lines from G7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -23419,6 +24546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 1,
           "current_transposition_label": "+1",
@@ -23427,6 +24555,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -23440,13 +24569,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -23459,14 +24590,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -23479,14 +24612,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -23499,14 +24634,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -23519,14 +24656,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -23541,14 +24680,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -23561,14 +24702,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -23581,14 +24724,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -23601,14 +24746,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -23621,14 +24768,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -23641,14 +24790,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -23661,14 +24812,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -23681,14 +24834,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -23703,14 +24858,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -23723,14 +24880,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -23743,14 +24902,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -23763,7 +24924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -23773,8 +24934,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -23784,8 +24945,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -23795,8 +24956,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -23806,7 +24967,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -23819,7 +24980,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -23830,7 +24991,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -23841,7 +25002,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -23852,7 +25013,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -23863,7 +25024,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -23874,7 +25035,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -23885,7 +25046,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -23896,7 +25057,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -23909,7 +25070,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -23920,7 +25081,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -23931,7 +25092,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -23939,57 +25100,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Dbm7",
                 "Dbm7"
               ],
               "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Dbm7"
+                "Gbm7",
+                "Gbm7"
               ],
-              "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "Gb minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Gbm7"
-              ],
-              "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Gbm7"
-              ],
-              "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -24004,7 +25141,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -24017,7 +25154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -24032,7 +25169,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -24045,7 +25182,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -24060,7 +25197,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -24077,88 +25214,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Dbm7"
-              ],
-              "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Db minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Dbm7",
                 "Dbm7"
               ],
               "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Dbm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Dbm7",
+                "7th of Dbm7",
+                "root of Dbm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Db minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Gbm7"
-              ],
-              "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Gb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Gbm7",
                 "Gbm7"
               ],
               "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Gbm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Gbm7",
+                "7th of Gbm7",
+                "root of Gbm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Gb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -24176,6 +25281,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7(b9) altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7(b9)",
               "resolve_to": "Dbm7",
               "scale_suggestions": {
@@ -24224,6 +25330,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -24272,6 +25379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7(b9) altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7(b9)",
               "resolve_to": "Dbm7",
               "scale_suggestions": {
@@ -24326,8 +25434,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7(b9) | Dbm7.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7(b9) | Dbm7.",
                 "Run the line in 12 keys, resolving clearly to Dbm7.",
-                "Comp shell voicings, then single-note lines from Ab7(b9)."
+                "Comp shell voicings, then single-note lines from Ab7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -24348,8 +25458,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -24370,8 +25482,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7(b9) | Dbm7.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7(b9) | Dbm7.",
                 "Run the line in 12 keys, resolving clearly to Dbm7.",
-                "Comp shell voicings, then single-note lines from Ab7(b9)."
+                "Comp shell voicings, then single-note lines from Ab7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -24394,6 +25508,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 2,
           "current_transposition_label": "+2",
@@ -24402,6 +25517,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -24415,13 +25531,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -24434,14 +25552,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -24454,14 +25574,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -24474,14 +25596,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -24494,14 +25618,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -24516,14 +25642,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -24536,14 +25664,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -24556,14 +25686,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -24576,14 +25708,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -24596,14 +25730,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -24616,14 +25752,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -24636,14 +25774,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -24656,14 +25796,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -24678,14 +25820,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -24698,14 +25842,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -24718,14 +25864,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -24738,7 +25886,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -24748,8 +25896,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -24759,8 +25907,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -24770,8 +25918,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -24781,7 +25929,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -24794,7 +25942,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -24805,7 +25953,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -24816,7 +25964,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -24827,7 +25975,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -24838,7 +25986,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -24849,7 +25997,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -24860,7 +26008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -24871,7 +26019,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -24884,7 +26032,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -24895,7 +26043,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -24906,7 +26054,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -24914,57 +26062,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Dm7",
                 "Dm7"
               ],
               "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Dm7"
+                "Gm7",
+                "Gm7"
               ],
-              "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "G minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Gm7"
-              ],
-              "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Gm7"
-              ],
-              "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -24979,7 +26103,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -24992,7 +26116,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -25007,7 +26131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -25020,7 +26144,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -25035,7 +26159,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -25052,88 +26176,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Dm7"
-              ],
-              "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "D minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Dm7",
                 "Dm7"
               ],
               "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Dm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Dm7",
+                "7th of Dm7",
+                "root of Dm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "D minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Gm7"
-              ],
-              "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "G minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Gm7",
                 "Gm7"
               ],
               "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Gm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Gm7",
+                "7th of Gm7",
+                "root of Gm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "G minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -25151,6 +26243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7(b9) altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7(b9)",
               "resolve_to": "Dm7",
               "scale_suggestions": {
@@ -25199,6 +26292,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -25247,6 +26341,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7(b9) altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7(b9)",
               "resolve_to": "Dm7",
               "scale_suggestions": {
@@ -25301,8 +26396,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7(b9) | Dm7.",
+                "Voice-lead shell voicings through Em7b5 | A7(b9) | Dm7.",
                 "Run the line in 12 keys, resolving clearly to Dm7.",
-                "Comp shell voicings, then single-note lines from A7(b9)."
+                "Comp shell voicings, then single-note lines from A7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -25323,8 +26420,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -25345,8 +26444,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7(b9) | Dm7.",
+                "Voice-lead shell voicings through Em7b5 | A7(b9) | Dm7.",
                 "Run the line in 12 keys, resolving clearly to Dm7.",
-                "Comp shell voicings, then single-note lines from A7(b9)."
+                "Comp shell voicings, then single-note lines from A7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -25369,6 +26470,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 3,
           "current_transposition_label": "+3",
@@ -25377,6 +26479,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -25390,13 +26493,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -25409,14 +26514,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -25429,14 +26536,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -25449,14 +26558,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -25469,14 +26580,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -25491,14 +26604,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -25511,14 +26626,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -25531,14 +26648,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -25551,14 +26670,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -25571,14 +26692,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -25591,14 +26714,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -25611,14 +26736,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -25631,14 +26758,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -25653,14 +26782,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -25673,14 +26804,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -25693,14 +26826,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -25713,7 +26848,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -25723,8 +26858,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -25734,8 +26869,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -25745,8 +26880,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -25756,7 +26891,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -25769,7 +26904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -25780,7 +26915,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -25791,7 +26926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -25802,7 +26937,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -25813,7 +26948,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -25824,7 +26959,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -25835,7 +26970,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -25846,7 +26981,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -25859,7 +26994,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -25870,7 +27005,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -25881,7 +27016,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -25889,57 +27024,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Ebm7",
                 "Ebm7"
               ],
               "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Ebm7"
+                "Abm7",
+                "Abm7"
               ],
-              "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "Ab minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Abm7"
-              ],
-              "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Abm7"
-              ],
-              "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -25954,7 +27065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -25967,7 +27078,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -25982,7 +27093,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -25995,7 +27106,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -26010,7 +27121,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -26027,88 +27138,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Ebm7"
-              ],
-              "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Eb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Ebm7",
                 "Ebm7"
               ],
               "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Ebm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Ebm7",
+                "7th of Ebm7",
+                "root of Ebm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Eb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Abm7"
-              ],
-              "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Ab minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Abm7",
                 "Abm7"
               ],
               "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Abm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Abm7",
+                "7th of Abm7",
+                "root of Abm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Ab minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -26126,6 +27205,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7(b9) altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7(b9)",
               "resolve_to": "Ebm7",
               "scale_suggestions": {
@@ -26174,6 +27254,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -26222,6 +27303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7(b9) altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7(b9)",
               "resolve_to": "Ebm7",
               "scale_suggestions": {
@@ -26276,8 +27358,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7(b9) | Ebm7.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7(b9) | Ebm7.",
                 "Run the line in 12 keys, resolving clearly to Ebm7.",
-                "Comp shell voicings, then single-note lines from Bb7(b9)."
+                "Comp shell voicings, then single-note lines from Bb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -26298,8 +27382,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -26320,8 +27406,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7(b9) | Ebm7.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7(b9) | Ebm7.",
                 "Run the line in 12 keys, resolving clearly to Ebm7.",
-                "Comp shell voicings, then single-note lines from Bb7(b9)."
+                "Comp shell voicings, then single-note lines from Bb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -26344,6 +27432,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 4,
           "current_transposition_label": "+4",
@@ -26352,6 +27441,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -26365,13 +27455,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -26384,14 +27476,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -26404,14 +27498,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -26424,14 +27520,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -26444,14 +27542,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -26466,14 +27566,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -26486,14 +27588,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -26506,14 +27610,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -26526,14 +27632,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -26546,14 +27654,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -26566,14 +27676,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -26586,14 +27698,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -26606,14 +27720,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -26628,14 +27744,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -26648,14 +27766,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -26668,14 +27788,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -26688,7 +27810,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -26698,8 +27820,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -26709,8 +27831,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -26720,8 +27842,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -26731,7 +27853,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -26744,7 +27866,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -26755,7 +27877,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -26766,7 +27888,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -26777,7 +27899,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -26788,7 +27910,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -26799,7 +27921,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -26810,7 +27932,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -26821,7 +27943,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -26834,7 +27956,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -26845,7 +27967,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -26856,7 +27978,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -26864,57 +27986,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Em7",
                 "Em7"
               ],
               "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Em7"
+                "Am7",
+                "Am7"
               ],
-              "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "A minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Am7"
-              ],
-              "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Am7"
-              ],
-              "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -26929,7 +28027,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -26942,7 +28040,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -26957,7 +28055,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -26970,7 +28068,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -26985,7 +28083,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -27002,88 +28100,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Em7"
-              ],
-              "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "E minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Em7",
                 "Em7"
               ],
               "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Em7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Em7",
+                "7th of Em7",
+                "root of Em7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "E minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Am7"
-              ],
-              "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "A minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Am7",
                 "Am7"
               ],
               "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Am7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Am7",
+                "7th of Am7",
+                "root of Am7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "A minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -27101,6 +28167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7(b9) altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7(b9)",
               "resolve_to": "Em7",
               "scale_suggestions": {
@@ -27149,6 +28216,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -27197,6 +28265,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7(b9) altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7(b9)",
               "resolve_to": "Em7",
               "scale_suggestions": {
@@ -27251,8 +28320,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7(b9) | Em7.",
+                "Voice-lead shell voicings through Gbm7b5 | B7(b9) | Em7.",
                 "Run the line in 12 keys, resolving clearly to Em7.",
-                "Comp shell voicings, then single-note lines from B7(b9)."
+                "Comp shell voicings, then single-note lines from B7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -27273,8 +28344,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -27295,8 +28368,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7(b9) | Em7.",
+                "Voice-lead shell voicings through Gbm7b5 | B7(b9) | Em7.",
                 "Run the line in 12 keys, resolving clearly to Em7.",
-                "Comp shell voicings, then single-note lines from B7(b9)."
+                "Comp shell voicings, then single-note lines from B7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -27319,6 +28394,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 5,
           "current_transposition_label": "+5",
@@ -27327,6 +28403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -27340,13 +28417,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -27359,14 +28438,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -27379,14 +28460,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -27399,14 +28482,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -27419,14 +28504,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -27441,14 +28528,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -27461,14 +28550,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -27481,14 +28572,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -27501,14 +28594,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -27521,14 +28616,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -27541,14 +28638,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -27561,14 +28660,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -27581,14 +28682,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -27603,14 +28706,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -27623,14 +28728,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -27643,14 +28750,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -27663,7 +28772,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -27673,8 +28782,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -27684,8 +28793,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -27695,8 +28804,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -27706,7 +28815,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -27719,7 +28828,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -27730,7 +28839,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -27741,7 +28850,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -27752,7 +28861,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -27763,7 +28872,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -27774,7 +28883,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -27785,7 +28894,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -27796,7 +28905,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -27809,7 +28918,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -27820,7 +28929,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -27831,7 +28940,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -27839,57 +28948,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Fm7",
                 "Fm7"
               ],
               "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Fm7"
+                "Bbm7",
+                "Bbm7"
               ],
-              "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "Bb minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Bbm7"
-              ],
-              "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Bbm7"
-              ],
-              "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -27904,7 +28989,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -27917,7 +29002,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -27932,7 +29017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -27945,7 +29030,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -27960,7 +29045,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -27977,88 +29062,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Fm7"
-              ],
-              "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "F minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Fm7",
                 "Fm7"
               ],
               "local_key": "F minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Fm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Fm7",
+                "7th of Fm7",
+                "root of Fm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "F minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Bbm7"
-              ],
-              "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Bb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Bbm7",
                 "Bbm7"
               ],
               "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Bbm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Bbm7",
+                "7th of Bbm7",
+                "root of Bbm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Bb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -28076,6 +29129,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7(b9) altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7(b9)",
               "resolve_to": "Fm7",
               "scale_suggestions": {
@@ -28124,6 +29178,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -28172,6 +29227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7(b9) altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7(b9)",
               "resolve_to": "Fm7",
               "scale_suggestions": {
@@ -28226,8 +29282,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7(b9) | Fm7.",
+                "Voice-lead shell voicings through Gm7b5 | C7(b9) | Fm7.",
                 "Run the line in 12 keys, resolving clearly to Fm7.",
-                "Comp shell voicings, then single-note lines from C7(b9)."
+                "Comp shell voicings, then single-note lines from C7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -28248,8 +29306,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -28270,8 +29330,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7(b9) | Fm7.",
+                "Voice-lead shell voicings through Gm7b5 | C7(b9) | Fm7.",
                 "Run the line in 12 keys, resolving clearly to Fm7.",
-                "Comp shell voicings, then single-note lines from C7(b9)."
+                "Comp shell voicings, then single-note lines from C7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -28294,6 +29356,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 6,
           "current_transposition_label": "+6",
@@ -28302,6 +29365,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -28315,13 +29379,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -28334,14 +29400,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -28354,14 +29422,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -28374,14 +29444,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -28394,14 +29466,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -28416,14 +29490,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -28436,14 +29512,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -28456,14 +29534,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -28476,14 +29556,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -28496,14 +29578,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -28516,14 +29600,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -28536,14 +29622,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -28556,14 +29644,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -28578,14 +29668,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -28598,14 +29690,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -28618,14 +29712,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -28638,7 +29734,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -28648,8 +29744,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -28659,8 +29755,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -28670,8 +29766,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -28681,7 +29777,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -28694,7 +29790,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -28705,7 +29801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -28716,7 +29812,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -28727,7 +29823,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -28738,7 +29834,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -28749,7 +29845,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -28760,7 +29856,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -28771,7 +29867,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -28784,7 +29880,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -28795,7 +29891,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -28806,7 +29902,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -28814,57 +29910,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Gbm7",
                 "Gbm7"
               ],
               "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Gbm7"
+                "Bm7",
+                "Bm7"
               ],
-              "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "B minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Bm7"
-              ],
-              "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Bm7"
-              ],
-              "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -28879,7 +29951,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -28892,7 +29964,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -28907,7 +29979,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -28920,7 +29992,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -28935,7 +30007,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -28952,88 +30024,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Gbm7"
-              ],
-              "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Gb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Gbm7",
                 "Gbm7"
               ],
               "local_key": "Gb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Gbm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Gbm7",
+                "7th of Gbm7",
+                "root of Gbm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Gb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Bm7"
-              ],
-              "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "B minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Bm7",
                 "Bm7"
               ],
               "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Bm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Bm7",
+                "7th of Bm7",
+                "root of Bm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "B minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -29051,6 +30091,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7(b9) altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7(b9)",
               "resolve_to": "Gbm7",
               "scale_suggestions": {
@@ -29099,6 +30140,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -29147,6 +30189,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7(b9) altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7(b9)",
               "resolve_to": "Gbm7",
               "scale_suggestions": {
@@ -29201,8 +30244,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7(b9) | Gbm7.",
+                "Voice-lead shell voicings through Abm7b5 | Db7(b9) | Gbm7.",
                 "Run the line in 12 keys, resolving clearly to Gbm7.",
-                "Comp shell voicings, then single-note lines from Db7(b9)."
+                "Comp shell voicings, then single-note lines from Db7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -29223,8 +30268,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -29245,8 +30292,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7(b9) | Gbm7.",
+                "Voice-lead shell voicings through Abm7b5 | Db7(b9) | Gbm7.",
                 "Run the line in 12 keys, resolving clearly to Gbm7.",
-                "Comp shell voicings, then single-note lines from Db7(b9)."
+                "Comp shell voicings, then single-note lines from Db7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -29269,6 +30318,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -5,
           "current_transposition_label": "-5",
@@ -29277,6 +30327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -29290,13 +30341,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -29309,14 +30362,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -29329,14 +30384,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -29349,14 +30406,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -29369,14 +30428,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -29391,14 +30452,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -29411,14 +30474,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -29431,14 +30496,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -29451,14 +30518,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -29471,14 +30540,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -29491,14 +30562,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -29511,14 +30584,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -29531,14 +30606,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -29553,14 +30630,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -29573,14 +30652,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -29593,14 +30674,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -29613,7 +30696,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -29623,8 +30706,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -29634,8 +30717,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -29645,8 +30728,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -29656,7 +30739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -29669,7 +30752,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -29680,7 +30763,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -29691,7 +30774,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -29702,7 +30785,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -29713,7 +30796,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -29724,7 +30807,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -29735,7 +30818,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -29746,7 +30829,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -29759,7 +30842,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -29770,7 +30853,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -29781,7 +30864,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -29789,57 +30872,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Gm7",
                 "Gm7"
               ],
               "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Gm7"
+                "Cm7",
+                "Cm7"
               ],
-              "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "C minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Cm7"
-              ],
-              "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Cm7"
-              ],
-              "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -29854,7 +30913,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -29867,7 +30926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -29882,7 +30941,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -29895,7 +30954,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -29910,7 +30969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -29927,88 +30986,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Gm7"
-              ],
-              "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "G minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Gm7",
                 "Gm7"
               ],
               "local_key": "G minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Gm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Gm7",
+                "7th of Gm7",
+                "root of Gm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "G minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Cm7"
-              ],
-              "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "C minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Cm7",
                 "Cm7"
               ],
               "local_key": "C minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Cm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Cm7",
+                "7th of Cm7",
+                "root of Cm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "C minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -30026,6 +31053,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7(b9) altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7(b9)",
               "resolve_to": "Gm7",
               "scale_suggestions": {
@@ -30074,6 +31102,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -30122,6 +31151,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7(b9) altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7(b9)",
               "resolve_to": "Gm7",
               "scale_suggestions": {
@@ -30176,8 +31206,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7(b9) | Gm7.",
+                "Voice-lead shell voicings through Am7b5 | D7(b9) | Gm7.",
                 "Run the line in 12 keys, resolving clearly to Gm7.",
-                "Comp shell voicings, then single-note lines from D7(b9)."
+                "Comp shell voicings, then single-note lines from D7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -30198,8 +31230,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -30220,8 +31254,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7(b9) | Gm7.",
+                "Voice-lead shell voicings through Am7b5 | D7(b9) | Gm7.",
                 "Run the line in 12 keys, resolving clearly to Gm7.",
-                "Comp shell voicings, then single-note lines from D7(b9)."
+                "Comp shell voicings, then single-note lines from D7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -30244,6 +31280,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -4,
           "current_transposition_label": "-4",
@@ -30252,6 +31289,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -30265,13 +31303,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -30284,14 +31324,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -30304,14 +31346,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -30324,14 +31368,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -30344,14 +31390,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -30366,14 +31414,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -30386,14 +31436,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -30406,14 +31458,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -30426,14 +31480,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -30446,14 +31502,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -30466,14 +31524,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -30486,14 +31546,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -30506,14 +31568,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -30528,14 +31592,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -30548,14 +31614,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -30568,14 +31636,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -30588,7 +31658,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -30598,8 +31668,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -30609,8 +31679,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -30620,8 +31690,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -30631,7 +31701,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -30644,7 +31714,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -30655,7 +31725,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -30666,7 +31736,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -30677,7 +31747,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -30688,7 +31758,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -30699,7 +31769,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -30710,7 +31780,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -30721,7 +31791,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -30734,7 +31804,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -30745,7 +31815,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -30756,7 +31826,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -30764,57 +31834,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Abm7",
                 "Abm7"
               ],
               "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Abm7"
+                "Dbm7",
+                "Dbm7"
               ],
-              "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "Db minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Dbm7"
-              ],
-              "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Dbm7"
-              ],
-              "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -30829,7 +31875,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -30842,7 +31888,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -30857,7 +31903,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -30870,7 +31916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -30885,7 +31931,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -30902,88 +31948,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Abm7"
-              ],
-              "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Ab minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Abm7",
                 "Abm7"
               ],
               "local_key": "Ab minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Abm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Abm7",
+                "7th of Abm7",
+                "root of Abm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Ab minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Dbm7"
-              ],
-              "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Db minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Dbm7",
                 "Dbm7"
               ],
               "local_key": "Db minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Dbm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Dbm7",
+                "7th of Dbm7",
+                "root of Dbm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Db minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -31001,6 +32015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7(b9) altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7(b9)",
               "resolve_to": "Abm7",
               "scale_suggestions": {
@@ -31049,6 +32064,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -31097,6 +32113,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7(b9) altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7(b9)",
               "resolve_to": "Abm7",
               "scale_suggestions": {
@@ -31151,8 +32168,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7(b9) | Abm7.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7(b9) | Abm7.",
                 "Run the line in 12 keys, resolving clearly to Abm7.",
-                "Comp shell voicings, then single-note lines from Eb7(b9)."
+                "Comp shell voicings, then single-note lines from Eb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -31173,8 +32192,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -31195,8 +32216,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7(b9) | Abm7.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7(b9) | Abm7.",
                 "Run the line in 12 keys, resolving clearly to Abm7.",
-                "Comp shell voicings, then single-note lines from Eb7(b9)."
+                "Comp shell voicings, then single-note lines from Eb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -31219,6 +32242,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -3,
           "current_transposition_label": "-3",
@@ -31227,6 +32251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -31240,13 +32265,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -31259,14 +32286,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -31279,14 +32308,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -31299,14 +32330,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -31319,14 +32352,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -31341,14 +32376,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -31361,14 +32398,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -31381,14 +32420,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -31401,14 +32442,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -31421,14 +32464,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -31441,14 +32486,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -31461,14 +32508,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -31481,14 +32530,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -31503,14 +32554,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -31523,14 +32576,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -31543,14 +32598,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -31563,7 +32620,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -31573,8 +32630,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -31584,8 +32641,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -31595,8 +32652,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -31606,7 +32663,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -31619,7 +32676,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -31630,7 +32687,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -31641,7 +32698,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -31652,7 +32709,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -31663,7 +32720,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -31674,7 +32731,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -31685,7 +32742,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -31696,7 +32753,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -31709,7 +32766,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -31720,7 +32777,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -31731,7 +32788,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -31739,57 +32796,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Am7",
                 "Am7"
               ],
               "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Am7"
+                "Dm7",
+                "Dm7"
               ],
-              "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "D minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Dm7"
-              ],
-              "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Dm7"
-              ],
-              "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -31804,7 +32837,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -31817,7 +32850,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -31832,7 +32865,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -31845,7 +32878,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -31860,7 +32893,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -31877,88 +32910,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Am7"
-              ],
-              "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "A minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Am7",
                 "Am7"
               ],
               "local_key": "A minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Am7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Am7",
+                "7th of Am7",
+                "root of Am7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "A minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Dm7"
-              ],
-              "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "D minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Dm7",
                 "Dm7"
               ],
               "local_key": "D minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Dm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Dm7",
+                "7th of Dm7",
+                "root of Dm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "D minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -31976,6 +32977,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7(b9) altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7(b9)",
               "resolve_to": "Am7",
               "scale_suggestions": {
@@ -32024,6 +33026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -32072,6 +33075,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7(b9) altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7(b9)",
               "resolve_to": "Am7",
               "scale_suggestions": {
@@ -32126,8 +33130,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7(b9) | Am7.",
+                "Voice-lead shell voicings through Bm7b5 | E7(b9) | Am7.",
                 "Run the line in 12 keys, resolving clearly to Am7.",
-                "Comp shell voicings, then single-note lines from E7(b9)."
+                "Comp shell voicings, then single-note lines from E7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -32148,8 +33154,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -32170,8 +33178,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7(b9) | Am7.",
+                "Voice-lead shell voicings through Bm7b5 | E7(b9) | Am7.",
                 "Run the line in 12 keys, resolving clearly to Am7.",
-                "Comp shell voicings, then single-note lines from E7(b9)."
+                "Comp shell voicings, then single-note lines from E7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -32194,6 +33204,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -2,
           "current_transposition_label": "-2",
@@ -32202,6 +33213,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -32215,13 +33227,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -32234,14 +33248,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -32254,14 +33270,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -32274,14 +33292,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -32294,14 +33314,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -32316,14 +33338,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -32336,14 +33360,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -32356,14 +33382,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -32376,14 +33404,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -32396,14 +33426,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -32416,14 +33448,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -32436,14 +33470,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -32456,14 +33492,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -32478,14 +33516,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -32498,14 +33538,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -32518,14 +33560,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -32538,7 +33582,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -32548,8 +33592,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -32559,8 +33603,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -32570,8 +33614,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -32581,7 +33625,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -32594,7 +33638,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -32605,7 +33649,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -32616,7 +33660,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -32627,7 +33671,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -32638,7 +33682,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -32649,7 +33693,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -32660,7 +33704,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -32671,7 +33715,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -32684,7 +33728,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -32695,7 +33739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -32706,7 +33750,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -32714,57 +33758,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Bbm7",
                 "Bbm7"
               ],
               "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Bbm7"
+                "Ebm7",
+                "Ebm7"
               ],
-              "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "Eb minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Ebm7"
-              ],
-              "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Ebm7"
-              ],
-              "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -32779,7 +33799,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -32792,7 +33812,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -32807,7 +33827,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -32820,7 +33840,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -32835,7 +33855,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -32852,88 +33872,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Bbm7"
-              ],
-              "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Bb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Bbm7",
                 "Bbm7"
               ],
               "local_key": "Bb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Bbm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Bbm7",
+                "7th of Bbm7",
+                "root of Bbm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Bb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Ebm7"
-              ],
-              "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Eb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Ebm7",
                 "Ebm7"
               ],
               "local_key": "Eb minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Ebm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Ebm7",
+                "7th of Ebm7",
+                "root of Ebm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Eb minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -32951,6 +33939,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7(b9) altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7(b9)",
               "resolve_to": "Bbm7",
               "scale_suggestions": {
@@ -32999,6 +33988,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -33047,6 +34037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7(b9) altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7(b9)",
               "resolve_to": "Bbm7",
               "scale_suggestions": {
@@ -33101,8 +34092,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7(b9) | Bbm7.",
+                "Voice-lead shell voicings through Cm7b5 | F7(b9) | Bbm7.",
                 "Run the line in 12 keys, resolving clearly to Bbm7.",
-                "Comp shell voicings, then single-note lines from F7(b9)."
+                "Comp shell voicings, then single-note lines from F7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -33123,8 +34116,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -33145,8 +34140,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7(b9) | Bbm7.",
+                "Voice-lead shell voicings through Cm7b5 | F7(b9) | Bbm7.",
                 "Run the line in 12 keys, resolving clearly to Bbm7.",
-                "Comp shell voicings, then single-note lines from F7(b9)."
+                "Comp shell voicings, then single-note lines from F7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -33169,6 +34166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Dorham Kenny",
           "declared_key": "C minor",
           "style": "Bossa Nova",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -1,
           "current_transposition_label": "-1",
@@ -33177,6 +34175,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Db major area",
             "C minor return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -33190,13 +34189,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-1",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -33209,14 +34210,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-2",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-1",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-2"
+                "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -33229,14 +34232,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-3",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-3"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -33249,14 +34254,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-4",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-2",
+                  "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-4"
+                "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -33269,14 +34276,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -33291,14 +34300,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -33311,14 +34322,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-5",
+                  "region_id": "region-3",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-5"
+                "region-3"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -33331,14 +34344,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-6",
+                  "region_id": "region-4",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-6"
+                "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -33351,14 +34366,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -33371,14 +34388,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -33391,14 +34410,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-7",
+                  "region_id": "region-5",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-7"
+                "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -33411,14 +34432,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-8",
+                  "region_id": "region-6",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-8"
+                "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -33431,14 +34454,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7b5",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -33453,14 +34478,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                     "b9"
                   ],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -33473,14 +34500,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
+                  "region_id": "region-7",
                   "colour_role": "minor-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -33493,14 +34522,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-8",
                   "colour_role": "ambiguous-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -33513,7 +34544,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-1",
-              "colour_role": "ambiguous-region"
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 2,
@@ -33523,8 +34554,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-2",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-1",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 3,
@@ -33534,8 +34565,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-3",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 4,
@@ -33545,8 +34576,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-4",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-2",
+              "colour_role": "minor-key-region"
             },
             {
               "bar": 5,
@@ -33556,7 +34587,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -33569,7 +34600,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -33580,7 +34611,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-5",
+              "region_id": "region-3",
               "colour_role": "minor-key-region"
             },
             {
@@ -33591,7 +34622,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-6",
+              "region_id": "region-4",
               "colour_role": "ambiguous-region"
             },
             {
@@ -33602,7 +34633,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -33613,7 +34644,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -33624,7 +34655,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-7",
+              "region_id": "region-5",
               "colour_role": "major-key-region"
             },
             {
@@ -33635,7 +34666,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-8",
+              "region_id": "region-6",
               "colour_role": "ambiguous-region"
             },
             {
@@ -33646,7 +34677,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7b5",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -33659,7 +34690,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                 "b9"
               ],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -33670,7 +34701,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
+              "region_id": "region-7",
               "colour_role": "minor-key-region"
             },
             {
@@ -33681,7 +34712,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-8",
               "colour_role": "ambiguous-region"
             }
           ],
@@ -33689,57 +34720,33 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-1",
               "start_bar": 1,
-              "end_bar": 1,
+              "end_bar": 2,
               "chords": [
+                "Bm7",
                 "Bm7"
               ],
               "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-2",
-              "start_bar": 2,
-              "end_bar": 2,
+              "start_bar": 3,
+              "end_bar": 4,
               "chords": [
-                "Bm7"
+                "Em7",
+                "Em7"
               ],
-              "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "local_key": "E minor",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "minor-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-3",
-              "start_bar": 3,
-              "end_bar": 3,
-              "chords": [
-                "Em7"
-              ],
-              "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-4",
-              "start_bar": 4,
-              "end_bar": 4,
-              "chords": [
-                "Em7"
-              ],
-              "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-5",
               "start_bar": 5,
               "end_bar": 7,
               "chords": [
@@ -33754,7 +34761,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-6",
+              "region_id": "region-4",
               "start_bar": 8,
               "end_bar": 8,
               "chords": [
@@ -33767,7 +34774,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-7",
+              "region_id": "region-5",
               "start_bar": 9,
               "end_bar": 11,
               "chords": [
@@ -33782,7 +34789,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-8",
+              "region_id": "region-6",
               "start_bar": 12,
               "end_bar": 12,
               "chords": [
@@ -33795,7 +34802,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "low"
             },
             {
-              "region_id": "region-9",
+              "region_id": "region-7",
               "start_bar": 13,
               "end_bar": 15,
               "chords": [
@@ -33810,7 +34817,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "practice_priority": "high"
             },
             {
-              "region_id": "region-10",
+              "region_id": "region-8",
               "start_bar": 16,
               "end_bar": 16,
               "chords": [
@@ -33827,88 +34834,56 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 1,
-                "end_bar": 1
-              },
-              "chords": [
-                "Bm7"
-              ],
-              "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "B minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 2,
                 "end_bar": 2
               },
               "chords": [
+                "Bm7",
                 "Bm7"
               ],
               "local_key": "B minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Bm7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Bm7",
+                "7th of Bm7",
+                "root of Bm7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "B minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
             {
               "span": {
                 "start_bar": 3,
-                "end_bar": 3
-              },
-              "chords": [
-                "Em7"
-              ],
-              "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "E minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 4,
                 "end_bar": 4
               },
               "chords": [
+                "Em7",
                 "Em7"
               ],
               "local_key": "E minor",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Em7 as a static minor or Dorian sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Em7",
+                "7th of Em7",
+                "root of Em7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "E minor",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -33926,6 +34901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7(b9) altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7(b9)",
               "resolve_to": "Bm7",
               "scale_suggestions": {
@@ -33974,6 +34950,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -34022,6 +34999,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7(b9) altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7(b9)",
               "resolve_to": "Bm7",
               "scale_suggestions": {
@@ -34076,8 +35054,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7(b9) | Bm7.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7(b9) | Bm7.",
                 "Run the line in 12 keys, resolving clearly to Bm7.",
-                "Comp shell voicings, then single-note lines from Gb7(b9)."
+                "Comp shell voicings, then single-note lines from Gb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -34098,8 +35078,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -34120,8 +35102,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7(b9) | Bm7.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7(b9) | Bm7.",
                 "Run the line in 12 keys, resolving clearly to Bm7.",
-                "Comp shell voicings, then single-note lines from Gb7(b9)."
+                "Comp shell voicings, then single-note lines from Gb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -34155,6 +35139,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 0,
           "current_transposition_label": "0",
@@ -34164,6 +35149,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -34183,7 +35169,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -34203,7 +35191,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -34223,7 +35213,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -34243,7 +35235,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -34263,7 +35257,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -34283,7 +35279,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -34303,7 +35301,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -34323,7 +35323,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -34343,7 +35345,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -34363,7 +35367,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -34383,7 +35389,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -34403,7 +35411,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -34423,7 +35433,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -34445,7 +35457,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -34465,7 +35479,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -34797,6 +35813,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -34845,6 +35862,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -34871,6 +35889,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -34897,6 +35916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think G7(b9) altered or G Phrygian dominant, then resolve to C minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "G7(b9)",
               "resolve_to": "Cm6",
               "scale_suggestions": {
@@ -34929,8 +35949,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -34951,8 +35973,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -34973,8 +35997,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -34995,8 +36021,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7(b9) | Cm6.",
+                "Voice-lead shell voicings through Dm7b5 | G7(b9) | Cm6.",
                 "Run the line in 12 keys, resolving clearly to Cm6.",
-                "Comp shell voicings, then single-note lines from G7(b9)."
+                "Comp shell voicings, then single-note lines from G7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -35019,6 +36047,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 1,
           "current_transposition_label": "+1",
@@ -35028,6 +36057,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -35047,7 +36077,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -35067,7 +36099,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -35087,7 +36121,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -35107,7 +36143,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -35127,7 +36165,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -35147,7 +36187,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -35167,7 +36209,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -35187,7 +36231,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -35207,7 +36253,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -35227,7 +36275,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -35247,7 +36297,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -35267,7 +36319,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -35287,7 +36341,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -35309,7 +36365,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -35329,7 +36387,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -35661,6 +36721,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -35709,6 +36770,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -35735,6 +36797,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -35761,6 +36824,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Ab7(b9) altered or Ab Phrygian dominant, then resolve to Db minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Ab7(b9)",
               "resolve_to": "Dbm6",
               "scale_suggestions": {
@@ -35793,8 +36857,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -35815,8 +36881,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -35837,8 +36905,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -35859,8 +36929,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7(b9) | Dbm6.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7(b9) | Dbm6.",
                 "Run the line in 12 keys, resolving clearly to Dbm6.",
-                "Comp shell voicings, then single-note lines from Ab7(b9)."
+                "Comp shell voicings, then single-note lines from Ab7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -35883,6 +36955,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 2,
           "current_transposition_label": "+2",
@@ -35892,6 +36965,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -35911,7 +36985,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -35931,7 +37007,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -35951,7 +37029,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -35971,7 +37051,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -35991,7 +37073,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -36011,7 +37095,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -36031,7 +37117,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -36051,7 +37139,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -36071,7 +37161,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -36091,7 +37183,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -36111,7 +37205,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -36131,7 +37227,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -36151,7 +37249,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -36173,7 +37273,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -36193,7 +37295,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -36525,6 +37629,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -36573,6 +37678,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -36599,6 +37705,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -36625,6 +37732,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think A7(b9) altered or A Phrygian dominant, then resolve to D minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "A7(b9)",
               "resolve_to": "Dm6",
               "scale_suggestions": {
@@ -36657,8 +37765,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -36679,8 +37789,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -36701,8 +37813,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -36723,8 +37837,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7(b9) | Dm6.",
+                "Voice-lead shell voicings through Em7b5 | A7(b9) | Dm6.",
                 "Run the line in 12 keys, resolving clearly to Dm6.",
-                "Comp shell voicings, then single-note lines from A7(b9)."
+                "Comp shell voicings, then single-note lines from A7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -36747,6 +37863,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 3,
           "current_transposition_label": "+3",
@@ -36756,6 +37873,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -36775,7 +37893,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -36795,7 +37915,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -36815,7 +37937,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -36835,7 +37959,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -36855,7 +37981,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -36875,7 +38003,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -36895,7 +38025,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -36915,7 +38047,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -36935,7 +38069,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -36955,7 +38091,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -36975,7 +38113,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -36995,7 +38135,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -37015,7 +38157,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -37037,7 +38181,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -37057,7 +38203,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -37389,6 +38537,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -37437,6 +38586,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -37463,6 +38613,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -37489,6 +38640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Bb7(b9) altered or Bb Phrygian dominant, then resolve to Eb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Bb7(b9)",
               "resolve_to": "Ebm6",
               "scale_suggestions": {
@@ -37521,8 +38673,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -37543,8 +38697,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -37565,8 +38721,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -37587,8 +38745,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7(b9) | Ebm6.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7(b9) | Ebm6.",
                 "Run the line in 12 keys, resolving clearly to Ebm6.",
-                "Comp shell voicings, then single-note lines from Bb7(b9)."
+                "Comp shell voicings, then single-note lines from Bb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -37611,6 +38771,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 4,
           "current_transposition_label": "+4",
@@ -37620,6 +38781,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -37639,7 +38801,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -37659,7 +38823,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -37679,7 +38845,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -37699,7 +38867,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -37719,7 +38889,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -37739,7 +38911,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -37759,7 +38933,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -37779,7 +38955,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -37799,7 +38977,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -37819,7 +38999,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -37839,7 +39021,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -37859,7 +39043,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -37879,7 +39065,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -37901,7 +39089,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -37921,7 +39111,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -38253,6 +39445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -38301,6 +39494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -38327,6 +39521,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -38353,6 +39548,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think B7(b9) altered or B Phrygian dominant, then resolve to E minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "B7(b9)",
               "resolve_to": "Em6",
               "scale_suggestions": {
@@ -38385,8 +39581,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -38407,8 +39605,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -38429,8 +39629,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -38451,8 +39653,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7(b9) | Em6.",
+                "Voice-lead shell voicings through Gbm7b5 | B7(b9) | Em6.",
                 "Run the line in 12 keys, resolving clearly to Em6.",
-                "Comp shell voicings, then single-note lines from B7(b9)."
+                "Comp shell voicings, then single-note lines from B7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -38475,6 +39679,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 5,
           "current_transposition_label": "+5",
@@ -38484,6 +39689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -38503,7 +39709,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -38523,7 +39731,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -38543,7 +39753,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -38563,7 +39775,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -38583,7 +39797,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -38603,7 +39819,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -38623,7 +39841,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -38643,7 +39863,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -38663,7 +39885,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -38683,7 +39907,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -38703,7 +39929,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -38723,7 +39951,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -38743,7 +39973,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -38765,7 +39997,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -38785,7 +40019,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -39117,6 +40353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -39165,6 +40402,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -39191,6 +40429,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -39217,6 +40456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think C7(b9) altered or C Phrygian dominant, then resolve to F minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "C7(b9)",
               "resolve_to": "Fm6",
               "scale_suggestions": {
@@ -39249,8 +40489,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -39271,8 +40513,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -39293,8 +40537,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -39315,8 +40561,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7(b9) | Fm6.",
+                "Voice-lead shell voicings through Gm7b5 | C7(b9) | Fm6.",
                 "Run the line in 12 keys, resolving clearly to Fm6.",
-                "Comp shell voicings, then single-note lines from C7(b9)."
+                "Comp shell voicings, then single-note lines from C7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -39339,6 +40587,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": 6,
           "current_transposition_label": "+6",
@@ -39348,6 +40597,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -39367,7 +40617,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -39387,7 +40639,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -39407,7 +40661,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -39427,7 +40683,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -39447,7 +40705,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -39467,7 +40727,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -39487,7 +40749,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -39507,7 +40771,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -39527,7 +40793,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -39547,7 +40815,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -39567,7 +40837,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -39587,7 +40859,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -39607,7 +40881,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -39629,7 +40905,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -39649,7 +40927,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -39981,6 +41261,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -40029,6 +41310,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -40055,6 +41337,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -40081,6 +41364,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Db7(b9) altered or Db Phrygian dominant, then resolve to Gb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Db7(b9)",
               "resolve_to": "Gbm6",
               "scale_suggestions": {
@@ -40113,8 +41397,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -40135,8 +41421,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -40157,8 +41445,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -40179,8 +41469,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7(b9) | Gbm6.",
+                "Voice-lead shell voicings through Abm7b5 | Db7(b9) | Gbm6.",
                 "Run the line in 12 keys, resolving clearly to Gbm6.",
-                "Comp shell voicings, then single-note lines from Db7(b9)."
+                "Comp shell voicings, then single-note lines from Db7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -40203,6 +41495,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": -5,
           "current_transposition_label": "-5",
@@ -40212,6 +41505,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -40231,7 +41525,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -40251,7 +41547,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -40271,7 +41569,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -40291,7 +41591,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -40311,7 +41613,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -40331,7 +41635,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -40351,7 +41657,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -40371,7 +41679,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -40391,7 +41701,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -40411,7 +41723,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -40431,7 +41745,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -40451,7 +41767,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -40471,7 +41789,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -40493,7 +41813,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -40513,7 +41835,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -40845,6 +42169,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -40893,6 +42218,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -40919,6 +42245,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -40945,6 +42272,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think D7(b9) altered or D Phrygian dominant, then resolve to G minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "D7(b9)",
               "resolve_to": "Gm6",
               "scale_suggestions": {
@@ -40977,8 +42305,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -40999,8 +42329,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -41021,8 +42353,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -41043,8 +42377,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7(b9) | Gm6.",
+                "Voice-lead shell voicings through Am7b5 | D7(b9) | Gm6.",
                 "Run the line in 12 keys, resolving clearly to Gm6.",
-                "Comp shell voicings, then single-note lines from D7(b9)."
+                "Comp shell voicings, then single-note lines from D7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -41067,6 +42403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": -4,
           "current_transposition_label": "-4",
@@ -41076,6 +42413,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -41095,7 +42433,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -41115,7 +42455,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -41135,7 +42477,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -41155,7 +42499,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -41175,7 +42521,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -41195,7 +42543,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -41215,7 +42565,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -41235,7 +42587,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -41255,7 +42609,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -41275,7 +42631,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -41295,7 +42653,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -41315,7 +42675,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -41335,7 +42697,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -41357,7 +42721,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -41377,7 +42743,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -41709,6 +43077,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -41757,6 +43126,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -41783,6 +43153,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -41809,6 +43180,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Eb7(b9) altered or Eb Phrygian dominant, then resolve to Ab minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Eb7(b9)",
               "resolve_to": "Abm6",
               "scale_suggestions": {
@@ -41841,8 +43213,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -41863,8 +43237,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -41885,8 +43261,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -41907,8 +43285,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7(b9) | Abm6.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7(b9) | Abm6.",
                 "Run the line in 12 keys, resolving clearly to Abm6.",
-                "Comp shell voicings, then single-note lines from Eb7(b9)."
+                "Comp shell voicings, then single-note lines from Eb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -41931,6 +43311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": -3,
           "current_transposition_label": "-3",
@@ -41940,6 +43321,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -41959,7 +43341,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -41979,7 +43363,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -41999,7 +43385,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -42019,7 +43407,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -42039,7 +43429,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -42059,7 +43451,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -42079,7 +43473,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -42099,7 +43495,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -42119,7 +43517,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -42139,7 +43539,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -42159,7 +43561,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -42179,7 +43583,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -42199,7 +43605,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -42221,7 +43629,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -42241,7 +43651,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -42573,6 +43985,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -42621,6 +44034,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -42647,6 +44061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -42673,6 +44088,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think E7(b9) altered or E Phrygian dominant, then resolve to A minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "E7(b9)",
               "resolve_to": "Am6",
               "scale_suggestions": {
@@ -42705,8 +44121,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -42727,8 +44145,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -42749,8 +44169,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -42771,8 +44193,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7(b9) | Am6.",
+                "Voice-lead shell voicings through Bm7b5 | E7(b9) | Am6.",
                 "Run the line in 12 keys, resolving clearly to Am6.",
-                "Comp shell voicings, then single-note lines from E7(b9)."
+                "Comp shell voicings, then single-note lines from E7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -42795,6 +44219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": -2,
           "current_transposition_label": "-2",
@@ -42804,6 +44229,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -42823,7 +44249,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -42843,7 +44271,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -42863,7 +44293,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -42883,7 +44315,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -42903,7 +44337,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -42923,7 +44359,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -42943,7 +44381,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -42963,7 +44403,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -42983,7 +44425,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -43003,7 +44447,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -43023,7 +44469,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -43043,7 +44491,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -43063,7 +44513,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -43085,7 +44537,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -43105,7 +44559,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -43437,6 +44893,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -43485,6 +44942,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -43511,6 +44969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -43537,6 +44996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think F7(b9) altered or F Phrygian dominant, then resolve to Bb minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "F7(b9)",
               "resolve_to": "Bbm6",
               "scale_suggestions": {
@@ -43569,8 +45029,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -43591,8 +45053,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -43613,8 +45077,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -43635,8 +45101,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7(b9) | Bbm6.",
+                "Voice-lead shell voicings through Cm7b5 | F7(b9) | Bbm6.",
                 "Run the line in 12 keys, resolving clearly to Bbm6.",
-                "Comp shell voicings, then single-note lines from F7(b9)."
+                "Comp shell voicings, then single-note lines from F7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -43659,6 +45127,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Davis Miles",
           "declared_key": "C minor",
           "style": "Medium Swing",
+          "form": null,
           "tempo": 230,
           "current_transposition_shift": -1,
           "current_transposition_label": "-1",
@@ -43668,6 +45137,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "Eb / Db region",
             "ii-V return into C minor"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -43687,7 +45157,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -43707,7 +45179,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -43727,7 +45201,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -43747,7 +45223,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -43767,7 +45245,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -43787,7 +45267,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -43807,7 +45289,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -43827,7 +45311,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -43847,7 +45333,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -43867,7 +45355,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -43887,7 +45377,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -43907,7 +45399,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -43927,7 +45421,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -43949,7 +45445,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -43969,7 +45467,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -44301,6 +45801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -44349,6 +45850,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -44375,6 +45877,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -44401,6 +45904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V-i",
               "confidence": "high",
               "practice_hint": "Think Gb7(b9) altered or Gb Phrygian dominant, then resolve to B minor.",
+              "reason": "Half-diminished ii moves to dominant V and resolves by fourth into a minor tonic: a strong minor cadence.",
               "think_v": "Gb7(b9)",
               "resolve_to": "Bm6",
               "scale_suggestions": {
@@ -44433,8 +45937,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -44455,8 +45961,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -44477,8 +45985,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -44499,8 +46009,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7(b9) | Bm6.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7(b9) | Bm6.",
                 "Run the line in 12 keys, resolving clearly to Bm6.",
-                "Comp shell voicings, then single-note lines from Gb7(b9)."
+                "Comp shell voicings, then single-note lines from Gb7(b9).",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -44534,6 +46046,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 0,
           "current_transposition_label": "0",
@@ -44544,6 +46057,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -44563,7 +46077,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -44583,7 +46099,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -44603,7 +46121,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -44623,7 +46143,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -44643,7 +46165,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -44663,7 +46187,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -44683,7 +46209,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -44703,7 +46231,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -44723,7 +46253,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -44743,7 +46275,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -44763,7 +46297,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -44783,7 +46319,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -44803,7 +46341,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -44823,7 +46363,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -44837,13 +46379,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -44856,14 +46400,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -44876,14 +46422,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -44896,14 +46444,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -44916,14 +46466,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -44936,14 +46488,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -45110,7 +46664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -45120,8 +46674,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -45131,7 +46685,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -45142,7 +46696,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -45153,7 +46707,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -45164,7 +46718,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -45270,31 +46824,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Gmaj7",
                 "Gmaj7"
               ],
               "local_key": "G major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Gmaj7"
-              ],
-              "local_key": "G major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -45348,6 +46890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -45373,6 +46916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think G7 tension, then resolve to Cmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -45421,6 +46965,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -45468,6 +47013,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think D7 tension; expect resolution to G minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "D7",
               "resolve_to": "Gm",
               "scale_suggestions": {
@@ -45483,44 +47029,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Gmaj7"
-              ],
-              "local_key": "G major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "G major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Gmaj7",
                 "Gmaj7"
               ],
               "local_key": "G major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Gmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Gmaj7",
+                "7th of Gmaj7",
+                "root of Gmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "G major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -45539,6 +47069,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -45572,8 +47103,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7 | Dbmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -45594,8 +47127,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -45615,8 +47150,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7b5 | D7.",
+                "Voice-lead shell voicings through Am7b5 | D7.",
                 "Run the line in 12 keys, resolving clearly to Gm.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -45638,8 +47175,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7 | Abmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -45662,6 +47201,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 1,
           "current_transposition_label": "+1",
@@ -45672,6 +47212,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -45691,7 +47232,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -45711,7 +47254,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -45731,7 +47276,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -45751,7 +47298,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -45771,7 +47320,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -45791,7 +47342,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -45811,7 +47364,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -45831,7 +47386,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -45851,7 +47408,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -45871,7 +47430,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -45891,7 +47452,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -45911,7 +47474,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -45931,7 +47496,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -45951,7 +47518,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -45965,13 +47534,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -45984,14 +47555,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -46004,14 +47577,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -46024,14 +47599,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -46044,14 +47621,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -46064,14 +47643,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -46238,7 +47819,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -46248,8 +47829,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -46259,7 +47840,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -46270,7 +47851,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -46281,7 +47862,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -46292,7 +47873,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -46398,31 +47979,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Abmaj7",
                 "Abmaj7"
               ],
               "local_key": "Ab major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Abmaj7"
-              ],
-              "local_key": "Ab major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -46476,6 +48045,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -46501,6 +48071,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 tension, then resolve to Dbmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -46549,6 +48120,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -46596,6 +48168,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think Eb7 tension; expect resolution to Ab minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "Eb7",
               "resolve_to": "Abm",
               "scale_suggestions": {
@@ -46611,44 +48184,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Abmaj7"
-              ],
-              "local_key": "Ab major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Ab major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Abmaj7",
                 "Abmaj7"
               ],
               "local_key": "Ab major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Abmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Abmaj7",
+                "7th of Abmaj7",
+                "root of Abmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Ab major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -46667,6 +48224,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -46700,8 +48258,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7 | Dmaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -46722,8 +48282,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -46743,8 +48305,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7b5 | Eb7.",
+                "Voice-lead shell voicings through Bbm7b5 | Eb7.",
                 "Run the line in 12 keys, resolving clearly to Abm.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -46766,8 +48330,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7 | Amaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -46790,6 +48356,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 2,
           "current_transposition_label": "+2",
@@ -46800,6 +48367,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -46819,7 +48387,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -46839,7 +48409,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -46859,7 +48431,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -46879,7 +48453,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -46899,7 +48475,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -46919,7 +48497,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -46939,7 +48519,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -46959,7 +48541,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -46979,7 +48563,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -46999,7 +48585,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -47019,7 +48607,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -47039,7 +48629,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -47059,7 +48651,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -47079,7 +48673,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -47093,13 +48689,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -47112,14 +48710,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -47132,14 +48732,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -47152,14 +48754,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -47172,14 +48776,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -47192,14 +48798,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -47366,7 +48974,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -47376,8 +48984,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -47387,7 +48995,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -47398,7 +49006,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -47409,7 +49017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -47420,7 +49028,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -47526,31 +49134,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Amaj7",
                 "Amaj7"
               ],
               "local_key": "A major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Amaj7"
-              ],
-              "local_key": "A major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -47604,6 +49200,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -47629,6 +49226,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think A7 tension, then resolve to Dmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -47677,6 +49275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -47724,6 +49323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think E7 tension; expect resolution to A minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "E7",
               "resolve_to": "Am",
               "scale_suggestions": {
@@ -47739,44 +49339,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Amaj7"
-              ],
-              "local_key": "A major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "A major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Amaj7",
                 "Amaj7"
               ],
               "local_key": "A major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Amaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Amaj7",
+                "7th of Amaj7",
+                "root of Amaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "A major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -47795,6 +49379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -47828,8 +49413,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7 | Ebmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -47850,8 +49437,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -47871,8 +49460,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7b5 | E7.",
+                "Voice-lead shell voicings through Bm7b5 | E7.",
                 "Run the line in 12 keys, resolving clearly to Am.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -47894,8 +49485,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7 | Bbmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -47918,6 +49511,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 3,
           "current_transposition_label": "+3",
@@ -47928,6 +49522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -47947,7 +49542,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -47967,7 +49564,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -47987,7 +49586,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -48007,7 +49608,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -48027,7 +49630,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -48047,7 +49652,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -48067,7 +49674,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -48087,7 +49696,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -48107,7 +49718,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -48127,7 +49740,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -48147,7 +49762,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -48167,7 +49784,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -48187,7 +49806,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -48207,7 +49828,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -48221,13 +49844,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -48240,14 +49865,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -48260,14 +49887,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -48280,14 +49909,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -48300,14 +49931,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -48320,14 +49953,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -48494,7 +50129,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -48504,8 +50139,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -48515,7 +50150,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -48526,7 +50161,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -48537,7 +50172,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -48548,7 +50183,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -48654,31 +50289,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Bbmaj7",
                 "Bbmaj7"
               ],
               "local_key": "Bb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Bbmaj7"
-              ],
-              "local_key": "Bb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -48732,6 +50355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -48757,6 +50381,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 tension, then resolve to Ebmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -48805,6 +50430,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -48852,6 +50478,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think F7 tension; expect resolution to Bb minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "F7",
               "resolve_to": "Bbm",
               "scale_suggestions": {
@@ -48867,44 +50494,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Bbmaj7"
-              ],
-              "local_key": "Bb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Bb major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Bbmaj7",
                 "Bbmaj7"
               ],
               "local_key": "Bb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Bbmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Bbmaj7",
+                "7th of Bbmaj7",
+                "root of Bbmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Bb major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -48923,6 +50534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -48956,8 +50568,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7 | Emaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -48978,8 +50592,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -48999,8 +50615,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7b5 | F7.",
+                "Voice-lead shell voicings through Cm7b5 | F7.",
                 "Run the line in 12 keys, resolving clearly to Bbm.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -49022,8 +50640,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7 | Bmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -49046,6 +50666,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 4,
           "current_transposition_label": "+4",
@@ -49056,6 +50677,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -49075,7 +50697,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -49095,7 +50719,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -49115,7 +50741,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -49135,7 +50763,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -49155,7 +50785,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -49175,7 +50807,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -49195,7 +50829,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -49215,7 +50851,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -49235,7 +50873,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -49255,7 +50895,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -49275,7 +50917,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -49295,7 +50939,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -49315,7 +50961,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -49335,7 +50983,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -49349,13 +50999,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -49368,14 +51020,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -49388,14 +51042,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -49408,14 +51064,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -49428,14 +51086,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -49448,14 +51108,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -49622,7 +51284,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -49632,8 +51294,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -49643,7 +51305,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -49654,7 +51316,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -49665,7 +51327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -49676,7 +51338,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -49782,31 +51444,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Bmaj7",
                 "Bmaj7"
               ],
               "local_key": "B major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Bmaj7"
-              ],
-              "local_key": "B major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -49860,6 +51510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -49885,6 +51536,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think B7 tension, then resolve to Emaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -49933,6 +51585,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -49980,6 +51633,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think Gb7 tension; expect resolution to B minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "Gb7",
               "resolve_to": "Bm",
               "scale_suggestions": {
@@ -49995,44 +51649,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Bmaj7"
-              ],
-              "local_key": "B major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "B major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Bmaj7",
                 "Bmaj7"
               ],
               "local_key": "B major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Bmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Bmaj7",
+                "7th of Bmaj7",
+                "root of Bmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "B major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -50051,6 +51689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -50084,8 +51723,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7 | Fmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -50106,8 +51747,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -50127,8 +51770,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7b5 | Gb7.",
+                "Voice-lead shell voicings through Dbm7b5 | Gb7.",
                 "Run the line in 12 keys, resolving clearly to Bm.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -50150,8 +51795,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7 | Cmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -50174,6 +51821,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 5,
           "current_transposition_label": "+5",
@@ -50184,6 +51832,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -50203,7 +51852,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -50223,7 +51874,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -50243,7 +51896,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -50263,7 +51918,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -50283,7 +51940,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -50303,7 +51962,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -50323,7 +51984,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -50343,7 +52006,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -50363,7 +52028,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -50383,7 +52050,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -50403,7 +52072,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -50423,7 +52094,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -50443,7 +52116,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -50463,7 +52138,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -50477,13 +52154,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -50496,14 +52175,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -50516,14 +52197,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -50536,14 +52219,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -50556,14 +52241,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -50576,14 +52263,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -50750,7 +52439,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -50760,8 +52449,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -50771,7 +52460,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -50782,7 +52471,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -50793,7 +52482,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -50804,7 +52493,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -50910,31 +52599,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Cmaj7",
                 "Cmaj7"
               ],
               "local_key": "C major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Cmaj7"
-              ],
-              "local_key": "C major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -50988,6 +52665,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -51013,6 +52691,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think C7 tension, then resolve to Fmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -51061,6 +52740,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -51108,6 +52788,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think G7 tension; expect resolution to C minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "G7",
               "resolve_to": "Cm",
               "scale_suggestions": {
@@ -51123,44 +52804,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Cmaj7"
-              ],
-              "local_key": "C major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "C major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Cmaj7",
                 "Cmaj7"
               ],
               "local_key": "C major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Cmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Cmaj7",
+                "7th of Cmaj7",
+                "root of Cmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "C major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -51179,6 +52844,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -51212,8 +52878,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7 | Gbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -51234,8 +52902,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -51255,8 +52925,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7b5 | G7.",
+                "Voice-lead shell voicings through Dm7b5 | G7.",
                 "Run the line in 12 keys, resolving clearly to Cm.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -51278,8 +52950,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7 | Dbmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7 | Dbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -51302,6 +52976,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": 6,
           "current_transposition_label": "+6",
@@ -51312,6 +52987,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -51331,7 +53007,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -51351,7 +53029,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -51371,7 +53051,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -51391,7 +53073,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -51411,7 +53095,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -51431,7 +53117,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -51451,7 +53139,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -51471,7 +53161,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -51491,7 +53183,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -51511,7 +53205,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -51531,7 +53227,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -51551,7 +53249,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -51571,7 +53271,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -51591,7 +53293,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -51605,13 +53309,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -51624,14 +53330,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -51644,14 +53352,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -51664,14 +53374,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -51684,14 +53396,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -51704,14 +53418,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -51878,7 +53594,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -51888,8 +53604,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -51899,7 +53615,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -51910,7 +53626,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -51921,7 +53637,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -51932,7 +53648,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -52038,31 +53754,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Dbmaj7",
                 "Dbmaj7"
               ],
               "local_key": "Db major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Dbmaj7"
-              ],
-              "local_key": "Db major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -52116,6 +53820,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -52141,6 +53846,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 tension, then resolve to Gbmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -52189,6 +53895,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -52236,6 +53943,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think Ab7 tension; expect resolution to Db minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "Ab7",
               "resolve_to": "Dbm",
               "scale_suggestions": {
@@ -52251,44 +53959,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Dbmaj7"
-              ],
-              "local_key": "Db major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Db major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Dbmaj7",
                 "Dbmaj7"
               ],
               "local_key": "Db major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Dbmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Dbmaj7",
+                "7th of Dbmaj7",
+                "root of Dbmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Db major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -52307,6 +53999,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -52340,8 +54033,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7 | Gmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -52362,8 +54057,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -52383,8 +54080,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7b5 | Ab7.",
+                "Voice-lead shell voicings through Ebm7b5 | Ab7.",
                 "Run the line in 12 keys, resolving clearly to Dbm.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -52406,8 +54105,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7 | Dmaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7 | Dmaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -52430,6 +54131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -5,
           "current_transposition_label": "-5",
@@ -52440,6 +54142,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -52459,7 +54162,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -52479,7 +54184,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -52499,7 +54206,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -52519,7 +54228,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -52539,7 +54250,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -52559,7 +54272,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -52579,7 +54294,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -52599,7 +54316,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -52619,7 +54338,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -52639,7 +54360,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -52659,7 +54382,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -52679,7 +54404,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -52699,7 +54426,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -52719,7 +54448,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -52733,13 +54464,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -52752,14 +54485,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -52772,14 +54507,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -52792,14 +54529,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -52812,14 +54551,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -52832,14 +54573,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -53006,7 +54749,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -53016,8 +54759,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -53027,7 +54770,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -53038,7 +54781,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -53049,7 +54792,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -53060,7 +54803,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -53166,31 +54909,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Dmaj7",
                 "Dmaj7"
               ],
               "local_key": "D major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Dmaj7"
-              ],
-              "local_key": "D major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -53244,6 +54975,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Bb7 language across the ii-V, then resolve to Ebmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Bb7",
               "resolve_to": "Ebmaj7",
               "scale_suggestions": {
@@ -53269,6 +55001,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think D7 tension, then resolve to Gmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -53317,6 +55050,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -53364,6 +55098,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think A7 tension; expect resolution to D minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "A7",
               "resolve_to": "Dm",
               "scale_suggestions": {
@@ -53379,44 +55114,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Dmaj7"
-              ],
-              "local_key": "D major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "D major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Dmaj7",
                 "Dmaj7"
               ],
               "local_key": "D major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Dmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Dmaj7",
+                "7th of Dmaj7",
+                "root of Dmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "D major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -53435,6 +55154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think F7 language across the ii-V, then resolve to Bbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -53468,8 +55188,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7 | Bb7 | Ebmaj7 | Abmaj7.",
+                "Voice-lead shell voicings through Fm7 | Bb7 | Ebmaj7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Ebmaj7.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -53490,8 +55212,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -53511,8 +55235,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7b5 | A7.",
+                "Voice-lead shell voicings through Em7b5 | A7.",
                 "Run the line in 12 keys, resolving clearly to Dm.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -53534,8 +55260,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Cm7 | F7 | Bbmaj7 | Ebmaj7.",
+                "Voice-lead shell voicings through Cm7 | F7 | Bbmaj7 | Ebmaj7.",
                 "Run the line in 12 keys, resolving clearly to Bbmaj7.",
-                "Comp shell voicings, then single-note lines from F7."
+                "Comp shell voicings, then single-note lines from F7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -53558,6 +55286,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -4,
           "current_transposition_label": "-4",
@@ -53568,6 +55297,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -53587,7 +55317,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -53607,7 +55339,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -53627,7 +55361,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -53647,7 +55383,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -53667,7 +55405,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -53687,7 +55427,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -53707,7 +55449,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -53727,7 +55471,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -53747,7 +55493,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -53767,7 +55515,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -53787,7 +55537,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -53807,7 +55559,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -53827,7 +55581,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -53847,7 +55603,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -53861,13 +55619,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -53880,14 +55640,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -53900,14 +55662,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -53920,14 +55684,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -53940,14 +55706,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -53960,14 +55728,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -54134,7 +55904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -54144,8 +55914,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -54155,7 +55925,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -54166,7 +55936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -54177,7 +55947,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -54188,7 +55958,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -54294,31 +56064,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Ebmaj7",
                 "Ebmaj7"
               ],
               "local_key": "Eb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Ebmaj7"
-              ],
-              "local_key": "Eb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -54372,6 +56130,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think B7 language across the ii-V, then resolve to Emaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "B7",
               "resolve_to": "Emaj7",
               "scale_suggestions": {
@@ -54397,6 +56156,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 tension, then resolve to Abmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -54445,6 +56205,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -54492,6 +56253,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think Bb7 tension; expect resolution to Eb minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "Bb7",
               "resolve_to": "Ebm",
               "scale_suggestions": {
@@ -54507,44 +56269,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Ebmaj7"
-              ],
-              "local_key": "Eb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Eb major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Ebmaj7",
                 "Ebmaj7"
               ],
               "local_key": "Eb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Ebmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Ebmaj7",
+                "7th of Ebmaj7",
+                "root of Ebmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Eb major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -54563,6 +56309,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Gb7 language across the ii-V, then resolve to Bmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -54596,8 +56343,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7 | B7 | Emaj7 | Amaj7.",
+                "Voice-lead shell voicings through Gbm7 | B7 | Emaj7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Emaj7.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -54618,8 +56367,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -54639,8 +56390,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Fm7b5 | Bb7.",
+                "Voice-lead shell voicings through Fm7b5 | Bb7.",
                 "Run the line in 12 keys, resolving clearly to Ebm.",
-                "Comp shell voicings, then single-note lines from Bb7."
+                "Comp shell voicings, then single-note lines from Bb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -54662,8 +56415,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dbm7 | Gb7 | Bmaj7 | Emaj7.",
+                "Voice-lead shell voicings through Dbm7 | Gb7 | Bmaj7 | Emaj7.",
                 "Run the line in 12 keys, resolving clearly to Bmaj7.",
-                "Comp shell voicings, then single-note lines from Gb7."
+                "Comp shell voicings, then single-note lines from Gb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -54686,6 +56441,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -3,
           "current_transposition_label": "-3",
@@ -54696,6 +56452,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -54715,7 +56472,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -54735,7 +56494,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -54755,7 +56516,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -54775,7 +56538,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -54795,7 +56560,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -54815,7 +56582,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -54835,7 +56604,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -54855,7 +56626,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -54875,7 +56648,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -54895,7 +56670,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -54915,7 +56692,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -54935,7 +56714,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -54955,7 +56736,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -54975,7 +56758,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -54989,13 +56774,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -55008,14 +56795,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -55028,14 +56817,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -55048,14 +56839,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -55068,14 +56861,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -55088,14 +56883,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -55262,7 +57059,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -55272,8 +57069,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -55283,7 +57080,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -55294,7 +57091,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -55305,7 +57102,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -55316,7 +57113,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -55422,31 +57219,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Emaj7",
                 "Emaj7"
               ],
               "local_key": "E major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Emaj7"
-              ],
-              "local_key": "E major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -55500,6 +57285,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think C7 language across the ii-V, then resolve to Fmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "C7",
               "resolve_to": "Fmaj7",
               "scale_suggestions": {
@@ -55525,6 +57311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think E7 tension, then resolve to Amaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -55573,6 +57360,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -55620,6 +57408,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think B7 tension; expect resolution to E minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "B7",
               "resolve_to": "Em",
               "scale_suggestions": {
@@ -55635,44 +57424,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Emaj7"
-              ],
-              "local_key": "E major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "E major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Emaj7",
                 "Emaj7"
               ],
               "local_key": "E major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Emaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Emaj7",
+                "7th of Emaj7",
+                "root of Emaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "E major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -55691,6 +57464,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think G7 language across the ii-V, then resolve to Cmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "G7",
               "resolve_to": "Cmaj7",
               "scale_suggestions": {
@@ -55724,8 +57498,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7 | C7 | Fmaj7 | Bbmaj7.",
+                "Voice-lead shell voicings through Gm7 | C7 | Fmaj7 | Bbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Fmaj7.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -55746,8 +57522,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -55767,8 +57545,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gbm7b5 | B7.",
+                "Voice-lead shell voicings through Gbm7b5 | B7.",
                 "Run the line in 12 keys, resolving clearly to Em.",
-                "Comp shell voicings, then single-note lines from B7."
+                "Comp shell voicings, then single-note lines from B7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -55790,8 +57570,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Dm7 | G7 | Cmaj7 | Fmaj7.",
+                "Voice-lead shell voicings through Dm7 | G7 | Cmaj7 | Fmaj7.",
                 "Run the line in 12 keys, resolving clearly to Cmaj7.",
-                "Comp shell voicings, then single-note lines from G7."
+                "Comp shell voicings, then single-note lines from G7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -55814,6 +57596,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -2,
           "current_transposition_label": "-2",
@@ -55824,6 +57607,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -55843,7 +57627,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -55863,7 +57649,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -55883,7 +57671,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -55903,7 +57693,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -55923,7 +57715,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -55943,7 +57737,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -55963,7 +57759,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -55983,7 +57781,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -56003,7 +57803,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -56023,7 +57825,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -56043,7 +57847,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -56063,7 +57869,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -56083,7 +57891,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -56103,7 +57913,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -56117,13 +57929,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -56136,14 +57950,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -56156,14 +57972,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -56176,14 +57994,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -56196,14 +58016,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -56216,14 +58038,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -56390,7 +58214,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -56400,8 +58224,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -56411,7 +58235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -56422,7 +58246,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -56433,7 +58257,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -56444,7 +58268,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -56550,31 +58374,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Fmaj7",
                 "Fmaj7"
               ],
               "local_key": "F major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Fmaj7"
-              ],
-              "local_key": "F major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -56628,6 +58440,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Db7 language across the ii-V, then resolve to Gbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Db7",
               "resolve_to": "Gbmaj7",
               "scale_suggestions": {
@@ -56653,6 +58466,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think F7 tension, then resolve to Bbmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "F7",
               "resolve_to": "Bbmaj7",
               "scale_suggestions": {
@@ -56701,6 +58515,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think Eb7 language across the ii-V, then resolve to Abmaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "Eb7",
               "resolve_to": "Abmaj7",
               "scale_suggestions": {
@@ -56748,6 +58563,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think C7 tension; expect resolution to F minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "C7",
               "resolve_to": "Fm",
               "scale_suggestions": {
@@ -56763,44 +58579,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Fmaj7"
-              ],
-              "local_key": "F major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "F major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Fmaj7",
                 "Fmaj7"
               ],
               "local_key": "F major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Fmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Fmaj7",
+                "7th of Fmaj7",
+                "root of Fmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "F major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -56819,6 +58619,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think Ab7 language across the ii-V, then resolve to Dbmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "Ab7",
               "resolve_to": "Dbmaj7",
               "scale_suggestions": {
@@ -56852,8 +58653,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7 | Db7 | Gbmaj7 | Bmaj7.",
+                "Voice-lead shell voicings through Abm7 | Db7 | Gbmaj7 | Bmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gbmaj7.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -56874,8 +58677,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bbm7 | Eb7 | Abmaj7.",
+                "Voice-lead shell voicings through Bbm7 | Eb7 | Abmaj7.",
                 "Run the line in 12 keys, resolving clearly to Abmaj7.",
-                "Comp shell voicings, then single-note lines from Eb7."
+                "Comp shell voicings, then single-note lines from Eb7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -56895,8 +58700,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Gm7b5 | C7.",
+                "Voice-lead shell voicings through Gm7b5 | C7.",
                 "Run the line in 12 keys, resolving clearly to Fm.",
-                "Comp shell voicings, then single-note lines from C7."
+                "Comp shell voicings, then single-note lines from C7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -56918,8 +58725,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Ebm7 | Ab7 | Dbmaj7 | Gbmaj7.",
+                "Voice-lead shell voicings through Ebm7 | Ab7 | Dbmaj7 | Gbmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dbmaj7.",
-                "Comp shell voicings, then single-note lines from Ab7."
+                "Comp shell voicings, then single-note lines from Ab7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],
@@ -56942,6 +58751,7 @@ window.JAZZCAT_PREVIEW_DATA = {
           "composer": "Kern Jerome",
           "declared_key": "Ab major",
           "style": "Medium Up Swing",
+          "form": null,
           "tempo": null,
           "current_transposition_shift": -1,
           "current_transposition_label": "-1",
@@ -56952,6 +58762,7 @@ window.JAZZCAT_PREVIEW_DATA = {
             "G / E minor-related movement",
             "Ab return"
           ],
+          "sections": [],
           "bars": [
             {
               "bar": 1,
@@ -56971,7 +58782,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-1"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 2,
@@ -56991,7 +58804,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 3,
@@ -57011,7 +58826,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 4,
@@ -57031,7 +58848,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 5,
@@ -57051,7 +58870,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-2"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 6,
@@ -57071,7 +58892,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 7,
@@ -57091,7 +58914,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-3"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 8,
@@ -57111,7 +58936,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-4"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 9,
@@ -57131,7 +58958,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 10,
@@ -57151,7 +58980,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 11,
@@ -57171,7 +59002,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-5"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 12,
@@ -57191,7 +59024,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-6"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "ambiguous-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 13,
@@ -57211,7 +59046,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 14,
@@ -57231,7 +59068,9 @@ window.JAZZCAT_PREVIEW_DATA = {
               "region_ids": [
                 "region-7"
               ],
-              "colour_role": "minor-key-region"
+              "colour_role": "minor-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 15,
@@ -57245,13 +59084,15 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "extensions": [],
                   "bass": null,
                   "region_id": "region-8",
-                  "colour_role": "ambiguous-region"
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
                 "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 16,
@@ -57264,14 +59105,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-9",
-                  "colour_role": "ambiguous-region"
+                  "region_id": "region-8",
+                  "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-9"
+                "region-8"
               ],
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 17,
@@ -57284,14 +59127,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "m7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 18,
@@ -57304,14 +59149,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 19,
@@ -57324,14 +59171,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             },
             {
               "bar": 20,
@@ -57344,14 +59193,16 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "quality": "maj7",
                   "extensions": [],
                   "bass": null,
-                  "region_id": "region-10",
+                  "region_id": "region-9",
                   "colour_role": "major-key-region"
                 }
               ],
               "region_ids": [
-                "region-10"
+                "region-9"
               ],
-              "colour_role": "major-key-region"
+              "colour_role": "major-key-region",
+              "section_id": null,
+              "section_label": null
             }
           ],
           "chords": [
@@ -57518,7 +59369,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "extensions": [],
               "bass": null,
               "region_id": "region-8",
-              "colour_role": "ambiguous-region"
+              "colour_role": "major-key-region"
             },
             {
               "bar": 16,
@@ -57528,8 +59379,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-9",
-              "colour_role": "ambiguous-region"
+              "region_id": "region-8",
+              "colour_role": "major-key-region"
             },
             {
               "bar": 17,
@@ -57539,7 +59390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "m7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -57550,7 +59401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -57561,7 +59412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             },
             {
@@ -57572,7 +59423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "quality": "maj7",
               "extensions": [],
               "bass": null,
-              "region_id": "region-10",
+              "region_id": "region-9",
               "colour_role": "major-key-region"
             }
           ],
@@ -57678,31 +59529,19 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "region_id": "region-8",
               "start_bar": 15,
-              "end_bar": 15,
+              "end_bar": 16,
               "chords": [
+                "Gbmaj7",
                 "Gbmaj7"
               ],
               "local_key": "Gb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "colour_role": "major-key-region",
+              "practice_priority": "medium"
             },
             {
               "region_id": "region-9",
-              "start_bar": 16,
-              "end_bar": 16,
-              "chords": [
-                "Gbmaj7"
-              ],
-              "local_key": "Gb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "colour_role": "ambiguous-region",
-              "practice_priority": "low"
-            },
-            {
-              "region_id": "region-10",
               "start_bar": 17,
               "end_bar": 20,
               "chords": [
@@ -57756,6 +59595,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think D7 language across the ii-V, then resolve to Gmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "D7",
               "resolve_to": "Gmaj7",
               "scale_suggestions": {
@@ -57781,6 +59621,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "V-I",
               "confidence": "high",
               "practice_hint": "Think Gb7 tension, then resolve to Bmaj7.",
+              "reason": "Dominant resolves by fourth into a major tonic chord.",
               "think_v": "Gb7",
               "resolve_to": "Bmaj7",
               "scale_suggestions": {
@@ -57829,6 +59670,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I",
               "confidence": "high",
               "practice_hint": "Think E7 language across the ii-V, then resolve to Amaj7.",
+              "reason": "Minor ii moves to dominant V and resolves by fourth into a major tonic: the clearest major-key cadence pattern.",
               "think_v": "E7",
               "resolve_to": "Amaj7",
               "scale_suggestions": {
@@ -57876,6 +59718,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "iiø-V",
               "confidence": "medium",
               "practice_hint": "Think Db7 tension; expect resolution to Gb minor.",
+              "reason": "The minor iiø-V motion is clear, but the tonic chord is implied rather than present.",
               "think_v": "Db7",
               "resolve_to": "Gbm",
               "scale_suggestions": {
@@ -57891,44 +59734,28 @@ window.JAZZCAT_PREVIEW_DATA = {
             {
               "span": {
                 "start_bar": 15,
-                "end_bar": 15
-              },
-              "chords": [
-                "Gbmaj7"
-              ],
-              "local_key": "Gb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
-              "alternate_interpretations": [
-                {
-                  "function": "static harmony or connective chord",
-                  "local_key": "Gb major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
-                }
-              ]
-            },
-            {
-              "span": {
-                "start_bar": 16,
                 "end_bar": 16
               },
               "chords": [
+                "Gbmaj7",
                 "Gbmaj7"
               ],
               "local_key": "Gb major",
-              "function": "ambiguous-region",
-              "confidence": "low",
-              "practice_hint": "No strong cadence claim; use the chord tones and listen for the next resolution.",
-              "reason": "The local pattern did not match a high-confidence v0.1 cadence rule.",
+              "function": "modal/static vamp",
+              "confidence": "medium",
+              "practice_hint": "Treat Gbmaj7 as a static major sound and build melody from chord tones first.",
+              "reason": "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+              "target_tones": [
+                "3rd of Gbmaj7",
+                "7th of Gbmaj7",
+                "root of Gbmaj7"
+              ],
               "alternate_interpretations": [
                 {
-                  "function": "static harmony or connective chord",
+                  "function": "static modal area",
                   "local_key": "Gb major",
-                  "confidence": "low",
-                  "reason": "Single-chord spans need surrounding context before JazzCat should overstate a key centre."
+                  "confidence": "medium",
+                  "reason": "Repeated harmony points more to sound and texture than to functional resolution."
                 }
               ]
             },
@@ -57947,6 +59774,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "function": "ii-V-I-IV",
               "confidence": "high",
               "practice_hint": "Think A7 language across the ii-V, then resolve to Dmaj7.",
+              "reason": "A minor ii chord moves by fourth to V, resolves by fourth to I, then continues to IV: a strong major-key cadence area.",
               "think_v": "A7",
               "resolve_to": "Dmaj7",
               "scale_suggestions": {
@@ -57980,8 +59808,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Am7 | D7 | Gmaj7 | Cmaj7.",
+                "Voice-lead shell voicings through Am7 | D7 | Gmaj7 | Cmaj7.",
                 "Run the line in 12 keys, resolving clearly to Gmaj7.",
-                "Comp shell voicings, then single-note lines from D7."
+                "Comp shell voicings, then single-note lines from D7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -58002,8 +59832,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Bm7 | E7 | Amaj7.",
+                "Voice-lead shell voicings through Bm7 | E7 | Amaj7.",
                 "Run the line in 12 keys, resolving clearly to Amaj7.",
-                "Comp shell voicings, then single-note lines from E7."
+                "Comp shell voicings, then single-note lines from E7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -58023,8 +59855,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Abm7b5 | Db7.",
+                "Voice-lead shell voicings through Abm7b5 | Db7.",
                 "Run the line in 12 keys, resolving clearly to Gbm.",
-                "Comp shell voicings, then single-note lines from Db7."
+                "Comp shell voicings, then single-note lines from Db7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             },
             {
@@ -58046,8 +59880,10 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "suggested_drills": [
                 "Play guide tones through Em7 | A7 | Dmaj7 | Gmaj7.",
+                "Voice-lead shell voicings through Em7 | A7 | Dmaj7 | Gmaj7.",
                 "Run the line in 12 keys, resolving clearly to Dmaj7.",
-                "Comp shell voicings, then single-note lines from A7."
+                "Comp shell voicings, then single-note lines from A7.",
+                "Play the same idea in two nearby fretboard positions."
               ]
             }
           ],

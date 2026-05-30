@@ -84,7 +84,7 @@ async function main(): Promise<void> {
   const analysed = analyseProgression(chordSymbols);
   const output = {
     app: "JazzCat",
-    version: "0.3.0",
+    version: "0.4.0",
     source: loaded.source,
     metadata: {
       ...loaded.parsed.metadata,
@@ -128,7 +128,7 @@ main().catch((error: unknown) => {
     `${JSON.stringify(
       {
         app: "JazzCat",
-        version: "0.3.0",
+        version: "0.4.0",
         error: message,
         warnings: ["CLI failed before analysis completed."]
       },

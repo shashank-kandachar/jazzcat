@@ -111,4 +111,35 @@ test("plain-text UI model preserves bars with multiple chords", () => {
     [["Dm7", "G7"], ["Cmaj7"]]
   );
   assert.equal(model.analysis[0].function, "ii-V-I");
+  assert.equal(model.regions[0].start_bar, 1);
+  assert.equal(model.regions[0].end_bar, 2);
+});
+
+test("plain-text UI model carries metadata and chart sections", () => {
+  const model = createPlainTextChartViewModel(`
+Title: Sectioned Study
+Composer: Test Writer
+Key: F major
+Form: AABA
+A:
+| Gm7 C7 | Fmaj7 |
+Bridge:
+| Am7 D7 | Gm7 C7 |
+`);
+
+  assert.equal(model.title, "Sectioned Study");
+  assert.equal(model.composer, "Test Writer");
+  assert.equal(model.declared_key, "F major");
+  assert.equal(model.form, "AABA");
+  assert.deepEqual(
+    model.sections.map((section) => [section.label, section.start_bar, section.end_bar]),
+    [
+      ["A", 1, 2],
+      ["Bridge", 3, 4]
+    ]
+  );
+  assert.deepEqual(
+    model.bars.map((bar) => bar.section_label),
+    ["A", "A", "Bridge", "Bridge"]
+  );
 });

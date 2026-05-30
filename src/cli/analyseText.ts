@@ -4,7 +4,19 @@ import { analyseProgression } from "../core/harmony/analyseProgression.ts";
 import { buildGuitarTasksForAnalysis } from "../core/harmony/guitarTasks.ts";
 import { buildKeyTrainerVersions } from "../core/practice/keyTrainer.ts";
 import { buildPracticePack } from "../core/practice/buildPracticePack.ts";
-import { parsePlainTextChart } from "../import/parsePlainTextChart.ts";
+import { parsePlainTextChart, type PlainTextChart } from "../import/parsePlainTextChart.ts";
+
+function sequenceToBarNumbers(parsed: PlainTextChart): Map<number, number> {
+  const sequenceToBar = new Map<number, number>();
+  let cursor = 0;
+  parsed.bars.forEach((bar) => {
+    bar.chords.forEach(() => {
+      cursor += 1;
+      sequenceToBar.set(cursor, bar.bar);
+    });
+  });
+  return sequenceToBar;
+}
 
 async function main(): Promise<void> {
   const file = process.argv[2];
@@ -15,21 +27,37 @@ async function main(): Promise<void> {
   const text = await readFile(file, "utf8");
   const parsed = parsePlainTextChart(text);
   const analysed = analyseProgression(parsed.chords);
-  const selectedRegion = analysed.regions[0] ?? null;
-  const selectedAnalysis = analysed.analysis[0] ?? null;
+  const sequenceToBar = sequenceToBarNumbers(parsed);
+  const remappedAnalysis = analysed.analysis.map((item) => ({
+    ...item,
+    span: {
+      start_bar: sequenceToBar.get(item.span.start_bar) ?? item.span.start_bar,
+      end_bar: sequenceToBar.get(item.span.end_bar) ?? item.span.end_bar
+    }
+  }));
+  const remappedRegions = analysed.regions.map((region) => ({
+    ...region,
+    start_bar: sequenceToBar.get(region.start_bar) ?? region.start_bar,
+    end_bar: sequenceToBar.get(region.end_bar) ?? region.end_bar
+  }));
+  const selectedRegion = remappedRegions[0] ?? null;
+  const selectedAnalysis = remappedAnalysis[0] ?? null;
   const selectedPractice = analysed.practice_objects[0] ?? null;
   const guitarTasks = buildGuitarTasksForAnalysis(selectedAnalysis, selectedRegion);
 
   const output = {
     app: "JazzCat",
-    version: "0.3.0",
+    version: "0.4.0",
     source: {
       type: "plain_text",
-      filename: basename(file)
+      filename: basename(file),
+      title: parsed.metadata.title ?? basename(file),
+      declared_key: parsed.metadata.declared_key,
+      form: parsed.metadata.form
     },
     parsed,
-    regions: analysed.regions,
-    analysis: analysed.analysis,
+    regions: remappedRegions,
+    analysis: remappedAnalysis,
     practice_objects: analysed.practice_objects,
     guitar_tasks: guitarTasks,
     key_trainer: selectedAnalysis
@@ -43,8 +71,8 @@ async function main(): Promise<void> {
         ? buildPracticePack({
             source: {
               type: "plain_text",
-              title: basename(file),
-              declared_key: null,
+              title: parsed.metadata.title ?? basename(file),
+              declared_key: parsed.metadata.declared_key,
               transposition_shift: 0
             },
             region: selectedRegion,
@@ -66,7 +94,7 @@ main().catch((error: unknown) => {
     `${JSON.stringify(
       {
         app: "JazzCat",
-        version: "0.3.0",
+        version: "0.4.0",
         error: message,
         warnings: ["Plain-text CLI failed before analysis completed."]
       },

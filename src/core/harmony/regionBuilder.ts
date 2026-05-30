@@ -2,6 +2,7 @@ import type { ColourRole, HarmonyAnalysis, SemanticRegion } from "../types.ts";
 
 function colourRoleFor(analysis: HarmonyAnalysis): ColourRole {
   if (analysis.function.includes("ambiguous")) return "ambiguous-region";
+  if (analysis.function.includes("dominant chain")) return "dominant-tension";
   if (analysis.function.includes("secondary") || analysis.function.includes("tritone")) return "modulation-region";
   if (analysis.local_key.includes("minor")) return "minor-key-region";
   if (analysis.local_key.includes("major")) return "major-key-region";

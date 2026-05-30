@@ -12,6 +12,9 @@ test("major ii-V-I produces guide-tone, arpeggio, think-V, resolution, and scale
   assert.ok(taskTypes.includes("think-v"));
   assert.ok(taskTypes.includes("resolution"));
   assert.ok(taskTypes.includes("scale-choice"));
+  assert.ok(taskTypes.includes("comping"));
+  assert.ok(taskTypes.includes("voice-leading"));
+  assert.ok(taskTypes.includes("fretboard-position"));
   assert.ok(tasks.some((task) => task.instruction.includes("G7")));
 });
 

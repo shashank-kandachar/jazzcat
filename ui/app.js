@@ -7,7 +7,8 @@ const state = {
   importInfo: null,
   unknownModel: null,
   plainText: null,
-  keyTrainerMode: "original"
+  keyTrainerMode: "original",
+  practiceNotes: ""
 };
 
 const elements = {
@@ -15,6 +16,7 @@ const elements = {
   metaComposer: document.querySelector("#meta-composer"),
   metaKey: document.querySelector("#meta-key"),
   metaStyle: document.querySelector("#meta-style"),
+  metaForm: document.querySelector("#meta-form"),
   metaTempo: document.querySelector("#meta-tempo"),
   metaShift: document.querySelector("#meta-shift"),
   metaRegions: document.querySelector("#meta-regions"),
@@ -36,6 +38,7 @@ const elements = {
   transposeReset: document.querySelector("#transpose-reset"),
   transposeLabel: document.querySelector("#transpose-label"),
   chartGrid: document.querySelector("#chart-grid"),
+  harmonyMap: document.querySelector("#harmony-map"),
   regionList: document.querySelector("#region-list"),
   regionDetail: document.querySelector("#region-detail"),
   practiceList: document.querySelector("#practice-list"),
@@ -43,6 +46,7 @@ const elements = {
   keyTrainerList: document.querySelector("#key-trainer-list"),
   copyPackButton: document.querySelector("#copy-pack-button"),
   downloadPackButton: document.querySelector("#download-pack-button"),
+  practiceNotesInput: document.querySelector("#practice-notes-input"),
   payloadPreview: document.querySelector("#payload-preview"),
   payloadLength: document.querySelector("#payload-length")
 };
@@ -219,56 +223,146 @@ function splitChordTokens(bar) {
     .filter(Boolean);
 }
 
-function splitPlainTextBars(input) {
-  const trimmed = input.trim();
-  if (!trimmed) return [];
-  if (trimmed.includes("[") && trimmed.includes("]")) {
-    const bracketed = [...trimmed.matchAll(/\[([^\]]+)\]/g)].map((match) => match[1].trim()).filter(Boolean);
-    if (bracketed.length > 0) return bracketed;
+const METADATA_KEYS = {
+  title: "title",
+  tune: "title",
+  composer: "composer",
+  by: "composer",
+  key: "declared_key",
+  declaredkey: "declared_key",
+  form: "form",
+  style: "style",
+  tempo: "tempo",
+  bpm: "tempo"
+};
+
+const SECTION_LABELS = new Set(["intro", "a", "b", "c", "d", "bridge", "solo", "solos", "head", "verse", "chorus", "tag", "outro", "ending"]);
+
+function emptyMetadata() {
+  return { title: null, composer: null, declared_key: null, form: null, style: null, tempo: null };
+}
+
+function normaliseKeyLabel(value) {
+  return String(value ?? "").trim().toLowerCase().replace(/[^a-z0-9]+/g, "");
+}
+
+function metadataKey(label) {
+  return METADATA_KEYS[normaliseKeyLabel(label)] ?? null;
+}
+
+function isSectionLabel(label) {
+  const normalised = normaliseKeyLabel(label);
+  return SECTION_LABELS.has(normalised) || /^[a-z]$/.test(normalised);
+}
+
+function parseTempo(value) {
+  const match = /\d+/.exec(value);
+  if (!match) return null;
+  const tempo = Number(match[0]);
+  return Number.isInteger(tempo) && tempo >= 30 && tempo <= 320 ? tempo : null;
+}
+
+function parseMetadataLine(line, metadata) {
+  const match = /^([A-Za-z][A-Za-z ]{0,24})\s*:\s*(.+)$/.exec(line);
+  if (!match) return false;
+  const key = metadataKey(match[1]);
+  if (!key) return false;
+  const value = match[2].trim();
+  if (!value) return true;
+  metadata[key] = key === "tempo" ? parseTempo(value) : value;
+  return true;
+}
+
+function splitExplicitBars(input) {
+  const bracketed = [...input.matchAll(/\[([^\]]+)\]/g)].map((match) => match[1].trim()).filter(Boolean);
+  if (bracketed.length > 0) return bracketed;
+  if (input.includes("|")) return input.split("|").map((bar) => bar.trim()).filter(Boolean);
+  return [];
+}
+
+function isHeldBar(rawBar) {
+  return /^(%|\/|[-]+|n\.?c\.?)$/i.test(String(rawBar).trim());
+}
+
+function readChartChunks(input, metadata) {
+  const chunks = [];
+  const sectionDrafts = [];
+  let currentSection = null;
+  const lines = input.split(/\r?\n/).map((line) => line.trim()).filter((line) => line && !line.startsWith("#"));
+
+  lines.forEach((line) => {
+    if (parseMetadataLine(line, metadata)) return;
+    let chordText = line;
+    const headerMatch = /^([A-Za-z][A-Za-z0-9 ]{0,24})\s*:\s*(.*)$/.exec(line);
+    if (headerMatch && isSectionLabel(headerMatch[1])) {
+      currentSection = { section_id: `section-${sectionDrafts.length + 1}`, label: headerMatch[1].trim() };
+      sectionDrafts.push(currentSection);
+      chordText = headerMatch[2].trim();
+      if (!chordText) return;
+    }
+
+    const explicitBars = splitExplicitBars(chordText);
+    if (explicitBars.length > 0) {
+      explicitBars.forEach((raw) => chunks.push({ raw, section_id: currentSection?.section_id ?? null, section_label: currentSection?.label ?? null, explicit_bars: true }));
+      return;
+    }
+
+    chunks.push({ raw: chordText, section_id: currentSection?.section_id ?? null, section_label: currentSection?.label ?? null, explicit_bars: false });
+  });
+
+  return { chunks, sectionDrafts };
+}
+
+function normaliseChordToken(token, warnings) {
+  try {
+    const chord = parseChord(token);
+    if (!SUPPORTED_QUALITIES.has(chord.quality)) {
+      warnings.push(`Unparseable chord token skipped: ${token}`);
+      return null;
+    }
+    return chord.symbol;
+  } catch {
+    warnings.push(`Unparseable chord token skipped: ${token}`);
+    return null;
   }
-  if (trimmed.includes("|")) return trimmed.split("|").map((bar) => bar.trim()).filter(Boolean);
-  const lines = trimmed.split(/\r?\n+/).map((line) => line.trim()).filter(Boolean);
-  if (lines.length > 1) return lines;
-  return splitChordTokens(trimmed);
+}
+
+function buildSections(sectionDrafts, bars) {
+  return sectionDrafts
+    .map((section) => {
+      const sectionBars = bars.filter((bar) => bar.section_id === section.section_id);
+      if (sectionBars.length === 0) return null;
+      return { section_id: section.section_id, label: section.label, start_bar: sectionBars[0].bar, end_bar: sectionBars[sectionBars.length - 1].bar };
+    })
+    .filter(Boolean);
 }
 
 function parsePlainTextChart(input) {
   const warnings = [];
-  const explicitBars = input.includes("|") || (input.includes("[") && input.includes("]"));
-  const rawBars = splitPlainTextBars(input);
+  const metadata = emptyMetadata();
+  const { chunks, sectionDrafts } = readChartChunks(input, metadata);
+  const hasAnyExplicitBars = chunks.some((chunk) => chunk.explicit_bars);
+  const splitSingleImplicitChunk = !hasAnyExplicitBars && chunks.length === 1;
   const bars = [];
-  const chords = [];
 
-  rawBars.forEach((rawBar) => {
-    const parsedTokens = splitChordTokens(rawBar)
-      .map((token) => {
-        try {
-          const chord = parseChord(token);
-          if (!SUPPORTED_QUALITIES.has(chord.quality)) {
-            warnings.push(`Unparseable chord token skipped: ${token}`);
-            return null;
-          }
-          return chord.symbol;
-        } catch {
-          warnings.push(`Unparseable chord token skipped: ${token}`);
-          return null;
-        }
-      })
-      .filter(Boolean);
+  chunks.forEach((chunk) => {
+    const rawBars = splitSingleImplicitChunk ? splitChordTokens(chunk.raw) : [chunk.raw];
+    rawBars.forEach((rawBar) => {
+      if (isHeldBar(rawBar)) {
+        bars.push({ bar: bars.length + 1, raw: rawBar, chords: [], section_id: chunk.section_id, section_label: chunk.section_label });
+        return;
+      }
 
-    if (parsedTokens.length === 0) return;
-
-    if (explicitBars || rawBars.length > 1) {
-      bars.push({ bar: bars.length + 1, raw: rawBar, chords: parsedTokens });
-    } else {
-      parsedTokens.forEach((chord) => bars.push({ bar: bars.length + 1, raw: chord, chords: [chord] }));
-    }
-    chords.push(...parsedTokens);
+      const parsedTokens = splitChordTokens(rawBar).map((token) => normaliseChordToken(token, warnings)).filter(Boolean);
+      if (parsedTokens.length === 0) return;
+      bars.push({ bar: bars.length + 1, raw: rawBar, chords: parsedTokens, section_id: chunk.section_id, section_label: chunk.section_label });
+    });
   });
 
-  if (rawBars.length === 0) warnings.push("No chord text found.");
+  const chords = bars.flatMap((bar) => bar.chords);
+  if (chunks.length === 0) warnings.push("No chord text found.");
   else if (chords.length === 0) warnings.push("No parseable chords found.");
-  return { bars, chords, warnings: [...new Set(warnings)] };
+  return { metadata, sections: buildSections(sectionDrafts, bars), bars, chords, warnings: [...new Set(warnings)] };
 }
 
 function chartChord(raw, index) {
@@ -343,7 +437,72 @@ function analysisFor(chords, localKey, functionName, confidence, practiceHint, e
   };
 }
 
+function detectTurnaroundAt(chords, index) {
+  const group = chords.slice(index, index + 4);
+  if (group.length < 4) return null;
+  const [one, six, two, five] = group;
+  if (!isMajorTarget(one) || !isMinorSeven(six) || !isMinorSeven(two) || !isDominant(five)) return null;
+  if (!isFourthMove(six, two) || !isFourthMove(two, five)) return null;
+  const target = targetFromDominant(five.parsed.root, preferFlatNames(...chordSymbols(group)));
+  if (target !== one.parsed.root) return null;
+  return analysisFor(group, keyLabel(one.parsed.root, "major"), "I-vi-ii-V turnaround", "medium", `Hear ${one.parsed.symbol} as home, then use ${five.parsed.symbol} to turn back toward ${one.parsed.root}.`, {
+    reason: "A tonic major chord moves through vi-ii-V, a common turnaround that points back to the same key centre.",
+    think_v: five.parsed.symbol,
+    resolve_to: one.parsed.symbol,
+    scale_suggestions: majorScaleSuggestions(five.parsed.root, one.parsed.root),
+    target_tones: targetTonesFor(one.parsed.symbol)
+  });
+}
+
+function detectDominantChainAt(chords, index) {
+  const group = [];
+  let cursor = index;
+  while (cursor < chords.length && isDominant(chords[cursor])) {
+    if (group.length > 0 && !isFourthMove(group[group.length - 1], chords[cursor])) break;
+    group.push(chords[cursor]);
+    cursor += 1;
+  }
+  if (group.length < 3) return null;
+
+  const impliedTarget = targetFromDominant(group[group.length - 1].parsed.root, preferFlatNames(...chordSymbols(group)));
+  const following = chords[cursor] ?? null;
+  const resolvesToFollowing = following && isFourthMove(group[group.length - 1], following);
+  const fullGroup = resolvesToFollowing ? [...group, following] : group;
+  const targetSymbol = resolvesToFollowing ? following.parsed.symbol : impliedTarget;
+  const targetRoot = resolvesToFollowing ? following.parsed.root : impliedTarget;
+  const mode = resolvesToFollowing && isMinorTarget(following) ? "minor" : "major";
+  return analysisFor(fullGroup, keyLabel(targetRoot, mode), resolvesToFollowing ? "dominant chain to I" : "dominant chain", "medium", `Follow each dominant by fourth, then aim ${group[group.length - 1].parsed.symbol} toward ${targetSymbol}.`, {
+    reason: "Three or more dominants move by fourths, creating a chain of temporary V sounds and forward motion.",
+    think_v: group[group.length - 1].parsed.symbol,
+    resolve_to: targetSymbol,
+    scale_suggestions: dominantScaleSuggestions(group[group.length - 1].parsed.root, targetRoot),
+    target_tones: targetTonesFor(targetSymbol)
+  });
+}
+
+function detectStaticVampAt(chords, index) {
+  const first = chords[index];
+  const group = [first];
+  let cursor = index + 1;
+  while (cursor < chords.length) {
+    const next = chords[cursor];
+    if (next.parsed.root !== first.parsed.root || next.parsed.quality !== first.parsed.quality) break;
+    group.push(next);
+    cursor += 1;
+  }
+  if (group.length < 2) return null;
+  const mode = isMinorTarget(first) || isHalfDiminished(first) ? "minor" : "major";
+  const chordQuality = mode === "minor" ? "minor or Dorian" : "major";
+  return analysisFor(group, keyLabel(first.parsed.root, mode), "modal/static vamp", "medium", `Treat ${first.parsed.symbol} as a static ${chordQuality} sound and build melody from chord tones first.`, {
+    reason: "The same harmony is repeated, so JazzCat avoids a cadence claim and treats the span as a static practice area.",
+    target_tones: targetTonesFor(first.parsed.symbol)
+  });
+}
+
 function detectAt(chords, index) {
+  const expandedPattern = detectTurnaroundAt(chords, index) ?? detectDominantChainAt(chords, index) ?? detectStaticVampAt(chords, index);
+  if (expandedPattern) return expandedPattern;
+
   const four = chords.slice(index, index + 4);
   if (four.length >= 4) {
     const [two, five, one, fourChord] = four;
@@ -455,7 +614,8 @@ function detectAt(chords, index) {
 function buildRegions(analysis) {
   return analysis.map((item, index) => {
     let colourRole = "ambiguous-region";
-    if (item.function.includes("secondary") || item.function.includes("tritone")) colourRole = "modulation-region";
+    if (item.function.includes("dominant chain")) colourRole = "dominant-tension";
+    else if (item.function.includes("secondary") || item.function.includes("tritone")) colourRole = "modulation-region";
     else if (item.local_key.includes("minor")) colourRole = "minor-key-region";
     else if (item.local_key.includes("major")) colourRole = "major-key-region";
     return {
@@ -486,8 +646,10 @@ function buildPracticeObjects(analysis) {
       target_tones: item.target_tones ?? targetTonesFor(item.resolve_to),
       suggested_drills: [
         `Play guide tones through ${item.chords.join(" | ")}.`,
+        `Voice-lead shell voicings through ${item.chords.join(" | ")}.`,
         `Run the line in 12 keys, resolving clearly to ${item.resolve_to}.`,
-        `Comp shell voicings, then single-note lines from ${item.think_v}.`
+        `Comp shell voicings, then single-note lines from ${item.think_v}.`,
+        "Play the same idea in two nearby fretboard positions."
       ]
     }));
 }
@@ -626,6 +788,7 @@ function applyImportOverlay(model, importInfo) {
     title: metadata.title ?? model.title,
     composer: metadata.composer ?? model.composer,
     declared_key: metadata.declared_key ?? model.declared_key,
+    form: model.form ?? null,
     style: metadata.style ?? model.style,
     tempo: metadata.tempo ?? model.tempo,
     ireal: payloadView(importInfo.parsed),
@@ -640,11 +803,13 @@ function createUnknownModel(parsed, kind, warnings) {
     title: parsed.metadata.title ?? "Unknown iReal Chart",
     composer: parsed.metadata.composer ?? null,
     declared_key: parsed.metadata.declared_key ?? null,
+    form: null,
     style: parsed.metadata.style ?? null,
     tempo: parsed.metadata.tempo ?? null,
     current_transposition_shift: 0,
     current_transposition_label: "0",
     expected_regions: [],
+    sections: [],
     bars: [],
     chords: [],
     regions: [],
@@ -667,9 +832,30 @@ function regionForSequence(model, sequenceIndex) {
 
 function createPlainTextModel(input, title, declaredKey, shift) {
   const parsed = parsePlainTextChart(input);
-  const preferFlats = preferFlatNames(declaredKey, ...parsed.chords);
+  const resolvedKey = declaredKey?.trim() || parsed.metadata.declared_key;
+  const preferFlats = preferFlatNames(resolvedKey, ...parsed.chords);
   const shiftedChords = shift === 0 ? parsed.chords : transposeChart(parsed.chords, shift, preferFlats);
   const analysed = analyseProgression(shiftedChords);
+  const sequenceToBar = new Map();
+  let sequenceCursor = 0;
+  parsed.bars.forEach((bar) => {
+    bar.chords.forEach(() => {
+      sequenceCursor += 1;
+      sequenceToBar.set(sequenceCursor, bar.bar);
+    });
+  });
+  const remappedAnalysis = analysed.analysis.map((item) => ({
+    ...item,
+    span: {
+      start_bar: sequenceToBar.get(item.span.start_bar) ?? item.span.start_bar,
+      end_bar: sequenceToBar.get(item.span.end_bar) ?? item.span.end_bar
+    }
+  }));
+  const remappedRegions = analysed.regions.map((region) => ({
+    ...region,
+    start_bar: sequenceToBar.get(region.start_bar) ?? region.start_bar,
+    end_bar: sequenceToBar.get(region.end_bar) ?? region.end_bar
+  }));
   const bars = [];
   const chords = [];
   let cursor = 0;
@@ -699,25 +885,30 @@ function createPlainTextModel(input, title, declaredKey, shift) {
       bar: bar.bar,
       chords: barChords,
       region_ids: [...new Set(barChords.map((chord) => chord.region_id).filter(Boolean))],
-      colour_role: barChords.find((chord) => chord.colour_role)?.colour_role ?? null
+      colour_role: barChords.find((chord) => chord.colour_role)?.colour_role ?? null,
+      section_id: bar.section_id ?? null,
+      section_label: bar.section_label ?? null,
+      raw: bar.raw
     });
   });
 
   return {
     id: "plain-text-chart",
     source_kind: "plain_text",
-    title: title?.trim() || "Untitled Progression",
-    composer: null,
-    declared_key: declaredKey?.trim() || null,
-    style: "Plain Text",
-    tempo: null,
+    title: title?.trim() || parsed.metadata.title || "Untitled Progression",
+    composer: parsed.metadata.composer,
+    declared_key: resolvedKey || null,
+    form: parsed.metadata.form,
+    style: parsed.metadata.style ?? "Plain Text",
+    tempo: parsed.metadata.tempo,
     current_transposition_shift: shift,
     current_transposition_label: formatShift(shift),
     expected_regions: [],
+    sections: parsed.sections,
     bars,
     chords,
-    regions: analysed.regions,
-    analysis: analysed.analysis,
+    regions: remappedRegions,
+    analysis: remappedAnalysis,
     practice_objects: analysed.practice_objects,
     ireal: payloadView(null),
     warnings: [...parsed.warnings, ...analysed.warnings]
@@ -748,6 +939,8 @@ function setDemo(slug) {
   state.importInfo = null;
   state.unknownModel = null;
   state.plainText = null;
+  state.practiceNotes = "";
+  elements.practiceNotesInput.value = "";
   render();
 }
 
@@ -759,6 +952,8 @@ function setImported(kind, value) {
     state.unknownModel = createUnknownModel(result.parsed, kind, result.warnings);
     state.importInfo = null;
     state.plainText = null;
+    state.practiceNotes = "";
+    elements.practiceNotesInput.value = "";
     state.regionIndex = 0;
     state.shift = 0;
     render();
@@ -771,6 +966,8 @@ function setImported(kind, value) {
   state.unknownModel = null;
   state.plainText = null;
   state.importInfo = { kind, parsed: result.parsed, warnings: result.warnings };
+  state.practiceNotes = "";
+  elements.practiceNotesInput.value = "";
   elements.demoSelect.value = matchedDemo.slug;
   render();
 }
@@ -785,6 +982,8 @@ function setPlainText() {
   state.unknownModel = null;
   state.regionIndex = 0;
   state.shift = 0;
+  state.practiceNotes = "";
+  elements.practiceNotesInput.value = "";
   render();
 }
 
@@ -818,6 +1017,9 @@ function buildGuitarTasks(analysis, region) {
       `Think ${thinkV} across the ii-V.`,
       `Resolve to the root or 3rd of ${resolveTo}.`,
       "Try inside first, then altered on the V.",
+      "Comp shell voicings, then add one colour tone on the dominant.",
+      "Keep the 3rds and 7ths moving by the smallest possible distance.",
+      "Play the idea in one position, then repeat it one string set higher.",
       "Move the idea through three keys."
     ];
   }
@@ -827,18 +1029,24 @@ function buildGuitarTasks(analysis, region) {
       "Outline the m7b5 chord clearly.",
       `Think altered dominant or Phrygian dominant on ${thinkV}.`,
       `Resolve strongly to ${resolveTo}.`,
+      "Comp m7b5 and altered dominant shells before playing lines.",
+      "Voice-lead the b5 of the ii chord into the dominant tension.",
+      "Keep the cadence inside one four-fret position before shifting keys.",
       "Move the idea through three keys."
     ];
   }
-  if (fn === "V-I" || fn === "V-i" || fn.includes("secondary dominant")) {
+  if (fn === "V-I" || fn === "V-i" || fn.includes("secondary dominant") || fn.includes("dominant chain")) {
     return [
       "Isolate dominant tension and resolution.",
       `Target the 3rd or root of ${resolveTo}.`,
-      "Try one inside line and one altered line."
+      "Try one inside line and one altered line.",
+      "Comp dominant shells first, then add altered colours only where they resolve.",
+      "Connect each dominant 3rd and 7th into the next chord."
     ];
   }
   return [
     "Start with guide tones and chord tones first.",
+    "Map the arpeggio in one fretboard position before adding scale material.",
     "Avoid overconfident scale advice until the tonal centre is clear.",
     `Confirm whether ${analysis.local_key || region?.local_key || "this area"} is the intended tonal centre.`
   ];
@@ -895,6 +1103,10 @@ function practicePackSource(model) {
 function buildSelectedPracticePack(model) {
   const { region, analysis, practice, guitarTasks, keyTrainer } = selectedPracticeContext(model);
   if (!region || !analysis) return null;
+  const notes = state.practiceNotes
+    .split(/\r?\n/)
+    .map((note) => note.trim())
+    .filter(Boolean);
   return {
     schema: "jazzcat-practice-pack-v1",
     source: practicePackSource(model),
@@ -920,7 +1132,7 @@ function buildSelectedPracticePack(model) {
       mode: state.keyTrainerMode,
       versions: keyTrainer
     },
-    notes: []
+    notes
   };
 }
 
@@ -934,6 +1146,7 @@ function renderMeta(model) {
   elements.metaComposer.textContent = model.composer || "-";
   elements.metaKey.textContent = model.declared_key || "-";
   elements.metaStyle.textContent = model.style || "-";
+  elements.metaForm.textContent = model.form || "-";
   elements.metaTempo.textContent = model.tempo ? String(model.tempo) : "-";
   elements.metaShift.textContent = model.current_transposition_label;
   elements.metaRegions.textContent = String(model.regions.length);
@@ -955,29 +1168,101 @@ function renderWarnings(model) {
 
 function renderChart(model) {
   const selectedRegion = model.regions[state.regionIndex] ?? null;
-  const bars = model.bars?.length ? model.bars : model.chords.map((chord) => ({ bar: chord.bar, chords: [chord], region_ids: chord.region_id ? [chord.region_id] : [], colour_role: chord.colour_role }));
+  const bars = model.bars?.length
+    ? model.bars
+    : model.chords.map((chord) => ({
+        bar: chord.bar,
+        raw: chord.symbol,
+        chords: [chord],
+        region_ids: chord.region_id ? [chord.region_id] : [],
+        colour_role: chord.colour_role,
+        section_id: null,
+        section_label: null
+      }));
 
   if (bars.length === 0) {
     elements.chartGrid.innerHTML = `<div class="empty-state">Chord body preserved, but no decoded chord grid is available yet.</div>`;
     return;
   }
 
-  elements.chartGrid.innerHTML = bars
-    .map((bar) => {
-      const active = selectedRegion && bar.region_ids.includes(selectedRegion.region_id);
-      const role = bar.colour_role ?? "ambiguous-region";
-      const label = bar.chords.map((chord) => chord.symbol).join(" ");
-      const regionId = bar.region_ids[0] ?? "";
+  const phrases = groupBarsIntoPhrases(bars);
+  elements.chartGrid.innerHTML = `
+    <div class="lead-sheet" aria-label="Lead-sheet chord chart">
+      ${phrases
+        .map((phrase) => {
+          const cells = [...phrase.bars];
+          while (cells.length < 4) cells.push(null);
+          return `
+            <div class="lead-sheet-phrase">
+              <div class="phrase-label">${phrase.sectionLabel ? escapeHtml(phrase.sectionLabel) : ""}</div>
+              <div class="measure-row">
+                ${cells
+                  .map((bar) => {
+                    if (!bar) return `<div class="measure-cell is-empty" aria-hidden="true"></div>`;
+                    const active = selectedRegion && bar.region_ids.includes(selectedRegion.region_id);
+                    const role = bar.colour_role ?? "ambiguous-region";
+                    const regionId = bar.region_ids[0] ?? "";
+                    const chordText = bar.chords.length > 0 ? bar.chords.map((chord) => `<span>${escapeHtml(chord.symbol)}</span>`).join("") : `<span class="hold-mark">${escapeHtml(bar.raw || "%")}</span>`;
+                    return `
+                      <button
+                        type="button"
+                        class="measure-cell ${escapeHtml(role)} ${active ? "is-active" : ""}"
+                        data-region-id="${escapeHtml(regionId)}"
+                        aria-label="Bar ${bar.bar} ${escapeHtml(bar.chords.map((chord) => chord.symbol).join(" ") || bar.raw || "held")}"
+                      >
+                        <span class="measure-number">${bar.bar}</span>
+                        <span class="measure-chords">${chordText}</span>
+                      </button>
+                    `;
+                  })
+                  .join("")}
+              </div>
+            </div>
+          `;
+        })
+        .join("")}
+    </div>
+  `;
+}
+
+function groupBarsIntoPhrases(bars) {
+  const phrases = [];
+  let current = [];
+  let currentSectionId = bars[0]?.section_id ?? null;
+  let currentSectionLabel = bars[0]?.section_label ?? "";
+
+  bars.forEach((bar) => {
+    const sectionChanged = current.length > 0 && (bar.section_id ?? null) !== currentSectionId;
+    if (sectionChanged || current.length === 4) {
+      phrases.push({ sectionLabel: currentSectionLabel, bars: current });
+      current = [];
+      currentSectionId = bar.section_id ?? null;
+      currentSectionLabel = bar.section_label ?? "";
+    }
+    current.push(bar);
+  });
+
+  if (current.length > 0) phrases.push({ sectionLabel: currentSectionLabel, bars: current });
+  return phrases.map((phrase, index, list) => ({
+    ...phrase,
+    sectionLabel: phrase.sectionLabel && (index === 0 || phrase.sectionLabel !== list[index - 1].sectionLabel) ? phrase.sectionLabel : ""
+  }));
+}
+
+function renderHarmonyMap(model) {
+  if (!model.regions.length) {
+    elements.harmonyMap.innerHTML = "";
+    return;
+  }
+
+  elements.harmonyMap.innerHTML = model.regions
+    .map((region, index) => {
+      const section = model.sections?.find((item) => region.start_bar >= item.start_bar && region.start_bar <= item.end_bar);
       return `
-        <button
-          type="button"
-          class="chord-cell ${escapeHtml(role)} ${active ? "is-active" : ""}"
-          data-region-id="${escapeHtml(regionId)}"
-          aria-label="Bar ${bar.bar} ${escapeHtml(label)}"
-        >
-          <span class="bar-number">Bar ${bar.bar}</span>
-          <span class="region-chip">${escapeHtml(bar.chords.map((chord) => regionForSequence(model, chord.sequence_index)?.local_key ?? "").filter(Boolean)[0] ?? "")}</span>
-          <span class="chord-symbol">${bar.chords.map((chord) => `<span>${escapeHtml(chord.symbol)}</span>`).join("")}</span>
+        <button type="button" class="harmony-map-item ${escapeHtml(region.colour_role)}" data-region-index="${index}" aria-pressed="${index === state.regionIndex}">
+          <span>${escapeHtml(section?.label ?? `Bars ${region.start_bar}-${region.end_bar}`)}</span>
+          <strong>${escapeHtml(region.local_key)}</strong>
+          <em>${escapeHtml(region.function)}</em>
         </button>
       `;
     })
@@ -1034,7 +1319,8 @@ function renderRegionDetail(model) {
       <div><dt>Inside</dt><dd>${escapeHtml(analysis.scale_suggestions?.inside_scale ?? "-")}</dd></div>
       <div><dt>Tension</dt><dd>${escapeHtml(analysis.scale_suggestions?.tension_scale ?? "-")}</dd></div>
     </dl>
-    <p class="detail-explanation">${escapeHtml(analysis.reason ?? analysis.practice_hint)}</p>
+    <p class="detail-explanation">${escapeHtml(analysis.reason ?? "JazzCat is keeping this interpretation cautious.")}</p>
+    <p class="detail-explanation">${escapeHtml(analysis.practice_hint)}</p>
   `;
 }
 
@@ -1172,6 +1458,12 @@ function bindEvents() {
     setRegion(Number(button.dataset.regionIndex));
   });
 
+  elements.harmonyMap.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-region-index]");
+    if (!button) return;
+    setRegion(Number(button.dataset.regionIndex));
+  });
+
   elements.chartGrid.addEventListener("click", (event) => {
     const button = event.target.closest("[data-region-id]");
     if (!button || !button.dataset.regionId) return;
@@ -1187,6 +1479,9 @@ function bindEvents() {
 
   elements.copyPackButton.addEventListener("click", copyPracticePack);
   elements.downloadPackButton.addEventListener("click", downloadPracticePack);
+  elements.practiceNotesInput.addEventListener("input", () => {
+    state.practiceNotes = elements.practiceNotesInput.value;
+  });
 }
 
 function render() {
@@ -1195,6 +1490,7 @@ function render() {
   renderMeta(model);
   renderWarnings(model);
   renderChart(model);
+  renderHarmonyMap(model);
   renderRegions(model);
   renderRegionDetail(model);
   renderPractice(model);

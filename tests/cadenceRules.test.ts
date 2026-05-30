@@ -36,3 +36,24 @@ test("detects secondary dominant into a temporary minor target", () => {
   assert.equal(result.analysis[0].local_key, "D minor");
   assert.equal(result.analysis[0].function, "secondary dominant");
 });
+
+test("detects major-key turnaround", () => {
+  const result = analyseProgression(["Cmaj7", "Am7", "Dm7", "G7"]);
+  assert.equal(result.analysis[0].local_key, "C major");
+  assert.equal(result.analysis[0].function, "I-vi-ii-V turnaround");
+  assert.ok(result.analysis[0].reason?.includes("turnaround"));
+});
+
+test("detects dominant chains", () => {
+  const result = analyseProgression(["E7", "A7", "D7", "G7", "Cmaj7"]);
+  assert.equal(result.analysis[0].local_key, "C major");
+  assert.equal(result.analysis[0].function, "dominant chain to I");
+  assert.equal(result.regions[0].colour_role, "dominant-tension");
+});
+
+test("detects static modal vamps without claiming a cadence", () => {
+  const result = analyseProgression(["Dm7", "Dm7", "Dm7", "Dm7"]);
+  assert.equal(result.analysis[0].local_key, "D minor");
+  assert.equal(result.analysis[0].function, "modal/static vamp");
+  assert.equal(result.analysis[0].confidence, "medium");
+});
