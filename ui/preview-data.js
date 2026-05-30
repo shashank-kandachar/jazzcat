@@ -37,6 +37,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -50,7 +51,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 2,
@@ -59,6 +61,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -72,7 +75,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 3,
@@ -81,6 +85,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -94,7 +99,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 4,
@@ -103,6 +109,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -116,7 +123,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 5,
@@ -125,6 +133,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -138,7 +147,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 6,
@@ -147,6 +157,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "D7(b9)",
+                  "display_symbol": "D7♭9",
                   "root": "D",
                   "quality": "7",
                   "extensions": [
@@ -162,7 +173,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7(b9)"
             },
             {
               "bar": 7,
@@ -171,6 +183,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gm",
+                  "display_symbol": "G-",
                   "root": "G",
                   "quality": "m",
                   "extensions": [],
@@ -184,7 +197,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm"
             },
             {
               "bar": 8,
@@ -193,6 +207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gm",
+                  "display_symbol": "G-",
                   "root": "G",
                   "quality": "m",
                   "extensions": [],
@@ -206,7 +221,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm"
             },
             {
               "bar": 9,
@@ -215,6 +231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "F#m7b5",
+                  "display_symbol": "F♯ø7",
                   "root": "F#",
                   "quality": "m7b5",
                   "extensions": [],
@@ -228,7 +245,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F#m7b5"
             },
             {
               "bar": 10,
@@ -237,6 +255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -250,7 +269,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 11,
@@ -259,6 +279,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Em",
+                  "display_symbol": "E-",
                   "root": "E",
                   "quality": "m",
                   "extensions": [],
@@ -272,7 +293,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em"
             },
             {
               "bar": 12,
@@ -281,6 +303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Em",
+                  "display_symbol": "E-",
                   "root": "E",
                   "quality": "m",
                   "extensions": [],
@@ -294,7 +317,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em"
             },
             {
               "bar": 13,
@@ -303,6 +327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -316,7 +341,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 14,
@@ -325,6 +351,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "D7(b13)",
+                  "display_symbol": "D7♭13",
                   "root": "D",
                   "quality": "7",
                   "extensions": [
@@ -340,7 +367,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7(b13)"
             },
             {
               "bar": 15,
@@ -349,6 +377,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gm",
+                  "display_symbol": "G-",
                   "root": "G",
                   "quality": "m",
                   "extensions": [],
@@ -362,7 +391,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm"
             },
             {
               "bar": 16,
@@ -371,6 +401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gm",
+                  "display_symbol": "G-",
                   "root": "G",
                   "quality": "m",
                   "extensions": [],
@@ -384,7 +415,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm"
             }
           ],
           "chords": [
@@ -392,6 +424,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -403,6 +436,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -414,6 +448,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -425,6 +460,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -436,6 +472,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -447,6 +484,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "D7(b9)",
+              "display_symbol": "D7♭9",
               "root": "D",
               "quality": "7",
               "extensions": [
@@ -460,6 +498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gm",
+              "display_symbol": "G-",
               "root": "G",
               "quality": "m",
               "extensions": [],
@@ -471,6 +510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gm",
+              "display_symbol": "G-",
               "root": "G",
               "quality": "m",
               "extensions": [],
@@ -482,6 +522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "F#m7b5",
+              "display_symbol": "F♯ø7",
               "root": "F#",
               "quality": "m7b5",
               "extensions": [],
@@ -493,6 +534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -504,6 +546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Em",
+              "display_symbol": "E-",
               "root": "E",
               "quality": "m",
               "extensions": [],
@@ -515,6 +558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Em",
+              "display_symbol": "E-",
               "root": "E",
               "quality": "m",
               "extensions": [],
@@ -526,6 +570,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -537,6 +582,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "D7(b13)",
+              "display_symbol": "D7♭13",
               "root": "D",
               "quality": "7",
               "extensions": [
@@ -550,6 +596,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gm",
+              "display_symbol": "G-",
               "root": "G",
               "quality": "m",
               "extensions": [],
@@ -561,6 +608,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gm",
+              "display_symbol": "G-",
               "root": "G",
               "quality": "m",
               "extensions": [],
@@ -985,6 +1033,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -998,7 +1047,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 2,
@@ -1007,6 +1057,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -1020,7 +1071,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 3,
@@ -1029,6 +1081,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -1042,7 +1095,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 4,
@@ -1051,6 +1105,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -1064,7 +1119,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 5,
@@ -1073,6 +1129,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -1086,7 +1143,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 6,
@@ -1095,6 +1153,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Eb7(b9)",
+                  "display_symbol": "E♭7♭9",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [
@@ -1110,7 +1169,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7(b9)"
             },
             {
               "bar": 7,
@@ -1119,6 +1179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Abm",
+                  "display_symbol": "A♭-",
                   "root": "Ab",
                   "quality": "m",
                   "extensions": [],
@@ -1132,7 +1193,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm"
             },
             {
               "bar": 8,
@@ -1141,6 +1203,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Abm",
+                  "display_symbol": "A♭-",
                   "root": "Ab",
                   "quality": "m",
                   "extensions": [],
@@ -1154,7 +1217,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm"
             },
             {
               "bar": 9,
@@ -1163,6 +1227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -1176,7 +1241,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 10,
@@ -1185,6 +1251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -1198,7 +1265,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 11,
@@ -1207,6 +1275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Fm",
+                  "display_symbol": "F-",
                   "root": "F",
                   "quality": "m",
                   "extensions": [],
@@ -1220,7 +1289,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm"
             },
             {
               "bar": 12,
@@ -1229,6 +1299,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Fm",
+                  "display_symbol": "F-",
                   "root": "F",
                   "quality": "m",
                   "extensions": [],
@@ -1242,7 +1313,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm"
             },
             {
               "bar": 13,
@@ -1251,6 +1323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -1264,7 +1337,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 14,
@@ -1273,6 +1347,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Eb7(b13)",
+                  "display_symbol": "E♭7♭13",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [
@@ -1288,7 +1363,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7(b13)"
             },
             {
               "bar": 15,
@@ -1297,6 +1373,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Abm",
+                  "display_symbol": "A♭-",
                   "root": "Ab",
                   "quality": "m",
                   "extensions": [],
@@ -1310,7 +1387,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm"
             },
             {
               "bar": 16,
@@ -1319,6 +1397,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Abm",
+                  "display_symbol": "A♭-",
                   "root": "Ab",
                   "quality": "m",
                   "extensions": [],
@@ -1332,7 +1411,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm"
             }
           ],
           "chords": [
@@ -1340,6 +1420,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -1351,6 +1432,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -1362,6 +1444,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -1373,6 +1456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -1384,6 +1468,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -1395,6 +1480,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Eb7(b9)",
+              "display_symbol": "E♭7♭9",
               "root": "Eb",
               "quality": "7",
               "extensions": [
@@ -1408,6 +1494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Abm",
+              "display_symbol": "A♭-",
               "root": "Ab",
               "quality": "m",
               "extensions": [],
@@ -1419,6 +1506,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Abm",
+              "display_symbol": "A♭-",
               "root": "Ab",
               "quality": "m",
               "extensions": [],
@@ -1430,6 +1518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -1441,6 +1530,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -1452,6 +1542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Fm",
+              "display_symbol": "F-",
               "root": "F",
               "quality": "m",
               "extensions": [],
@@ -1463,6 +1554,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Fm",
+              "display_symbol": "F-",
               "root": "F",
               "quality": "m",
               "extensions": [],
@@ -1474,6 +1566,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -1485,6 +1578,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Eb7(b13)",
+              "display_symbol": "E♭7♭13",
               "root": "Eb",
               "quality": "7",
               "extensions": [
@@ -1498,6 +1592,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Abm",
+              "display_symbol": "A♭-",
               "root": "Ab",
               "quality": "m",
               "extensions": [],
@@ -1509,6 +1604,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Abm",
+              "display_symbol": "A♭-",
               "root": "Ab",
               "quality": "m",
               "extensions": [],
@@ -1933,6 +2029,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -1946,7 +2043,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 2,
@@ -1955,6 +2053,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -1968,7 +2067,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 3,
@@ -1977,6 +2077,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -1990,7 +2091,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 4,
@@ -1999,6 +2101,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -2012,7 +2115,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 5,
@@ -2021,6 +2125,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -2034,7 +2139,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 6,
@@ -2043,6 +2149,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "E7(b9)",
+                  "display_symbol": "E7♭9",
                   "root": "E",
                   "quality": "7",
                   "extensions": [
@@ -2058,7 +2165,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7(b9)"
             },
             {
               "bar": 7,
@@ -2067,6 +2175,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Am",
+                  "display_symbol": "A-",
                   "root": "A",
                   "quality": "m",
                   "extensions": [],
@@ -2080,7 +2189,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am"
             },
             {
               "bar": 8,
@@ -2089,6 +2199,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Am",
+                  "display_symbol": "A-",
                   "root": "A",
                   "quality": "m",
                   "extensions": [],
@@ -2102,7 +2213,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am"
             },
             {
               "bar": 9,
@@ -2111,6 +2223,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -2124,7 +2237,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 10,
@@ -2133,6 +2247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -2146,7 +2261,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 11,
@@ -2155,6 +2271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gbm",
+                  "display_symbol": "G♭-",
                   "root": "Gb",
                   "quality": "m",
                   "extensions": [],
@@ -2168,7 +2285,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm"
             },
             {
               "bar": 12,
@@ -2177,6 +2295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gbm",
+                  "display_symbol": "G♭-",
                   "root": "Gb",
                   "quality": "m",
                   "extensions": [],
@@ -2190,7 +2309,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm"
             },
             {
               "bar": 13,
@@ -2199,6 +2319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -2212,7 +2333,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 14,
@@ -2221,6 +2343,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "E7(b13)",
+                  "display_symbol": "E7♭13",
                   "root": "E",
                   "quality": "7",
                   "extensions": [
@@ -2236,7 +2359,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7(b13)"
             },
             {
               "bar": 15,
@@ -2245,6 +2369,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Am",
+                  "display_symbol": "A-",
                   "root": "A",
                   "quality": "m",
                   "extensions": [],
@@ -2258,7 +2383,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am"
             },
             {
               "bar": 16,
@@ -2267,6 +2393,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Am",
+                  "display_symbol": "A-",
                   "root": "A",
                   "quality": "m",
                   "extensions": [],
@@ -2280,7 +2407,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am"
             }
           ],
           "chords": [
@@ -2288,6 +2416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -2299,6 +2428,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -2310,6 +2440,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -2321,6 +2452,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -2332,6 +2464,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -2343,6 +2476,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "E7(b9)",
+              "display_symbol": "E7♭9",
               "root": "E",
               "quality": "7",
               "extensions": [
@@ -2356,6 +2490,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Am",
+              "display_symbol": "A-",
               "root": "A",
               "quality": "m",
               "extensions": [],
@@ -2367,6 +2502,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Am",
+              "display_symbol": "A-",
               "root": "A",
               "quality": "m",
               "extensions": [],
@@ -2378,6 +2514,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -2389,6 +2526,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -2400,6 +2538,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gbm",
+              "display_symbol": "G♭-",
               "root": "Gb",
               "quality": "m",
               "extensions": [],
@@ -2411,6 +2550,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gbm",
+              "display_symbol": "G♭-",
               "root": "Gb",
               "quality": "m",
               "extensions": [],
@@ -2422,6 +2562,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -2433,6 +2574,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "E7(b13)",
+              "display_symbol": "E7♭13",
               "root": "E",
               "quality": "7",
               "extensions": [
@@ -2446,6 +2588,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Am",
+              "display_symbol": "A-",
               "root": "A",
               "quality": "m",
               "extensions": [],
@@ -2457,6 +2600,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Am",
+              "display_symbol": "A-",
               "root": "A",
               "quality": "m",
               "extensions": [],
@@ -2881,6 +3025,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -2894,7 +3039,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 2,
@@ -2903,6 +3049,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -2916,7 +3063,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 3,
@@ -2925,6 +3073,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -2938,7 +3087,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 4,
@@ -2947,6 +3097,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -2960,7 +3111,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 5,
@@ -2969,6 +3121,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -2982,7 +3135,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 6,
@@ -2991,6 +3145,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "F7(b9)",
+                  "display_symbol": "F7♭9",
                   "root": "F",
                   "quality": "7",
                   "extensions": [
@@ -3006,7 +3161,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7(b9)"
             },
             {
               "bar": 7,
@@ -3015,6 +3171,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bbm",
+                  "display_symbol": "B♭-",
                   "root": "Bb",
                   "quality": "m",
                   "extensions": [],
@@ -3028,7 +3185,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm"
             },
             {
               "bar": 8,
@@ -3037,6 +3195,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bbm",
+                  "display_symbol": "B♭-",
                   "root": "Bb",
                   "quality": "m",
                   "extensions": [],
@@ -3050,7 +3209,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm"
             },
             {
               "bar": 9,
@@ -3059,6 +3219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -3072,7 +3233,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 10,
@@ -3081,6 +3243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -3094,7 +3257,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 11,
@@ -3103,6 +3267,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gm",
+                  "display_symbol": "G-",
                   "root": "G",
                   "quality": "m",
                   "extensions": [],
@@ -3116,7 +3281,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm"
             },
             {
               "bar": 12,
@@ -3125,6 +3291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gm",
+                  "display_symbol": "G-",
                   "root": "G",
                   "quality": "m",
                   "extensions": [],
@@ -3138,7 +3305,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm"
             },
             {
               "bar": 13,
@@ -3147,6 +3315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -3160,7 +3329,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 14,
@@ -3169,6 +3339,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "F7(b13)",
+                  "display_symbol": "F7♭13",
                   "root": "F",
                   "quality": "7",
                   "extensions": [
@@ -3184,7 +3355,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7(b13)"
             },
             {
               "bar": 15,
@@ -3193,6 +3365,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bbm",
+                  "display_symbol": "B♭-",
                   "root": "Bb",
                   "quality": "m",
                   "extensions": [],
@@ -3206,7 +3379,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm"
             },
             {
               "bar": 16,
@@ -3215,6 +3389,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bbm",
+                  "display_symbol": "B♭-",
                   "root": "Bb",
                   "quality": "m",
                   "extensions": [],
@@ -3228,7 +3403,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm"
             }
           ],
           "chords": [
@@ -3236,6 +3412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -3247,6 +3424,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -3258,6 +3436,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -3269,6 +3448,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -3280,6 +3460,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -3291,6 +3472,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "F7(b9)",
+              "display_symbol": "F7♭9",
               "root": "F",
               "quality": "7",
               "extensions": [
@@ -3304,6 +3486,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bbm",
+              "display_symbol": "B♭-",
               "root": "Bb",
               "quality": "m",
               "extensions": [],
@@ -3315,6 +3498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bbm",
+              "display_symbol": "B♭-",
               "root": "Bb",
               "quality": "m",
               "extensions": [],
@@ -3326,6 +3510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -3337,6 +3522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -3348,6 +3534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gm",
+              "display_symbol": "G-",
               "root": "G",
               "quality": "m",
               "extensions": [],
@@ -3359,6 +3546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gm",
+              "display_symbol": "G-",
               "root": "G",
               "quality": "m",
               "extensions": [],
@@ -3370,6 +3558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -3381,6 +3570,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "F7(b13)",
+              "display_symbol": "F7♭13",
               "root": "F",
               "quality": "7",
               "extensions": [
@@ -3394,6 +3584,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bbm",
+              "display_symbol": "B♭-",
               "root": "Bb",
               "quality": "m",
               "extensions": [],
@@ -3405,6 +3596,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bbm",
+              "display_symbol": "B♭-",
               "root": "Bb",
               "quality": "m",
               "extensions": [],
@@ -3829,6 +4021,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -3842,7 +4035,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 2,
@@ -3851,6 +4045,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -3864,7 +4059,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 3,
@@ -3873,6 +4069,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -3886,7 +4083,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 4,
@@ -3895,6 +4093,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -3908,7 +4107,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 5,
@@ -3917,6 +4117,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -3930,7 +4131,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 6,
@@ -3939,6 +4141,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Gb7(b9)",
+                  "display_symbol": "G♭7♭9",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [
@@ -3954,7 +4157,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7(b9)"
             },
             {
               "bar": 7,
@@ -3963,6 +4167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bm",
+                  "display_symbol": "B-",
                   "root": "B",
                   "quality": "m",
                   "extensions": [],
@@ -3976,7 +4181,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm"
             },
             {
               "bar": 8,
@@ -3985,6 +4191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bm",
+                  "display_symbol": "B-",
                   "root": "B",
                   "quality": "m",
                   "extensions": [],
@@ -3998,7 +4205,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm"
             },
             {
               "bar": 9,
@@ -4007,6 +4215,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -4020,7 +4229,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 10,
@@ -4029,6 +4239,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -4042,7 +4253,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 11,
@@ -4051,6 +4263,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Abm",
+                  "display_symbol": "A♭-",
                   "root": "Ab",
                   "quality": "m",
                   "extensions": [],
@@ -4064,7 +4277,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm"
             },
             {
               "bar": 12,
@@ -4073,6 +4287,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Abm",
+                  "display_symbol": "A♭-",
                   "root": "Ab",
                   "quality": "m",
                   "extensions": [],
@@ -4086,7 +4301,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm"
             },
             {
               "bar": 13,
@@ -4095,6 +4311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -4108,7 +4325,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 14,
@@ -4117,6 +4335,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Gb7(b13)",
+                  "display_symbol": "G♭7♭13",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [
@@ -4132,7 +4351,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7(b13)"
             },
             {
               "bar": 15,
@@ -4141,6 +4361,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bm",
+                  "display_symbol": "B-",
                   "root": "B",
                   "quality": "m",
                   "extensions": [],
@@ -4154,7 +4375,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm"
             },
             {
               "bar": 16,
@@ -4163,6 +4385,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bm",
+                  "display_symbol": "B-",
                   "root": "B",
                   "quality": "m",
                   "extensions": [],
@@ -4176,7 +4399,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm"
             }
           ],
           "chords": [
@@ -4184,6 +4408,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -4195,6 +4420,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -4206,6 +4432,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -4217,6 +4444,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -4228,6 +4456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -4239,6 +4468,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Gb7(b9)",
+              "display_symbol": "G♭7♭9",
               "root": "Gb",
               "quality": "7",
               "extensions": [
@@ -4252,6 +4482,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bm",
+              "display_symbol": "B-",
               "root": "B",
               "quality": "m",
               "extensions": [],
@@ -4263,6 +4494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bm",
+              "display_symbol": "B-",
               "root": "B",
               "quality": "m",
               "extensions": [],
@@ -4274,6 +4506,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -4285,6 +4518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -4296,6 +4530,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Abm",
+              "display_symbol": "A♭-",
               "root": "Ab",
               "quality": "m",
               "extensions": [],
@@ -4307,6 +4542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Abm",
+              "display_symbol": "A♭-",
               "root": "Ab",
               "quality": "m",
               "extensions": [],
@@ -4318,6 +4554,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -4329,6 +4566,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Gb7(b13)",
+              "display_symbol": "G♭7♭13",
               "root": "Gb",
               "quality": "7",
               "extensions": [
@@ -4342,6 +4580,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bm",
+              "display_symbol": "B-",
               "root": "B",
               "quality": "m",
               "extensions": [],
@@ -4353,6 +4592,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bm",
+              "display_symbol": "B-",
               "root": "B",
               "quality": "m",
               "extensions": [],
@@ -4777,6 +5017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -4790,7 +5031,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 2,
@@ -4799,6 +5041,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -4812,7 +5055,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 3,
@@ -4821,6 +5065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -4834,7 +5079,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 4,
@@ -4843,6 +5089,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -4856,7 +5103,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 5,
@@ -4865,6 +5113,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -4878,7 +5127,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 6,
@@ -4887,6 +5137,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "G7(b9)",
+                  "display_symbol": "G7♭9",
                   "root": "G",
                   "quality": "7",
                   "extensions": [
@@ -4902,7 +5153,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7(b9)"
             },
             {
               "bar": 7,
@@ -4911,6 +5163,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Cm",
+                  "display_symbol": "C-",
                   "root": "C",
                   "quality": "m",
                   "extensions": [],
@@ -4924,7 +5177,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm"
             },
             {
               "bar": 8,
@@ -4933,6 +5187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Cm",
+                  "display_symbol": "C-",
                   "root": "C",
                   "quality": "m",
                   "extensions": [],
@@ -4946,7 +5201,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm"
             },
             {
               "bar": 9,
@@ -4955,6 +5211,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -4968,7 +5225,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 10,
@@ -4977,6 +5235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -4990,7 +5249,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 11,
@@ -4999,6 +5259,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Am",
+                  "display_symbol": "A-",
                   "root": "A",
                   "quality": "m",
                   "extensions": [],
@@ -5012,7 +5273,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am"
             },
             {
               "bar": 12,
@@ -5021,6 +5283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Am",
+                  "display_symbol": "A-",
                   "root": "A",
                   "quality": "m",
                   "extensions": [],
@@ -5034,7 +5297,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am"
             },
             {
               "bar": 13,
@@ -5043,6 +5307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -5056,7 +5321,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 14,
@@ -5065,6 +5331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "G7(b13)",
+                  "display_symbol": "G7♭13",
                   "root": "G",
                   "quality": "7",
                   "extensions": [
@@ -5080,7 +5347,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7(b13)"
             },
             {
               "bar": 15,
@@ -5089,6 +5357,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Cm",
+                  "display_symbol": "C-",
                   "root": "C",
                   "quality": "m",
                   "extensions": [],
@@ -5102,7 +5371,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm"
             },
             {
               "bar": 16,
@@ -5111,6 +5381,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Cm",
+                  "display_symbol": "C-",
                   "root": "C",
                   "quality": "m",
                   "extensions": [],
@@ -5124,7 +5395,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm"
             }
           ],
           "chords": [
@@ -5132,6 +5404,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -5143,6 +5416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -5154,6 +5428,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -5165,6 +5440,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -5176,6 +5452,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -5187,6 +5464,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "G7(b9)",
+              "display_symbol": "G7♭9",
               "root": "G",
               "quality": "7",
               "extensions": [
@@ -5200,6 +5478,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Cm",
+              "display_symbol": "C-",
               "root": "C",
               "quality": "m",
               "extensions": [],
@@ -5211,6 +5490,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Cm",
+              "display_symbol": "C-",
               "root": "C",
               "quality": "m",
               "extensions": [],
@@ -5222,6 +5502,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -5233,6 +5514,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -5244,6 +5526,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Am",
+              "display_symbol": "A-",
               "root": "A",
               "quality": "m",
               "extensions": [],
@@ -5255,6 +5538,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Am",
+              "display_symbol": "A-",
               "root": "A",
               "quality": "m",
               "extensions": [],
@@ -5266,6 +5550,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -5277,6 +5562,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "G7(b13)",
+              "display_symbol": "G7♭13",
               "root": "G",
               "quality": "7",
               "extensions": [
@@ -5290,6 +5576,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Cm",
+              "display_symbol": "C-",
               "root": "C",
               "quality": "m",
               "extensions": [],
@@ -5301,6 +5588,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Cm",
+              "display_symbol": "C-",
               "root": "C",
               "quality": "m",
               "extensions": [],
@@ -5725,6 +6013,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -5738,7 +6027,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 2,
@@ -5747,6 +6037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -5760,7 +6051,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 3,
@@ -5769,6 +6061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -5782,7 +6075,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 4,
@@ -5791,6 +6085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -5804,7 +6099,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 5,
@@ -5813,6 +6109,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -5826,7 +6123,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 6,
@@ -5835,6 +6133,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Ab7(b9)",
+                  "display_symbol": "A♭7♭9",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [
@@ -5850,7 +6149,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7(b9)"
             },
             {
               "bar": 7,
@@ -5859,6 +6159,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dbm",
+                  "display_symbol": "D♭-",
                   "root": "Db",
                   "quality": "m",
                   "extensions": [],
@@ -5872,7 +6173,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm"
             },
             {
               "bar": 8,
@@ -5881,6 +6183,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dbm",
+                  "display_symbol": "D♭-",
                   "root": "Db",
                   "quality": "m",
                   "extensions": [],
@@ -5894,7 +6197,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm"
             },
             {
               "bar": 9,
@@ -5903,6 +6207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -5916,7 +6221,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 10,
@@ -5925,6 +6231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -5938,7 +6245,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 11,
@@ -5947,6 +6255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bbm",
+                  "display_symbol": "B♭-",
                   "root": "Bb",
                   "quality": "m",
                   "extensions": [],
@@ -5960,7 +6269,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm"
             },
             {
               "bar": 12,
@@ -5969,6 +6279,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bbm",
+                  "display_symbol": "B♭-",
                   "root": "Bb",
                   "quality": "m",
                   "extensions": [],
@@ -5982,7 +6293,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm"
             },
             {
               "bar": 13,
@@ -5991,6 +6303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -6004,7 +6317,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 14,
@@ -6013,6 +6327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Ab7(b13)",
+                  "display_symbol": "A♭7♭13",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [
@@ -6028,7 +6343,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7(b13)"
             },
             {
               "bar": 15,
@@ -6037,6 +6353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dbm",
+                  "display_symbol": "D♭-",
                   "root": "Db",
                   "quality": "m",
                   "extensions": [],
@@ -6050,7 +6367,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm"
             },
             {
               "bar": 16,
@@ -6059,6 +6377,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Dbm",
+                  "display_symbol": "D♭-",
                   "root": "Db",
                   "quality": "m",
                   "extensions": [],
@@ -6072,7 +6391,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm"
             }
           ],
           "chords": [
@@ -6080,6 +6400,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -6091,6 +6412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -6102,6 +6424,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -6113,6 +6436,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -6124,6 +6448,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -6135,6 +6460,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Ab7(b9)",
+              "display_symbol": "A♭7♭9",
               "root": "Ab",
               "quality": "7",
               "extensions": [
@@ -6148,6 +6474,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dbm",
+              "display_symbol": "D♭-",
               "root": "Db",
               "quality": "m",
               "extensions": [],
@@ -6159,6 +6486,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dbm",
+              "display_symbol": "D♭-",
               "root": "Db",
               "quality": "m",
               "extensions": [],
@@ -6170,6 +6498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -6181,6 +6510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -6192,6 +6522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bbm",
+              "display_symbol": "B♭-",
               "root": "Bb",
               "quality": "m",
               "extensions": [],
@@ -6203,6 +6534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bbm",
+              "display_symbol": "B♭-",
               "root": "Bb",
               "quality": "m",
               "extensions": [],
@@ -6214,6 +6546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -6225,6 +6558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Ab7(b13)",
+              "display_symbol": "A♭7♭13",
               "root": "Ab",
               "quality": "7",
               "extensions": [
@@ -6238,6 +6572,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dbm",
+              "display_symbol": "D♭-",
               "root": "Db",
               "quality": "m",
               "extensions": [],
@@ -6249,6 +6584,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Dbm",
+              "display_symbol": "D♭-",
               "root": "Db",
               "quality": "m",
               "extensions": [],
@@ -6673,6 +7009,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -6686,7 +7023,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 2,
@@ -6695,6 +7033,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -6708,7 +7047,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 3,
@@ -6717,6 +7057,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -6730,7 +7071,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 4,
@@ -6739,6 +7081,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -6752,7 +7095,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 5,
@@ -6761,6 +7105,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -6774,7 +7119,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 6,
@@ -6783,6 +7129,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "A7(b9)",
+                  "display_symbol": "A7♭9",
                   "root": "A",
                   "quality": "7",
                   "extensions": [
@@ -6798,7 +7145,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7(b9)"
             },
             {
               "bar": 7,
@@ -6807,6 +7155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dm",
+                  "display_symbol": "D-",
                   "root": "D",
                   "quality": "m",
                   "extensions": [],
@@ -6820,7 +7169,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm"
             },
             {
               "bar": 8,
@@ -6829,6 +7179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dm",
+                  "display_symbol": "D-",
                   "root": "D",
                   "quality": "m",
                   "extensions": [],
@@ -6842,7 +7193,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm"
             },
             {
               "bar": 9,
@@ -6851,6 +7203,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -6864,7 +7217,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 10,
@@ -6873,6 +7227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -6886,7 +7241,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 11,
@@ -6895,6 +7251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bm",
+                  "display_symbol": "B-",
                   "root": "B",
                   "quality": "m",
                   "extensions": [],
@@ -6908,7 +7265,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm"
             },
             {
               "bar": 12,
@@ -6917,6 +7275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bm",
+                  "display_symbol": "B-",
                   "root": "B",
                   "quality": "m",
                   "extensions": [],
@@ -6930,7 +7289,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm"
             },
             {
               "bar": 13,
@@ -6939,6 +7299,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -6952,7 +7313,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 14,
@@ -6961,6 +7323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "A7(b13)",
+                  "display_symbol": "A7♭13",
                   "root": "A",
                   "quality": "7",
                   "extensions": [
@@ -6976,7 +7339,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7(b13)"
             },
             {
               "bar": 15,
@@ -6985,6 +7349,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dm",
+                  "display_symbol": "D-",
                   "root": "D",
                   "quality": "m",
                   "extensions": [],
@@ -6998,7 +7363,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm"
             },
             {
               "bar": 16,
@@ -7007,6 +7373,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Dm",
+                  "display_symbol": "D-",
                   "root": "D",
                   "quality": "m",
                   "extensions": [],
@@ -7020,7 +7387,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm"
             }
           ],
           "chords": [
@@ -7028,6 +7396,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -7039,6 +7408,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -7050,6 +7420,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -7061,6 +7432,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -7072,6 +7444,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -7083,6 +7456,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "A7(b9)",
+              "display_symbol": "A7♭9",
               "root": "A",
               "quality": "7",
               "extensions": [
@@ -7096,6 +7470,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dm",
+              "display_symbol": "D-",
               "root": "D",
               "quality": "m",
               "extensions": [],
@@ -7107,6 +7482,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dm",
+              "display_symbol": "D-",
               "root": "D",
               "quality": "m",
               "extensions": [],
@@ -7118,6 +7494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -7129,6 +7506,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -7140,6 +7518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bm",
+              "display_symbol": "B-",
               "root": "B",
               "quality": "m",
               "extensions": [],
@@ -7151,6 +7530,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bm",
+              "display_symbol": "B-",
               "root": "B",
               "quality": "m",
               "extensions": [],
@@ -7162,6 +7542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -7173,6 +7554,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "A7(b13)",
+              "display_symbol": "A7♭13",
               "root": "A",
               "quality": "7",
               "extensions": [
@@ -7186,6 +7568,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dm",
+              "display_symbol": "D-",
               "root": "D",
               "quality": "m",
               "extensions": [],
@@ -7197,6 +7580,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Dm",
+              "display_symbol": "D-",
               "root": "D",
               "quality": "m",
               "extensions": [],
@@ -7621,6 +8005,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -7634,7 +8019,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 2,
@@ -7643,6 +8029,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -7656,7 +8043,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 3,
@@ -7665,6 +8053,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -7678,7 +8067,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 4,
@@ -7687,6 +8077,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -7700,7 +8091,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 5,
@@ -7709,6 +8101,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -7722,7 +8115,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 6,
@@ -7731,6 +8125,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Bb7(b9)",
+                  "display_symbol": "B♭7♭9",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [
@@ -7746,7 +8141,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7(b9)"
             },
             {
               "bar": 7,
@@ -7755,6 +8151,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Ebm",
+                  "display_symbol": "E♭-",
                   "root": "Eb",
                   "quality": "m",
                   "extensions": [],
@@ -7768,7 +8165,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm"
             },
             {
               "bar": 8,
@@ -7777,6 +8175,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Ebm",
+                  "display_symbol": "E♭-",
                   "root": "Eb",
                   "quality": "m",
                   "extensions": [],
@@ -7790,7 +8189,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm"
             },
             {
               "bar": 9,
@@ -7799,6 +8199,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -7812,7 +8213,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 10,
@@ -7821,6 +8223,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -7834,7 +8237,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 11,
@@ -7843,6 +8247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Cm",
+                  "display_symbol": "C-",
                   "root": "C",
                   "quality": "m",
                   "extensions": [],
@@ -7856,7 +8261,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm"
             },
             {
               "bar": 12,
@@ -7865,6 +8271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Cm",
+                  "display_symbol": "C-",
                   "root": "C",
                   "quality": "m",
                   "extensions": [],
@@ -7878,7 +8285,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm"
             },
             {
               "bar": 13,
@@ -7887,6 +8295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -7900,7 +8309,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 14,
@@ -7909,6 +8319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Bb7(b13)",
+                  "display_symbol": "B♭7♭13",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [
@@ -7924,7 +8335,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7(b13)"
             },
             {
               "bar": 15,
@@ -7933,6 +8345,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Ebm",
+                  "display_symbol": "E♭-",
                   "root": "Eb",
                   "quality": "m",
                   "extensions": [],
@@ -7946,7 +8359,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm"
             },
             {
               "bar": 16,
@@ -7955,6 +8369,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Ebm",
+                  "display_symbol": "E♭-",
                   "root": "Eb",
                   "quality": "m",
                   "extensions": [],
@@ -7968,7 +8383,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm"
             }
           ],
           "chords": [
@@ -7976,6 +8392,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -7987,6 +8404,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -7998,6 +8416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -8009,6 +8428,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -8020,6 +8440,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -8031,6 +8452,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Bb7(b9)",
+              "display_symbol": "B♭7♭9",
               "root": "Bb",
               "quality": "7",
               "extensions": [
@@ -8044,6 +8466,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Ebm",
+              "display_symbol": "E♭-",
               "root": "Eb",
               "quality": "m",
               "extensions": [],
@@ -8055,6 +8478,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Ebm",
+              "display_symbol": "E♭-",
               "root": "Eb",
               "quality": "m",
               "extensions": [],
@@ -8066,6 +8490,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -8077,6 +8502,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -8088,6 +8514,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Cm",
+              "display_symbol": "C-",
               "root": "C",
               "quality": "m",
               "extensions": [],
@@ -8099,6 +8526,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Cm",
+              "display_symbol": "C-",
               "root": "C",
               "quality": "m",
               "extensions": [],
@@ -8110,6 +8538,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -8121,6 +8550,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Bb7(b13)",
+              "display_symbol": "B♭7♭13",
               "root": "Bb",
               "quality": "7",
               "extensions": [
@@ -8134,6 +8564,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Ebm",
+              "display_symbol": "E♭-",
               "root": "Eb",
               "quality": "m",
               "extensions": [],
@@ -8145,6 +8576,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Ebm",
+              "display_symbol": "E♭-",
               "root": "Eb",
               "quality": "m",
               "extensions": [],
@@ -8569,6 +9001,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -8582,7 +9015,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 2,
@@ -8591,6 +9025,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -8604,7 +9039,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 3,
@@ -8613,6 +9049,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -8626,7 +9063,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 4,
@@ -8635,6 +9073,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -8648,7 +9087,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 5,
@@ -8657,6 +9097,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -8670,7 +9111,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 6,
@@ -8679,6 +9121,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "B7(b9)",
+                  "display_symbol": "B7♭9",
                   "root": "B",
                   "quality": "7",
                   "extensions": [
@@ -8694,7 +9137,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7(b9)"
             },
             {
               "bar": 7,
@@ -8703,6 +9147,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Em",
+                  "display_symbol": "E-",
                   "root": "E",
                   "quality": "m",
                   "extensions": [],
@@ -8716,7 +9161,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em"
             },
             {
               "bar": 8,
@@ -8725,6 +9171,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Em",
+                  "display_symbol": "E-",
                   "root": "E",
                   "quality": "m",
                   "extensions": [],
@@ -8738,7 +9185,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em"
             },
             {
               "bar": 9,
@@ -8747,6 +9195,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -8760,7 +9209,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 10,
@@ -8769,6 +9219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -8782,7 +9233,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 11,
@@ -8791,6 +9243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dbm",
+                  "display_symbol": "D♭-",
                   "root": "Db",
                   "quality": "m",
                   "extensions": [],
@@ -8804,7 +9257,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm"
             },
             {
               "bar": 12,
@@ -8813,6 +9267,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dbm",
+                  "display_symbol": "D♭-",
                   "root": "Db",
                   "quality": "m",
                   "extensions": [],
@@ -8826,7 +9281,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm"
             },
             {
               "bar": 13,
@@ -8835,6 +9291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -8848,7 +9305,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 14,
@@ -8857,6 +9315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "B7(b13)",
+                  "display_symbol": "B7♭13",
                   "root": "B",
                   "quality": "7",
                   "extensions": [
@@ -8872,7 +9331,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7(b13)"
             },
             {
               "bar": 15,
@@ -8881,6 +9341,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Em",
+                  "display_symbol": "E-",
                   "root": "E",
                   "quality": "m",
                   "extensions": [],
@@ -8894,7 +9355,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em"
             },
             {
               "bar": 16,
@@ -8903,6 +9365,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Em",
+                  "display_symbol": "E-",
                   "root": "E",
                   "quality": "m",
                   "extensions": [],
@@ -8916,7 +9379,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em"
             }
           ],
           "chords": [
@@ -8924,6 +9388,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -8935,6 +9400,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -8946,6 +9412,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -8957,6 +9424,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -8968,6 +9436,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -8979,6 +9448,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "B7(b9)",
+              "display_symbol": "B7♭9",
               "root": "B",
               "quality": "7",
               "extensions": [
@@ -8992,6 +9462,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Em",
+              "display_symbol": "E-",
               "root": "E",
               "quality": "m",
               "extensions": [],
@@ -9003,6 +9474,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Em",
+              "display_symbol": "E-",
               "root": "E",
               "quality": "m",
               "extensions": [],
@@ -9014,6 +9486,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -9025,6 +9498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -9036,6 +9510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dbm",
+              "display_symbol": "D♭-",
               "root": "Db",
               "quality": "m",
               "extensions": [],
@@ -9047,6 +9522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dbm",
+              "display_symbol": "D♭-",
               "root": "Db",
               "quality": "m",
               "extensions": [],
@@ -9058,6 +9534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -9069,6 +9546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "B7(b13)",
+              "display_symbol": "B7♭13",
               "root": "B",
               "quality": "7",
               "extensions": [
@@ -9082,6 +9560,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Em",
+              "display_symbol": "E-",
               "root": "E",
               "quality": "m",
               "extensions": [],
@@ -9093,6 +9572,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Em",
+              "display_symbol": "E-",
               "root": "E",
               "quality": "m",
               "extensions": [],
@@ -9517,6 +9997,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -9530,7 +10011,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 2,
@@ -9539,6 +10021,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -9552,7 +10035,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 3,
@@ -9561,6 +10045,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -9574,7 +10059,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 4,
@@ -9583,6 +10069,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -9596,7 +10083,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 5,
@@ -9605,6 +10093,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -9618,7 +10107,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 6,
@@ -9627,6 +10117,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "C7(b9)",
+                  "display_symbol": "C7♭9",
                   "root": "C",
                   "quality": "7",
                   "extensions": [
@@ -9642,7 +10133,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7(b9)"
             },
             {
               "bar": 7,
@@ -9651,6 +10143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Fm",
+                  "display_symbol": "F-",
                   "root": "F",
                   "quality": "m",
                   "extensions": [],
@@ -9664,7 +10157,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm"
             },
             {
               "bar": 8,
@@ -9673,6 +10167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Fm",
+                  "display_symbol": "F-",
                   "root": "F",
                   "quality": "m",
                   "extensions": [],
@@ -9686,7 +10181,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm"
             },
             {
               "bar": 9,
@@ -9695,6 +10191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -9708,7 +10205,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 10,
@@ -9717,6 +10215,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -9730,7 +10229,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 11,
@@ -9739,6 +10239,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dm",
+                  "display_symbol": "D-",
                   "root": "D",
                   "quality": "m",
                   "extensions": [],
@@ -9752,7 +10253,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm"
             },
             {
               "bar": 12,
@@ -9761,6 +10263,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dm",
+                  "display_symbol": "D-",
                   "root": "D",
                   "quality": "m",
                   "extensions": [],
@@ -9774,7 +10277,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm"
             },
             {
               "bar": 13,
@@ -9783,6 +10287,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -9796,7 +10301,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 14,
@@ -9805,6 +10311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "C7(b13)",
+                  "display_symbol": "C7♭13",
                   "root": "C",
                   "quality": "7",
                   "extensions": [
@@ -9820,7 +10327,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7(b13)"
             },
             {
               "bar": 15,
@@ -9829,6 +10337,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Fm",
+                  "display_symbol": "F-",
                   "root": "F",
                   "quality": "m",
                   "extensions": [],
@@ -9842,7 +10351,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm"
             },
             {
               "bar": 16,
@@ -9851,6 +10361,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Fm",
+                  "display_symbol": "F-",
                   "root": "F",
                   "quality": "m",
                   "extensions": [],
@@ -9864,7 +10375,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm"
             }
           ],
           "chords": [
@@ -9872,6 +10384,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -9883,6 +10396,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -9894,6 +10408,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -9905,6 +10420,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -9916,6 +10432,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -9927,6 +10444,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "C7(b9)",
+              "display_symbol": "C7♭9",
               "root": "C",
               "quality": "7",
               "extensions": [
@@ -9940,6 +10458,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Fm",
+              "display_symbol": "F-",
               "root": "F",
               "quality": "m",
               "extensions": [],
@@ -9951,6 +10470,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Fm",
+              "display_symbol": "F-",
               "root": "F",
               "quality": "m",
               "extensions": [],
@@ -9962,6 +10482,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -9973,6 +10494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -9984,6 +10506,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dm",
+              "display_symbol": "D-",
               "root": "D",
               "quality": "m",
               "extensions": [],
@@ -9995,6 +10518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dm",
+              "display_symbol": "D-",
               "root": "D",
               "quality": "m",
               "extensions": [],
@@ -10006,6 +10530,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -10017,6 +10542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "C7(b13)",
+              "display_symbol": "C7♭13",
               "root": "C",
               "quality": "7",
               "extensions": [
@@ -10030,6 +10556,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Fm",
+              "display_symbol": "F-",
               "root": "F",
               "quality": "m",
               "extensions": [],
@@ -10041,6 +10568,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Fm",
+              "display_symbol": "F-",
               "root": "F",
               "quality": "m",
               "extensions": [],
@@ -10465,6 +10993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -10478,7 +11007,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 2,
@@ -10487,6 +11017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -10500,7 +11031,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 3,
@@ -10509,6 +11041,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -10522,7 +11055,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 4,
@@ -10531,6 +11065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -10544,7 +11079,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 5,
@@ -10553,6 +11089,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -10566,7 +11103,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 6,
@@ -10575,6 +11113,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Db7(b9)",
+                  "display_symbol": "D♭7♭9",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [
@@ -10590,7 +11129,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7(b9)"
             },
             {
               "bar": 7,
@@ -10599,6 +11139,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gbm",
+                  "display_symbol": "G♭-",
                   "root": "Gb",
                   "quality": "m",
                   "extensions": [],
@@ -10612,7 +11153,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm"
             },
             {
               "bar": 8,
@@ -10621,6 +11163,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gbm",
+                  "display_symbol": "G♭-",
                   "root": "Gb",
                   "quality": "m",
                   "extensions": [],
@@ -10634,7 +11177,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm"
             },
             {
               "bar": 9,
@@ -10643,6 +11187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -10656,7 +11201,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 10,
@@ -10665,6 +11211,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -10678,7 +11225,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 11,
@@ -10687,6 +11235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Ebm",
+                  "display_symbol": "E♭-",
                   "root": "Eb",
                   "quality": "m",
                   "extensions": [],
@@ -10700,7 +11249,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm"
             },
             {
               "bar": 12,
@@ -10709,6 +11259,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Ebm",
+                  "display_symbol": "E♭-",
                   "root": "Eb",
                   "quality": "m",
                   "extensions": [],
@@ -10722,7 +11273,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm"
             },
             {
               "bar": 13,
@@ -10731,6 +11283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -10744,7 +11297,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 14,
@@ -10753,6 +11307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Db7(b13)",
+                  "display_symbol": "D♭7♭13",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [
@@ -10768,7 +11323,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7(b13)"
             },
             {
               "bar": 15,
@@ -10777,6 +11333,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gbm",
+                  "display_symbol": "G♭-",
                   "root": "Gb",
                   "quality": "m",
                   "extensions": [],
@@ -10790,7 +11347,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm"
             },
             {
               "bar": 16,
@@ -10799,6 +11357,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gbm",
+                  "display_symbol": "G♭-",
                   "root": "Gb",
                   "quality": "m",
                   "extensions": [],
@@ -10812,7 +11371,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm"
             }
           ],
           "chords": [
@@ -10820,6 +11380,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -10831,6 +11392,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -10842,6 +11404,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -10853,6 +11416,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -10864,6 +11428,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -10875,6 +11440,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Db7(b9)",
+              "display_symbol": "D♭7♭9",
               "root": "Db",
               "quality": "7",
               "extensions": [
@@ -10888,6 +11454,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gbm",
+              "display_symbol": "G♭-",
               "root": "Gb",
               "quality": "m",
               "extensions": [],
@@ -10899,6 +11466,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gbm",
+              "display_symbol": "G♭-",
               "root": "Gb",
               "quality": "m",
               "extensions": [],
@@ -10910,6 +11478,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -10921,6 +11490,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -10932,6 +11502,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Ebm",
+              "display_symbol": "E♭-",
               "root": "Eb",
               "quality": "m",
               "extensions": [],
@@ -10943,6 +11514,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Ebm",
+              "display_symbol": "E♭-",
               "root": "Eb",
               "quality": "m",
               "extensions": [],
@@ -10954,6 +11526,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -10965,6 +11538,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Db7(b13)",
+              "display_symbol": "D♭7♭13",
               "root": "Db",
               "quality": "7",
               "extensions": [
@@ -10978,6 +11552,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gbm",
+              "display_symbol": "G♭-",
               "root": "Gb",
               "quality": "m",
               "extensions": [],
@@ -10989,6 +11564,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gbm",
+              "display_symbol": "G♭-",
               "root": "Gb",
               "quality": "m",
               "extensions": [],
@@ -11424,6 +12000,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -11437,7 +12014,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 2,
@@ -11446,6 +12024,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -11459,7 +12038,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 3,
@@ -11468,6 +12048,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -11481,7 +12062,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 4,
@@ -11490,6 +12072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -11503,7 +12086,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 5,
@@ -11512,6 +12096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -11525,7 +12110,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 6,
@@ -11534,6 +12120,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -11547,7 +12134,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 7,
@@ -11556,6 +12144,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -11569,7 +12158,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 8,
@@ -11578,6 +12168,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -11591,7 +12182,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 9,
@@ -11600,6 +12192,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -11613,7 +12206,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 10,
@@ -11622,6 +12216,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -11635,7 +12230,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 11,
@@ -11644,6 +12240,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -11657,7 +12254,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 12,
@@ -11666,6 +12264,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -11679,7 +12278,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 13,
@@ -11688,6 +12288,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -11701,7 +12302,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 14,
@@ -11710,6 +12312,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "A7(b9)",
+                  "display_symbol": "A7♭9",
                   "root": "A",
                   "quality": "7",
                   "extensions": [
@@ -11725,7 +12328,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7(b9)"
             },
             {
               "bar": 15,
@@ -11734,6 +12338,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -11747,7 +12352,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 16,
@@ -11756,6 +12362,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -11769,7 +12376,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 17,
@@ -11778,6 +12386,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -11791,7 +12400,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             }
           ],
           "chords": [
@@ -11799,6 +12409,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -11810,6 +12421,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -11821,6 +12433,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -11832,6 +12445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -11843,6 +12457,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -11854,6 +12469,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -11865,6 +12481,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -11876,6 +12493,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -11887,6 +12505,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -11898,6 +12517,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -11909,6 +12529,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -11920,6 +12541,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -11931,6 +12553,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -11942,6 +12565,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "A7(b9)",
+              "display_symbol": "A7♭9",
               "root": "A",
               "quality": "7",
               "extensions": [
@@ -11955,6 +12579,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -11966,6 +12591,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -11977,6 +12603,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -12438,6 +13065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -12451,7 +13079,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 2,
@@ -12460,6 +13089,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -12473,7 +13103,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 3,
@@ -12482,6 +13113,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -12495,7 +13127,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 4,
@@ -12504,6 +13137,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -12517,7 +13151,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 5,
@@ -12526,6 +13161,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -12539,7 +13175,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 6,
@@ -12548,6 +13185,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -12561,7 +13199,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 7,
@@ -12570,6 +13209,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -12583,7 +13223,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 8,
@@ -12592,6 +13233,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -12605,7 +13247,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 9,
@@ -12614,6 +13257,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -12627,7 +13271,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 10,
@@ -12636,6 +13281,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -12649,7 +13295,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 11,
@@ -12658,6 +13305,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -12671,7 +13319,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 12,
@@ -12680,6 +13329,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -12693,7 +13343,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 13,
@@ -12702,6 +13353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -12715,7 +13367,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 14,
@@ -12724,6 +13377,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Bb7(b9)",
+                  "display_symbol": "B♭7♭9",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [
@@ -12739,7 +13393,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7(b9)"
             },
             {
               "bar": 15,
@@ -12748,6 +13403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -12761,7 +13417,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 16,
@@ -12770,6 +13427,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -12783,7 +13441,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 17,
@@ -12792,6 +13451,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -12805,7 +13465,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             }
           ],
           "chords": [
@@ -12813,6 +13474,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -12824,6 +13486,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -12835,6 +13498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -12846,6 +13510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -12857,6 +13522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -12868,6 +13534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -12879,6 +13546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -12890,6 +13558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -12901,6 +13570,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -12912,6 +13582,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -12923,6 +13594,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -12934,6 +13606,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -12945,6 +13618,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -12956,6 +13630,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Bb7(b9)",
+              "display_symbol": "B♭7♭9",
               "root": "Bb",
               "quality": "7",
               "extensions": [
@@ -12969,6 +13644,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -12980,6 +13656,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -12991,6 +13668,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -13452,6 +14130,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -13465,7 +14144,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 2,
@@ -13474,6 +14154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -13487,7 +14168,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 3,
@@ -13496,6 +14178,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -13509,7 +14192,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 4,
@@ -13518,6 +14202,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -13531,7 +14216,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 5,
@@ -13540,6 +14226,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -13553,7 +14240,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 6,
@@ -13562,6 +14250,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -13575,7 +14264,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 7,
@@ -13584,6 +14274,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -13597,7 +14288,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 8,
@@ -13606,6 +14298,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -13619,7 +14312,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 9,
@@ -13628,6 +14322,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -13641,7 +14336,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 10,
@@ -13650,6 +14346,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -13663,7 +14360,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 11,
@@ -13672,6 +14370,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -13685,7 +14384,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 12,
@@ -13694,6 +14394,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -13707,7 +14408,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 13,
@@ -13716,6 +14418,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -13729,7 +14432,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 14,
@@ -13738,6 +14442,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "B7(b9)",
+                  "display_symbol": "B7♭9",
                   "root": "B",
                   "quality": "7",
                   "extensions": [
@@ -13753,7 +14458,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7(b9)"
             },
             {
               "bar": 15,
@@ -13762,6 +14468,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -13775,7 +14482,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 16,
@@ -13784,6 +14492,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -13797,7 +14506,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 17,
@@ -13806,6 +14516,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -13819,7 +14530,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             }
           ],
           "chords": [
@@ -13827,6 +14539,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -13838,6 +14551,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -13849,6 +14563,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -13860,6 +14575,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -13871,6 +14587,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -13882,6 +14599,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -13893,6 +14611,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -13904,6 +14623,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -13915,6 +14635,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -13926,6 +14647,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -13937,6 +14659,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -13948,6 +14671,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -13959,6 +14683,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -13970,6 +14695,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "B7(b9)",
+              "display_symbol": "B7♭9",
               "root": "B",
               "quality": "7",
               "extensions": [
@@ -13983,6 +14709,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -13994,6 +14721,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -14005,6 +14733,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -14466,6 +15195,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -14479,7 +15209,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 2,
@@ -14488,6 +15219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -14501,7 +15233,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 3,
@@ -14510,6 +15243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -14523,7 +15257,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 4,
@@ -14532,6 +15267,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -14545,7 +15281,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 5,
@@ -14554,6 +15291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -14567,7 +15305,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 6,
@@ -14576,6 +15315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -14589,7 +15329,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 7,
@@ -14598,6 +15339,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -14611,7 +15353,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 8,
@@ -14620,6 +15363,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -14633,7 +15377,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 9,
@@ -14642,6 +15387,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -14655,7 +15401,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 10,
@@ -14664,6 +15411,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -14677,7 +15425,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 11,
@@ -14686,6 +15435,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -14699,7 +15449,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 12,
@@ -14708,6 +15459,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -14721,7 +15473,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 13,
@@ -14730,6 +15483,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -14743,7 +15497,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 14,
@@ -14752,6 +15507,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "C7(b9)",
+                  "display_symbol": "C7♭9",
                   "root": "C",
                   "quality": "7",
                   "extensions": [
@@ -14767,7 +15523,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7(b9)"
             },
             {
               "bar": 15,
@@ -14776,6 +15533,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -14789,7 +15547,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 16,
@@ -14798,6 +15557,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -14811,7 +15571,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 17,
@@ -14820,6 +15581,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -14833,7 +15595,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             }
           ],
           "chords": [
@@ -14841,6 +15604,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -14852,6 +15616,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -14863,6 +15628,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -14874,6 +15640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -14885,6 +15652,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -14896,6 +15664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -14907,6 +15676,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -14918,6 +15688,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -14929,6 +15700,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -14940,6 +15712,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -14951,6 +15724,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -14962,6 +15736,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -14973,6 +15748,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -14984,6 +15760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "C7(b9)",
+              "display_symbol": "C7♭9",
               "root": "C",
               "quality": "7",
               "extensions": [
@@ -14997,6 +15774,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -15008,6 +15786,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -15019,6 +15798,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -15480,6 +16260,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -15493,7 +16274,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 2,
@@ -15502,6 +16284,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -15515,7 +16298,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 3,
@@ -15524,6 +16308,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -15537,7 +16322,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 4,
@@ -15546,6 +16332,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -15559,7 +16346,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 5,
@@ -15568,6 +16356,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -15581,7 +16370,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 6,
@@ -15590,6 +16380,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -15603,7 +16394,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 7,
@@ -15612,6 +16404,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -15625,7 +16418,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 8,
@@ -15634,6 +16428,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -15647,7 +16442,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 9,
@@ -15656,6 +16452,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -15669,7 +16466,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 10,
@@ -15678,6 +16476,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -15691,7 +16490,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 11,
@@ -15700,6 +16500,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -15713,7 +16514,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 12,
@@ -15722,6 +16524,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -15735,7 +16538,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 13,
@@ -15744,6 +16548,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -15757,7 +16562,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 14,
@@ -15766,6 +16572,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Db7(b9)",
+                  "display_symbol": "D♭7♭9",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [
@@ -15781,7 +16588,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7(b9)"
             },
             {
               "bar": 15,
@@ -15790,6 +16598,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -15803,7 +16612,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 16,
@@ -15812,6 +16622,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -15825,7 +16636,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 17,
@@ -15834,6 +16646,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -15847,7 +16660,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             }
           ],
           "chords": [
@@ -15855,6 +16669,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -15866,6 +16681,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -15877,6 +16693,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -15888,6 +16705,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -15899,6 +16717,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -15910,6 +16729,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -15921,6 +16741,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -15932,6 +16753,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -15943,6 +16765,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -15954,6 +16777,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -15965,6 +16789,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -15976,6 +16801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -15987,6 +16813,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -15998,6 +16825,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Db7(b9)",
+              "display_symbol": "D♭7♭9",
               "root": "Db",
               "quality": "7",
               "extensions": [
@@ -16011,6 +16839,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -16022,6 +16851,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -16033,6 +16863,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -16494,6 +17325,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -16507,7 +17339,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 2,
@@ -16516,6 +17349,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -16529,7 +17363,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 3,
@@ -16538,6 +17373,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -16551,7 +17387,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 4,
@@ -16560,6 +17397,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -16573,7 +17411,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 5,
@@ -16582,6 +17421,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -16595,7 +17435,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 6,
@@ -16604,6 +17445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -16617,7 +17459,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 7,
@@ -16626,6 +17469,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -16639,7 +17483,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 8,
@@ -16648,6 +17493,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -16661,7 +17507,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 9,
@@ -16670,6 +17517,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -16683,7 +17531,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 10,
@@ -16692,6 +17541,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -16705,7 +17555,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 11,
@@ -16714,6 +17565,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -16727,7 +17579,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 12,
@@ -16736,6 +17589,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -16749,7 +17603,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 13,
@@ -16758,6 +17613,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -16771,7 +17627,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 14,
@@ -16780,6 +17637,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "D7(b9)",
+                  "display_symbol": "D7♭9",
                   "root": "D",
                   "quality": "7",
                   "extensions": [
@@ -16795,7 +17653,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7(b9)"
             },
             {
               "bar": 15,
@@ -16804,6 +17663,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -16817,7 +17677,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 16,
@@ -16826,6 +17687,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -16839,7 +17701,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 17,
@@ -16848,6 +17711,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -16861,7 +17725,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             }
           ],
           "chords": [
@@ -16869,6 +17734,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -16880,6 +17746,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -16891,6 +17758,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -16902,6 +17770,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -16913,6 +17782,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -16924,6 +17794,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -16935,6 +17806,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -16946,6 +17818,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -16957,6 +17830,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -16968,6 +17842,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -16979,6 +17854,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -16990,6 +17866,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -17001,6 +17878,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -17012,6 +17890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "D7(b9)",
+              "display_symbol": "D7♭9",
               "root": "D",
               "quality": "7",
               "extensions": [
@@ -17025,6 +17904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -17036,6 +17916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -17047,6 +17928,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -17508,6 +18390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -17521,7 +18404,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 2,
@@ -17530,6 +18414,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -17543,7 +18428,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 3,
@@ -17552,6 +18438,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -17565,7 +18452,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 4,
@@ -17574,6 +18462,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -17587,7 +18476,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 5,
@@ -17596,6 +18486,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -17609,7 +18500,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 6,
@@ -17618,6 +18510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -17631,7 +18524,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 7,
@@ -17640,6 +18534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -17653,7 +18548,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 8,
@@ -17662,6 +18558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -17675,7 +18572,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 9,
@@ -17684,6 +18582,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -17697,7 +18596,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 10,
@@ -17706,6 +18606,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -17719,7 +18620,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 11,
@@ -17728,6 +18630,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -17741,7 +18644,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 12,
@@ -17750,6 +18654,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -17763,7 +18668,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 13,
@@ -17772,6 +18678,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -17785,7 +18692,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 14,
@@ -17794,6 +18702,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Eb7(b9)",
+                  "display_symbol": "E♭7♭9",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [
@@ -17809,7 +18718,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7(b9)"
             },
             {
               "bar": 15,
@@ -17818,6 +18728,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -17831,7 +18742,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 16,
@@ -17840,6 +18752,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -17853,7 +18766,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 17,
@@ -17862,6 +18776,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -17875,7 +18790,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             }
           ],
           "chords": [
@@ -17883,6 +18799,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -17894,6 +18811,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -17905,6 +18823,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -17916,6 +18835,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -17927,6 +18847,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -17938,6 +18859,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -17949,6 +18871,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -17960,6 +18883,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -17971,6 +18895,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -17982,6 +18907,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -17993,6 +18919,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -18004,6 +18931,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -18015,6 +18943,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -18026,6 +18955,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Eb7(b9)",
+              "display_symbol": "E♭7♭9",
               "root": "Eb",
               "quality": "7",
               "extensions": [
@@ -18039,6 +18969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -18050,6 +18981,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -18061,6 +18993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -18522,6 +19455,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -18535,7 +19469,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 2,
@@ -18544,6 +19479,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -18557,7 +19493,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 3,
@@ -18566,6 +19503,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -18579,7 +19517,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 4,
@@ -18588,6 +19527,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -18601,7 +19541,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 5,
@@ -18610,6 +19551,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -18623,7 +19565,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 6,
@@ -18632,6 +19575,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -18645,7 +19589,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 7,
@@ -18654,6 +19599,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -18667,7 +19613,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 8,
@@ -18676,6 +19623,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -18689,7 +19637,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 9,
@@ -18698,6 +19647,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -18711,7 +19661,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 10,
@@ -18720,6 +19671,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -18733,7 +19685,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 11,
@@ -18742,6 +19695,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -18755,7 +19709,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 12,
@@ -18764,6 +19719,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -18777,7 +19733,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 13,
@@ -18786,6 +19743,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -18799,7 +19757,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 14,
@@ -18808,6 +19767,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "E7(b9)",
+                  "display_symbol": "E7♭9",
                   "root": "E",
                   "quality": "7",
                   "extensions": [
@@ -18823,7 +19783,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7(b9)"
             },
             {
               "bar": 15,
@@ -18832,6 +19793,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -18845,7 +19807,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 16,
@@ -18854,6 +19817,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -18867,7 +19831,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 17,
@@ -18876,6 +19841,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -18889,7 +19855,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             }
           ],
           "chords": [
@@ -18897,6 +19864,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -18908,6 +19876,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -18919,6 +19888,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -18930,6 +19900,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -18941,6 +19912,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -18952,6 +19924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -18963,6 +19936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -18974,6 +19948,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -18985,6 +19960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -18996,6 +19972,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -19007,6 +19984,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -19018,6 +19996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -19029,6 +20008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -19040,6 +20020,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "E7(b9)",
+              "display_symbol": "E7♭9",
               "root": "E",
               "quality": "7",
               "extensions": [
@@ -19053,6 +20034,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -19064,6 +20046,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -19075,6 +20058,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -19536,6 +20520,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -19549,7 +20534,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 2,
@@ -19558,6 +20544,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -19571,7 +20558,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 3,
@@ -19580,6 +20568,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -19593,7 +20582,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 4,
@@ -19602,6 +20592,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -19615,7 +20606,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 5,
@@ -19624,6 +20616,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -19637,7 +20630,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 6,
@@ -19646,6 +20640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -19659,7 +20654,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 7,
@@ -19668,6 +20664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -19681,7 +20678,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 8,
@@ -19690,6 +20688,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -19703,7 +20702,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 9,
@@ -19712,6 +20712,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -19725,7 +20726,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 10,
@@ -19734,6 +20736,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -19747,7 +20750,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 11,
@@ -19756,6 +20760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -19769,7 +20774,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 12,
@@ -19778,6 +20784,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -19791,7 +20798,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 13,
@@ -19800,6 +20808,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -19813,7 +20822,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 14,
@@ -19822,6 +20832,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "F7(b9)",
+                  "display_symbol": "F7♭9",
                   "root": "F",
                   "quality": "7",
                   "extensions": [
@@ -19837,7 +20848,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7(b9)"
             },
             {
               "bar": 15,
@@ -19846,6 +20858,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -19859,7 +20872,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 16,
@@ -19868,6 +20882,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -19881,7 +20896,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 17,
@@ -19890,6 +20906,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -19903,7 +20920,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             }
           ],
           "chords": [
@@ -19911,6 +20929,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -19922,6 +20941,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -19933,6 +20953,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -19944,6 +20965,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -19955,6 +20977,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -19966,6 +20989,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -19977,6 +21001,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -19988,6 +21013,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -19999,6 +21025,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -20010,6 +21037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -20021,6 +21049,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -20032,6 +21061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -20043,6 +21073,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -20054,6 +21085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "F7(b9)",
+              "display_symbol": "F7♭9",
               "root": "F",
               "quality": "7",
               "extensions": [
@@ -20067,6 +21099,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -20078,6 +21111,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -20089,6 +21123,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -20550,6 +21585,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -20563,7 +21599,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 2,
@@ -20572,6 +21609,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -20585,7 +21623,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 3,
@@ -20594,6 +21633,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -20607,7 +21647,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 4,
@@ -20616,6 +21657,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -20629,7 +21671,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 5,
@@ -20638,6 +21681,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -20651,7 +21695,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 6,
@@ -20660,6 +21705,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -20673,7 +21719,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 7,
@@ -20682,6 +21729,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -20695,7 +21743,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 8,
@@ -20704,6 +21753,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -20717,7 +21767,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 9,
@@ -20726,6 +21777,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -20739,7 +21791,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 10,
@@ -20748,6 +21801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -20761,7 +21815,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 11,
@@ -20770,6 +21825,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -20783,7 +21839,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 12,
@@ -20792,6 +21849,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -20805,7 +21863,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 13,
@@ -20814,6 +21873,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -20827,7 +21887,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 14,
@@ -20836,6 +21897,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Gb7(b9)",
+                  "display_symbol": "G♭7♭9",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [
@@ -20851,7 +21913,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7(b9)"
             },
             {
               "bar": 15,
@@ -20860,6 +21923,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -20873,7 +21937,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 16,
@@ -20882,6 +21947,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -20895,7 +21961,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 17,
@@ -20904,6 +21971,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -20917,7 +21985,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             }
           ],
           "chords": [
@@ -20925,6 +21994,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -20936,6 +22006,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -20947,6 +22018,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -20958,6 +22030,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -20969,6 +22042,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -20980,6 +22054,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -20991,6 +22066,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -21002,6 +22078,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -21013,6 +22090,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -21024,6 +22102,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -21035,6 +22114,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -21046,6 +22126,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -21057,6 +22138,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -21068,6 +22150,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Gb7(b9)",
+              "display_symbol": "G♭7♭9",
               "root": "Gb",
               "quality": "7",
               "extensions": [
@@ -21081,6 +22164,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -21092,6 +22176,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -21103,6 +22188,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -21564,6 +22650,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -21577,7 +22664,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 2,
@@ -21586,6 +22674,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -21599,7 +22688,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 3,
@@ -21608,6 +22698,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -21621,7 +22712,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 4,
@@ -21630,6 +22722,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -21643,7 +22736,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 5,
@@ -21652,6 +22746,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -21665,7 +22760,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 6,
@@ -21674,6 +22770,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -21687,7 +22784,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 7,
@@ -21696,6 +22794,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -21709,7 +22808,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 8,
@@ -21718,6 +22818,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -21731,7 +22832,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 9,
@@ -21740,6 +22842,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -21753,7 +22856,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 10,
@@ -21762,6 +22866,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -21775,7 +22880,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 11,
@@ -21784,6 +22890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -21797,7 +22904,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 12,
@@ -21806,6 +22914,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -21819,7 +22928,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 13,
@@ -21828,6 +22938,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -21841,7 +22952,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 14,
@@ -21850,6 +22962,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "G7(b9)",
+                  "display_symbol": "G7♭9",
                   "root": "G",
                   "quality": "7",
                   "extensions": [
@@ -21865,7 +22978,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7(b9)"
             },
             {
               "bar": 15,
@@ -21874,6 +22988,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -21887,7 +23002,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 16,
@@ -21896,6 +23012,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -21909,7 +23026,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 17,
@@ -21918,6 +23036,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -21931,7 +23050,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             }
           ],
           "chords": [
@@ -21939,6 +23059,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -21950,6 +23071,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -21961,6 +23083,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -21972,6 +23095,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -21983,6 +23107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -21994,6 +23119,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -22005,6 +23131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -22016,6 +23143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -22027,6 +23155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -22038,6 +23167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -22049,6 +23179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -22060,6 +23191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -22071,6 +23203,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -22082,6 +23215,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "G7(b9)",
+              "display_symbol": "G7♭9",
               "root": "G",
               "quality": "7",
               "extensions": [
@@ -22095,6 +23229,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -22106,6 +23241,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -22117,6 +23253,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -22578,6 +23715,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -22591,7 +23729,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 2,
@@ -22600,6 +23739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -22613,7 +23753,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 3,
@@ -22622,6 +23763,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -22635,7 +23777,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 4,
@@ -22644,6 +23787,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -22657,7 +23801,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 5,
@@ -22666,6 +23811,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -22679,7 +23825,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 6,
@@ -22688,6 +23835,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -22701,7 +23849,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 7,
@@ -22710,6 +23859,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -22723,7 +23873,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 8,
@@ -22732,6 +23883,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -22745,7 +23897,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 9,
@@ -22754,6 +23907,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -22767,7 +23921,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 10,
@@ -22776,6 +23931,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -22789,7 +23945,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 11,
@@ -22798,6 +23955,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -22811,7 +23969,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 12,
@@ -22820,6 +23979,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -22833,7 +23993,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 13,
@@ -22842,6 +24003,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -22855,7 +24017,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 14,
@@ -22864,6 +24027,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Ab7(b9)",
+                  "display_symbol": "A♭7♭9",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [
@@ -22879,7 +24043,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7(b9)"
             },
             {
               "bar": 15,
@@ -22888,6 +24053,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -22901,7 +24067,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 16,
@@ -22910,6 +24077,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -22923,7 +24091,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 17,
@@ -22932,6 +24101,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -22945,7 +24115,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             }
           ],
           "chords": [
@@ -22953,6 +24124,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -22964,6 +24136,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -22975,6 +24148,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -22986,6 +24160,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -22997,6 +24172,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -23008,6 +24184,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -23019,6 +24196,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -23030,6 +24208,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -23041,6 +24220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -23052,6 +24232,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -23063,6 +24244,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -23074,6 +24256,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -23085,6 +24268,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -23096,6 +24280,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Ab7(b9)",
+              "display_symbol": "A♭7♭9",
               "root": "Ab",
               "quality": "7",
               "extensions": [
@@ -23109,6 +24294,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -23120,6 +24306,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -23131,6 +24318,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -23602,6 +24790,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -23615,7 +24804,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 2,
@@ -23624,6 +24814,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -23637,7 +24828,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 3,
@@ -23646,6 +24838,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -23659,7 +24852,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 4,
@@ -23668,6 +24862,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -23681,7 +24876,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 5,
@@ -23690,6 +24886,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -23703,7 +24900,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 6,
@@ -23712,6 +24910,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "G7(b9)",
+                  "display_symbol": "G7♭9",
                   "root": "G",
                   "quality": "7",
                   "extensions": [
@@ -23727,7 +24926,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7(b9)"
             },
             {
               "bar": 7,
@@ -23736,6 +24936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -23749,7 +24950,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 8,
@@ -23758,6 +24960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -23771,7 +24974,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 9,
@@ -23780,6 +24984,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -23793,7 +24998,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 10,
@@ -23802,6 +25008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -23815,7 +25022,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 11,
@@ -23824,6 +25032,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -23837,7 +25046,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 12,
@@ -23846,6 +25056,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -23859,7 +25070,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 13,
@@ -23868,6 +25080,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -23881,7 +25094,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 14,
@@ -23890,6 +25104,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "G7(b9)",
+                  "display_symbol": "G7♭9",
                   "root": "G",
                   "quality": "7",
                   "extensions": [
@@ -23905,7 +25120,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7(b9)"
             },
             {
               "bar": 15,
@@ -23914,6 +25130,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -23927,7 +25144,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 16,
@@ -23936,6 +25154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -23949,7 +25168,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             }
           ],
           "chords": [
@@ -23957,6 +25177,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -23968,6 +25189,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -23979,6 +25201,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -23990,6 +25213,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -24001,6 +25225,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -24012,6 +25237,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "G7(b9)",
+              "display_symbol": "G7♭9",
               "root": "G",
               "quality": "7",
               "extensions": [
@@ -24025,6 +25251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -24036,6 +25263,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -24047,6 +25275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -24058,6 +25287,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -24069,6 +25299,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -24080,6 +25311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -24091,6 +25323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -24102,6 +25335,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "G7(b9)",
+              "display_symbol": "G7♭9",
               "root": "G",
               "quality": "7",
               "extensions": [
@@ -24115,6 +25349,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -24126,6 +25361,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -24564,6 +25800,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -24577,7 +25814,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 2,
@@ -24586,6 +25824,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -24599,7 +25838,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 3,
@@ -24608,6 +25848,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -24621,7 +25862,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 4,
@@ -24630,6 +25872,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -24643,7 +25886,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 5,
@@ -24652,6 +25896,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -24665,7 +25910,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 6,
@@ -24674,6 +25920,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Ab7(b9)",
+                  "display_symbol": "A♭7♭9",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [
@@ -24689,7 +25936,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7(b9)"
             },
             {
               "bar": 7,
@@ -24698,6 +25946,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -24711,7 +25960,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 8,
@@ -24720,6 +25970,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -24733,7 +25984,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 9,
@@ -24742,6 +25994,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -24755,7 +26008,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 10,
@@ -24764,6 +26018,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -24777,7 +26032,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 11,
@@ -24786,6 +26042,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -24799,7 +26056,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 12,
@@ -24808,6 +26066,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -24821,7 +26080,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 13,
@@ -24830,6 +26090,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -24843,7 +26104,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 14,
@@ -24852,6 +26114,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Ab7(b9)",
+                  "display_symbol": "A♭7♭9",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [
@@ -24867,7 +26130,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7(b9)"
             },
             {
               "bar": 15,
@@ -24876,6 +26140,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -24889,7 +26154,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 16,
@@ -24898,6 +26164,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -24911,7 +26178,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             }
           ],
           "chords": [
@@ -24919,6 +26187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -24930,6 +26199,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -24941,6 +26211,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -24952,6 +26223,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -24963,6 +26235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -24974,6 +26247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Ab7(b9)",
+              "display_symbol": "A♭7♭9",
               "root": "Ab",
               "quality": "7",
               "extensions": [
@@ -24987,6 +26261,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -24998,6 +26273,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -25009,6 +26285,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -25020,6 +26297,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -25031,6 +26309,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -25042,6 +26321,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -25053,6 +26333,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -25064,6 +26345,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Ab7(b9)",
+              "display_symbol": "A♭7♭9",
               "root": "Ab",
               "quality": "7",
               "extensions": [
@@ -25077,6 +26359,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -25088,6 +26371,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -25526,6 +26810,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -25539,7 +26824,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 2,
@@ -25548,6 +26834,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -25561,7 +26848,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 3,
@@ -25570,6 +26858,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -25583,7 +26872,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 4,
@@ -25592,6 +26882,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -25605,7 +26896,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 5,
@@ -25614,6 +26906,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -25627,7 +26920,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 6,
@@ -25636,6 +26930,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "A7(b9)",
+                  "display_symbol": "A7♭9",
                   "root": "A",
                   "quality": "7",
                   "extensions": [
@@ -25651,7 +26946,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7(b9)"
             },
             {
               "bar": 7,
@@ -25660,6 +26956,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -25673,7 +26970,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 8,
@@ -25682,6 +26980,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -25695,7 +26994,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 9,
@@ -25704,6 +27004,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -25717,7 +27018,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 10,
@@ -25726,6 +27028,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -25739,7 +27042,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 11,
@@ -25748,6 +27052,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -25761,7 +27066,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 12,
@@ -25770,6 +27076,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -25783,7 +27090,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 13,
@@ -25792,6 +27100,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -25805,7 +27114,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 14,
@@ -25814,6 +27124,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "A7(b9)",
+                  "display_symbol": "A7♭9",
                   "root": "A",
                   "quality": "7",
                   "extensions": [
@@ -25829,7 +27140,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7(b9)"
             },
             {
               "bar": 15,
@@ -25838,6 +27150,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -25851,7 +27164,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 16,
@@ -25860,6 +27174,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -25873,7 +27188,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             }
           ],
           "chords": [
@@ -25881,6 +27197,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -25892,6 +27209,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -25903,6 +27221,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -25914,6 +27233,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -25925,6 +27245,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -25936,6 +27257,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "A7(b9)",
+              "display_symbol": "A7♭9",
               "root": "A",
               "quality": "7",
               "extensions": [
@@ -25949,6 +27271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -25960,6 +27283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -25971,6 +27295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -25982,6 +27307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -25993,6 +27319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -26004,6 +27331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -26015,6 +27343,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -26026,6 +27355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "A7(b9)",
+              "display_symbol": "A7♭9",
               "root": "A",
               "quality": "7",
               "extensions": [
@@ -26039,6 +27369,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -26050,6 +27381,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -26488,6 +27820,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -26501,7 +27834,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 2,
@@ -26510,6 +27844,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -26523,7 +27858,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 3,
@@ -26532,6 +27868,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -26545,7 +27882,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 4,
@@ -26554,6 +27892,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -26567,7 +27906,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 5,
@@ -26576,6 +27916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -26589,7 +27930,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 6,
@@ -26598,6 +27940,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Bb7(b9)",
+                  "display_symbol": "B♭7♭9",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [
@@ -26613,7 +27956,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7(b9)"
             },
             {
               "bar": 7,
@@ -26622,6 +27966,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -26635,7 +27980,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 8,
@@ -26644,6 +27990,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -26657,7 +28004,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 9,
@@ -26666,6 +28014,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -26679,7 +28028,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 10,
@@ -26688,6 +28038,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -26701,7 +28052,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 11,
@@ -26710,6 +28062,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -26723,7 +28076,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 12,
@@ -26732,6 +28086,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -26745,7 +28100,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 13,
@@ -26754,6 +28110,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -26767,7 +28124,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 14,
@@ -26776,6 +28134,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Bb7(b9)",
+                  "display_symbol": "B♭7♭9",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [
@@ -26791,7 +28150,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7(b9)"
             },
             {
               "bar": 15,
@@ -26800,6 +28160,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -26813,7 +28174,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 16,
@@ -26822,6 +28184,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -26835,7 +28198,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             }
           ],
           "chords": [
@@ -26843,6 +28207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -26854,6 +28219,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -26865,6 +28231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -26876,6 +28243,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -26887,6 +28255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -26898,6 +28267,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Bb7(b9)",
+              "display_symbol": "B♭7♭9",
               "root": "Bb",
               "quality": "7",
               "extensions": [
@@ -26911,6 +28281,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -26922,6 +28293,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -26933,6 +28305,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -26944,6 +28317,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -26955,6 +28329,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -26966,6 +28341,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -26977,6 +28353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -26988,6 +28365,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Bb7(b9)",
+              "display_symbol": "B♭7♭9",
               "root": "Bb",
               "quality": "7",
               "extensions": [
@@ -27001,6 +28379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -27012,6 +28391,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -27450,6 +28830,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -27463,7 +28844,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 2,
@@ -27472,6 +28854,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -27485,7 +28868,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 3,
@@ -27494,6 +28878,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -27507,7 +28892,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 4,
@@ -27516,6 +28902,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -27529,7 +28916,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 5,
@@ -27538,6 +28926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -27551,7 +28940,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 6,
@@ -27560,6 +28950,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "B7(b9)",
+                  "display_symbol": "B7♭9",
                   "root": "B",
                   "quality": "7",
                   "extensions": [
@@ -27575,7 +28966,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7(b9)"
             },
             {
               "bar": 7,
@@ -27584,6 +28976,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -27597,7 +28990,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 8,
@@ -27606,6 +29000,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -27619,7 +29014,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 9,
@@ -27628,6 +29024,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -27641,7 +29038,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 10,
@@ -27650,6 +29048,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -27663,7 +29062,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 11,
@@ -27672,6 +29072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -27685,7 +29086,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 12,
@@ -27694,6 +29096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -27707,7 +29110,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 13,
@@ -27716,6 +29120,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -27729,7 +29134,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 14,
@@ -27738,6 +29144,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "B7(b9)",
+                  "display_symbol": "B7♭9",
                   "root": "B",
                   "quality": "7",
                   "extensions": [
@@ -27753,7 +29160,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7(b9)"
             },
             {
               "bar": 15,
@@ -27762,6 +29170,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -27775,7 +29184,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 16,
@@ -27784,6 +29194,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -27797,7 +29208,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             }
           ],
           "chords": [
@@ -27805,6 +29217,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -27816,6 +29229,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -27827,6 +29241,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -27838,6 +29253,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -27849,6 +29265,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -27860,6 +29277,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "B7(b9)",
+              "display_symbol": "B7♭9",
               "root": "B",
               "quality": "7",
               "extensions": [
@@ -27873,6 +29291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -27884,6 +29303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -27895,6 +29315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -27906,6 +29327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -27917,6 +29339,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -27928,6 +29351,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -27939,6 +29363,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -27950,6 +29375,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "B7(b9)",
+              "display_symbol": "B7♭9",
               "root": "B",
               "quality": "7",
               "extensions": [
@@ -27963,6 +29389,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -27974,6 +29401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -28412,6 +29840,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -28425,7 +29854,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 2,
@@ -28434,6 +29864,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -28447,7 +29878,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 3,
@@ -28456,6 +29888,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -28469,7 +29902,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 4,
@@ -28478,6 +29912,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -28491,7 +29926,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 5,
@@ -28500,6 +29936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -28513,7 +29950,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 6,
@@ -28522,6 +29960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "C7(b9)",
+                  "display_symbol": "C7♭9",
                   "root": "C",
                   "quality": "7",
                   "extensions": [
@@ -28537,7 +29976,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7(b9)"
             },
             {
               "bar": 7,
@@ -28546,6 +29986,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -28559,7 +30000,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 8,
@@ -28568,6 +30010,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -28581,7 +30024,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 9,
@@ -28590,6 +30034,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -28603,7 +30048,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 10,
@@ -28612,6 +30058,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -28625,7 +30072,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 11,
@@ -28634,6 +30082,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -28647,7 +30096,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 12,
@@ -28656,6 +30106,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -28669,7 +30120,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 13,
@@ -28678,6 +30130,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -28691,7 +30144,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 14,
@@ -28700,6 +30154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "C7(b9)",
+                  "display_symbol": "C7♭9",
                   "root": "C",
                   "quality": "7",
                   "extensions": [
@@ -28715,7 +30170,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7(b9)"
             },
             {
               "bar": 15,
@@ -28724,6 +30180,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -28737,7 +30194,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 16,
@@ -28746,6 +30204,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -28759,7 +30218,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             }
           ],
           "chords": [
@@ -28767,6 +30227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -28778,6 +30239,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -28789,6 +30251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -28800,6 +30263,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -28811,6 +30275,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -28822,6 +30287,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "C7(b9)",
+              "display_symbol": "C7♭9",
               "root": "C",
               "quality": "7",
               "extensions": [
@@ -28835,6 +30301,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -28846,6 +30313,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -28857,6 +30325,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -28868,6 +30337,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -28879,6 +30349,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -28890,6 +30361,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -28901,6 +30373,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -28912,6 +30385,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "C7(b9)",
+              "display_symbol": "C7♭9",
               "root": "C",
               "quality": "7",
               "extensions": [
@@ -28925,6 +30399,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -28936,6 +30411,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -29374,6 +30850,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -29387,7 +30864,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 2,
@@ -29396,6 +30874,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -29409,7 +30888,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 3,
@@ -29418,6 +30898,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -29431,7 +30912,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 4,
@@ -29440,6 +30922,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -29453,7 +30936,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 5,
@@ -29462,6 +30946,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -29475,7 +30960,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 6,
@@ -29484,6 +30970,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Db7(b9)",
+                  "display_symbol": "D♭7♭9",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [
@@ -29499,7 +30986,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7(b9)"
             },
             {
               "bar": 7,
@@ -29508,6 +30996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -29521,7 +31010,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 8,
@@ -29530,6 +31020,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -29543,7 +31034,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 9,
@@ -29552,6 +31044,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -29565,7 +31058,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 10,
@@ -29574,6 +31068,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -29587,7 +31082,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 11,
@@ -29596,6 +31092,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -29609,7 +31106,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 12,
@@ -29618,6 +31116,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -29631,7 +31130,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 13,
@@ -29640,6 +31140,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -29653,7 +31154,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 14,
@@ -29662,6 +31164,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Db7(b9)",
+                  "display_symbol": "D♭7♭9",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [
@@ -29677,7 +31180,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7(b9)"
             },
             {
               "bar": 15,
@@ -29686,6 +31190,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -29699,7 +31204,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 16,
@@ -29708,6 +31214,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -29721,7 +31228,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             }
           ],
           "chords": [
@@ -29729,6 +31237,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -29740,6 +31249,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -29751,6 +31261,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -29762,6 +31273,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -29773,6 +31285,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -29784,6 +31297,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Db7(b9)",
+              "display_symbol": "D♭7♭9",
               "root": "Db",
               "quality": "7",
               "extensions": [
@@ -29797,6 +31311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -29808,6 +31323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -29819,6 +31335,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -29830,6 +31347,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -29841,6 +31359,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -29852,6 +31371,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -29863,6 +31383,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -29874,6 +31395,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Db7(b9)",
+              "display_symbol": "D♭7♭9",
               "root": "Db",
               "quality": "7",
               "extensions": [
@@ -29887,6 +31409,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -29898,6 +31421,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -30336,6 +31860,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -30349,7 +31874,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 2,
@@ -30358,6 +31884,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -30371,7 +31898,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 3,
@@ -30380,6 +31908,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -30393,7 +31922,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 4,
@@ -30402,6 +31932,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -30415,7 +31946,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 5,
@@ -30424,6 +31956,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -30437,7 +31970,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 6,
@@ -30446,6 +31980,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "D7(b9)",
+                  "display_symbol": "D7♭9",
                   "root": "D",
                   "quality": "7",
                   "extensions": [
@@ -30461,7 +31996,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7(b9)"
             },
             {
               "bar": 7,
@@ -30470,6 +32006,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -30483,7 +32020,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 8,
@@ -30492,6 +32030,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -30505,7 +32044,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 9,
@@ -30514,6 +32054,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -30527,7 +32068,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 10,
@@ -30536,6 +32078,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -30549,7 +32092,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 11,
@@ -30558,6 +32102,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -30571,7 +32116,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 12,
@@ -30580,6 +32126,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -30593,7 +32140,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 13,
@@ -30602,6 +32150,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -30615,7 +32164,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 14,
@@ -30624,6 +32174,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "D7(b9)",
+                  "display_symbol": "D7♭9",
                   "root": "D",
                   "quality": "7",
                   "extensions": [
@@ -30639,7 +32190,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7(b9)"
             },
             {
               "bar": 15,
@@ -30648,6 +32200,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -30661,7 +32214,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 16,
@@ -30670,6 +32224,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -30683,7 +32238,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             }
           ],
           "chords": [
@@ -30691,6 +32247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -30702,6 +32259,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -30713,6 +32271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -30724,6 +32283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -30735,6 +32295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -30746,6 +32307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "D7(b9)",
+              "display_symbol": "D7♭9",
               "root": "D",
               "quality": "7",
               "extensions": [
@@ -30759,6 +32321,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -30770,6 +32333,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -30781,6 +32345,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -30792,6 +32357,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -30803,6 +32369,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -30814,6 +32381,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -30825,6 +32393,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -30836,6 +32405,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "D7(b9)",
+              "display_symbol": "D7♭9",
               "root": "D",
               "quality": "7",
               "extensions": [
@@ -30849,6 +32419,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -30860,6 +32431,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -31298,6 +32870,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -31311,7 +32884,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 2,
@@ -31320,6 +32894,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -31333,7 +32908,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 3,
@@ -31342,6 +32918,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -31355,7 +32932,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 4,
@@ -31364,6 +32942,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -31377,7 +32956,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 5,
@@ -31386,6 +32966,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -31399,7 +32980,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 6,
@@ -31408,6 +32990,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Eb7(b9)",
+                  "display_symbol": "E♭7♭9",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [
@@ -31423,7 +33006,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7(b9)"
             },
             {
               "bar": 7,
@@ -31432,6 +33016,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -31445,7 +33030,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 8,
@@ -31454,6 +33040,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -31467,7 +33054,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 9,
@@ -31476,6 +33064,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -31489,7 +33078,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 10,
@@ -31498,6 +33088,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -31511,7 +33102,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 11,
@@ -31520,6 +33112,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -31533,7 +33126,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 12,
@@ -31542,6 +33136,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -31555,7 +33150,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 13,
@@ -31564,6 +33160,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -31577,7 +33174,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 14,
@@ -31586,6 +33184,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Eb7(b9)",
+                  "display_symbol": "E♭7♭9",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [
@@ -31601,7 +33200,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7(b9)"
             },
             {
               "bar": 15,
@@ -31610,6 +33210,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -31623,7 +33224,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 16,
@@ -31632,6 +33234,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -31645,7 +33248,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             }
           ],
           "chords": [
@@ -31653,6 +33257,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -31664,6 +33269,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -31675,6 +33281,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -31686,6 +33293,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -31697,6 +33305,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -31708,6 +33317,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Eb7(b9)",
+              "display_symbol": "E♭7♭9",
               "root": "Eb",
               "quality": "7",
               "extensions": [
@@ -31721,6 +33331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -31732,6 +33343,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -31743,6 +33355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -31754,6 +33367,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -31765,6 +33379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -31776,6 +33391,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -31787,6 +33403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -31798,6 +33415,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Eb7(b9)",
+              "display_symbol": "E♭7♭9",
               "root": "Eb",
               "quality": "7",
               "extensions": [
@@ -31811,6 +33429,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -31822,6 +33441,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -32260,6 +33880,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -32273,7 +33894,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 2,
@@ -32282,6 +33904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -32295,7 +33918,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 3,
@@ -32304,6 +33928,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -32317,7 +33942,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 4,
@@ -32326,6 +33952,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -32339,7 +33966,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 5,
@@ -32348,6 +33976,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -32361,7 +33990,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 6,
@@ -32370,6 +34000,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "E7(b9)",
+                  "display_symbol": "E7♭9",
                   "root": "E",
                   "quality": "7",
                   "extensions": [
@@ -32385,7 +34016,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7(b9)"
             },
             {
               "bar": 7,
@@ -32394,6 +34026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -32407,7 +34040,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 8,
@@ -32416,6 +34050,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -32429,7 +34064,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 9,
@@ -32438,6 +34074,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -32451,7 +34088,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 10,
@@ -32460,6 +34098,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -32473,7 +34112,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 11,
@@ -32482,6 +34122,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -32495,7 +34136,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 12,
@@ -32504,6 +34146,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -32517,7 +34160,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 13,
@@ -32526,6 +34170,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -32539,7 +34184,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 14,
@@ -32548,6 +34194,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "E7(b9)",
+                  "display_symbol": "E7♭9",
                   "root": "E",
                   "quality": "7",
                   "extensions": [
@@ -32563,7 +34210,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7(b9)"
             },
             {
               "bar": 15,
@@ -32572,6 +34220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -32585,7 +34234,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 16,
@@ -32594,6 +34244,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -32607,7 +34258,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             }
           ],
           "chords": [
@@ -32615,6 +34267,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -32626,6 +34279,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -32637,6 +34291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -32648,6 +34303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -32659,6 +34315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -32670,6 +34327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "E7(b9)",
+              "display_symbol": "E7♭9",
               "root": "E",
               "quality": "7",
               "extensions": [
@@ -32683,6 +34341,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -32694,6 +34353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -32705,6 +34365,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -32716,6 +34377,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -32727,6 +34389,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -32738,6 +34401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -32749,6 +34413,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -32760,6 +34425,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "E7(b9)",
+              "display_symbol": "E7♭9",
               "root": "E",
               "quality": "7",
               "extensions": [
@@ -32773,6 +34439,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -32784,6 +34451,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -33222,6 +34890,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -33235,7 +34904,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 2,
@@ -33244,6 +34914,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -33257,7 +34928,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 3,
@@ -33266,6 +34938,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -33279,7 +34952,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 4,
@@ -33288,6 +34962,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -33301,7 +34976,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 5,
@@ -33310,6 +34986,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -33323,7 +35000,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 6,
@@ -33332,6 +35010,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "F7(b9)",
+                  "display_symbol": "F7♭9",
                   "root": "F",
                   "quality": "7",
                   "extensions": [
@@ -33347,7 +35026,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7(b9)"
             },
             {
               "bar": 7,
@@ -33356,6 +35036,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -33369,7 +35050,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 8,
@@ -33378,6 +35060,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -33391,7 +35074,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 9,
@@ -33400,6 +35084,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -33413,7 +35098,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 10,
@@ -33422,6 +35108,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -33435,7 +35122,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 11,
@@ -33444,6 +35132,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -33457,7 +35146,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 12,
@@ -33466,6 +35156,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -33479,7 +35170,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 13,
@@ -33488,6 +35180,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -33501,7 +35194,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 14,
@@ -33510,6 +35204,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "F7(b9)",
+                  "display_symbol": "F7♭9",
                   "root": "F",
                   "quality": "7",
                   "extensions": [
@@ -33525,7 +35220,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7(b9)"
             },
             {
               "bar": 15,
@@ -33534,6 +35230,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -33547,7 +35244,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 16,
@@ -33556,6 +35254,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -33569,7 +35268,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             }
           ],
           "chords": [
@@ -33577,6 +35277,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -33588,6 +35289,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -33599,6 +35301,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -33610,6 +35313,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -33621,6 +35325,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -33632,6 +35337,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "F7(b9)",
+              "display_symbol": "F7♭9",
               "root": "F",
               "quality": "7",
               "extensions": [
@@ -33645,6 +35351,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -33656,6 +35363,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -33667,6 +35375,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -33678,6 +35387,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -33689,6 +35399,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -33700,6 +35411,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -33711,6 +35423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -33722,6 +35435,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "F7(b9)",
+              "display_symbol": "F7♭9",
               "root": "F",
               "quality": "7",
               "extensions": [
@@ -33735,6 +35449,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -33746,6 +35461,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -34184,6 +35900,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -34197,7 +35914,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 2,
@@ -34206,6 +35924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -34219,7 +35938,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 3,
@@ -34228,6 +35948,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -34241,7 +35962,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 4,
@@ -34250,6 +35972,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -34263,7 +35986,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 5,
@@ -34272,6 +35996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -34285,7 +36010,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 6,
@@ -34294,6 +36020,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Gb7(b9)",
+                  "display_symbol": "G♭7♭9",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [
@@ -34309,7 +36036,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7(b9)"
             },
             {
               "bar": 7,
@@ -34318,6 +36046,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -34331,7 +36060,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 8,
@@ -34340,6 +36070,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -34353,7 +36084,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 9,
@@ -34362,6 +36094,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -34375,7 +36108,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 10,
@@ -34384,6 +36118,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -34397,7 +36132,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 11,
@@ -34406,6 +36142,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -34419,7 +36156,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 12,
@@ -34428,6 +36166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -34441,7 +36180,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 13,
@@ -34450,6 +36190,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -34463,7 +36204,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 14,
@@ -34472,6 +36214,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Gb7(b9)",
+                  "display_symbol": "G♭7♭9",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [
@@ -34487,7 +36230,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7(b9)"
             },
             {
               "bar": 15,
@@ -34496,6 +36240,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -34509,7 +36254,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 16,
@@ -34518,6 +36264,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -34531,7 +36278,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             }
           ],
           "chords": [
@@ -34539,6 +36287,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -34550,6 +36299,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -34561,6 +36311,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -34572,6 +36323,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -34583,6 +36335,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -34594,6 +36347,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Gb7(b9)",
+              "display_symbol": "G♭7♭9",
               "root": "Gb",
               "quality": "7",
               "extensions": [
@@ -34607,6 +36361,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -34618,6 +36373,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -34629,6 +36385,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -34640,6 +36397,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -34651,6 +36409,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -34662,6 +36421,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -34673,6 +36433,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -34684,6 +36445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Gb7(b9)",
+              "display_symbol": "G♭7♭9",
               "root": "Gb",
               "quality": "7",
               "extensions": [
@@ -34697,6 +36459,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -34708,6 +36471,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -35158,6 +36922,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Cmmaj7",
+                  "display_symbol": "C-△7",
                   "root": "C",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -35171,7 +36936,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmmaj7"
             },
             {
               "bar": 2,
@@ -35180,6 +36946,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Cm6",
+                  "display_symbol": "C-6",
                   "root": "C",
                   "quality": "m6",
                   "extensions": [],
@@ -35193,7 +36960,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm6"
             },
             {
               "bar": 3,
@@ -35202,6 +36970,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -35215,7 +36984,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 4,
@@ -35224,6 +36994,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -35237,7 +37008,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 5,
@@ -35246,6 +37018,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -35259,7 +37032,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 6,
@@ -35268,6 +37042,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -35281,7 +37056,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 7,
@@ -35290,6 +37066,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -35303,7 +37080,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 8,
@@ -35312,6 +37090,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -35325,7 +37104,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 9,
@@ -35334,6 +37114,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -35347,7 +37128,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 10,
@@ -35356,6 +37138,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -35369,7 +37152,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 11,
@@ -35378,6 +37162,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -35391,7 +37176,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 12,
@@ -35400,6 +37186,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -35413,7 +37200,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 13,
@@ -35422,6 +37210,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -35435,7 +37224,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 14,
@@ -35444,6 +37234,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "G7(b9)",
+                  "display_symbol": "G7♭9",
                   "root": "G",
                   "quality": "7",
                   "extensions": [
@@ -35459,7 +37250,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7(b9)"
             },
             {
               "bar": 15,
@@ -35468,6 +37260,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Cm6",
+                  "display_symbol": "C-6",
                   "root": "C",
                   "quality": "m6",
                   "extensions": [],
@@ -35481,7 +37274,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm6"
             }
           ],
           "chords": [
@@ -35489,6 +37283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Cmmaj7",
+              "display_symbol": "C-△7",
               "root": "C",
               "quality": "mmaj7",
               "extensions": [],
@@ -35500,6 +37295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Cm6",
+              "display_symbol": "C-6",
               "root": "C",
               "quality": "m6",
               "extensions": [],
@@ -35511,6 +37307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -35522,6 +37319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -35533,6 +37331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -35544,6 +37343,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -35555,6 +37355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -35566,6 +37367,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -35577,6 +37379,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -35588,6 +37391,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -35599,6 +37403,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -35610,6 +37415,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -35621,6 +37427,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -35632,6 +37439,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "G7(b9)",
+              "display_symbol": "G7♭9",
               "root": "G",
               "quality": "7",
               "extensions": [
@@ -35645,6 +37453,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Cm6",
+              "display_symbol": "C-6",
               "root": "C",
               "quality": "m6",
               "extensions": [],
@@ -36066,6 +37875,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dbmmaj7",
+                  "display_symbol": "D♭-△7",
                   "root": "Db",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -36079,7 +37889,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmmaj7"
             },
             {
               "bar": 2,
@@ -36088,6 +37899,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Dbm6",
+                  "display_symbol": "D♭-6",
                   "root": "Db",
                   "quality": "m6",
                   "extensions": [],
@@ -36101,7 +37913,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm6"
             },
             {
               "bar": 3,
@@ -36110,6 +37923,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -36123,7 +37937,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 4,
@@ -36132,6 +37947,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -36145,7 +37961,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 5,
@@ -36154,6 +37971,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -36167,7 +37985,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 6,
@@ -36176,6 +37995,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -36189,7 +38009,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 7,
@@ -36198,6 +38019,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -36211,7 +38033,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 8,
@@ -36220,6 +38043,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -36233,7 +38057,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 9,
@@ -36242,6 +38067,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -36255,7 +38081,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 10,
@@ -36264,6 +38091,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -36277,7 +38105,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 11,
@@ -36286,6 +38115,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -36299,7 +38129,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 12,
@@ -36308,6 +38139,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -36321,7 +38153,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 13,
@@ -36330,6 +38163,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -36343,7 +38177,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 14,
@@ -36352,6 +38187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Ab7(b9)",
+                  "display_symbol": "A♭7♭9",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [
@@ -36367,7 +38203,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7(b9)"
             },
             {
               "bar": 15,
@@ -36376,6 +38213,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dbm6",
+                  "display_symbol": "D♭-6",
                   "root": "Db",
                   "quality": "m6",
                   "extensions": [],
@@ -36389,7 +38227,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm6"
             }
           ],
           "chords": [
@@ -36397,6 +38236,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dbmmaj7",
+              "display_symbol": "D♭-△7",
               "root": "Db",
               "quality": "mmaj7",
               "extensions": [],
@@ -36408,6 +38248,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Dbm6",
+              "display_symbol": "D♭-6",
               "root": "Db",
               "quality": "m6",
               "extensions": [],
@@ -36419,6 +38260,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -36430,6 +38272,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -36441,6 +38284,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -36452,6 +38296,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -36463,6 +38308,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -36474,6 +38320,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -36485,6 +38332,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -36496,6 +38344,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -36507,6 +38356,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -36518,6 +38368,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -36529,6 +38380,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -36540,6 +38392,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Ab7(b9)",
+              "display_symbol": "A♭7♭9",
               "root": "Ab",
               "quality": "7",
               "extensions": [
@@ -36553,6 +38406,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dbm6",
+              "display_symbol": "D♭-6",
               "root": "Db",
               "quality": "m6",
               "extensions": [],
@@ -36974,6 +38828,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dmmaj7",
+                  "display_symbol": "D-△7",
                   "root": "D",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -36987,7 +38842,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmmaj7"
             },
             {
               "bar": 2,
@@ -36996,6 +38852,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Dm6",
+                  "display_symbol": "D-6",
                   "root": "D",
                   "quality": "m6",
                   "extensions": [],
@@ -37009,7 +38866,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm6"
             },
             {
               "bar": 3,
@@ -37018,6 +38876,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -37031,7 +38890,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 4,
@@ -37040,6 +38900,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -37053,7 +38914,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 5,
@@ -37062,6 +38924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -37075,7 +38938,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 6,
@@ -37084,6 +38948,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -37097,7 +38962,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 7,
@@ -37106,6 +38972,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -37119,7 +38986,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 8,
@@ -37128,6 +38996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -37141,7 +39010,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 9,
@@ -37150,6 +39020,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -37163,7 +39034,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 10,
@@ -37172,6 +39044,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -37185,7 +39058,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 11,
@@ -37194,6 +39068,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -37207,7 +39082,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 12,
@@ -37216,6 +39092,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -37229,7 +39106,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 13,
@@ -37238,6 +39116,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -37251,7 +39130,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 14,
@@ -37260,6 +39140,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "A7(b9)",
+                  "display_symbol": "A7♭9",
                   "root": "A",
                   "quality": "7",
                   "extensions": [
@@ -37275,7 +39156,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7(b9)"
             },
             {
               "bar": 15,
@@ -37284,6 +39166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dm6",
+                  "display_symbol": "D-6",
                   "root": "D",
                   "quality": "m6",
                   "extensions": [],
@@ -37297,7 +39180,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm6"
             }
           ],
           "chords": [
@@ -37305,6 +39189,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dmmaj7",
+              "display_symbol": "D-△7",
               "root": "D",
               "quality": "mmaj7",
               "extensions": [],
@@ -37316,6 +39201,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Dm6",
+              "display_symbol": "D-6",
               "root": "D",
               "quality": "m6",
               "extensions": [],
@@ -37327,6 +39213,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -37338,6 +39225,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -37349,6 +39237,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -37360,6 +39249,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -37371,6 +39261,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -37382,6 +39273,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -37393,6 +39285,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -37404,6 +39297,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -37415,6 +39309,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -37426,6 +39321,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -37437,6 +39333,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -37448,6 +39345,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "A7(b9)",
+              "display_symbol": "A7♭9",
               "root": "A",
               "quality": "7",
               "extensions": [
@@ -37461,6 +39359,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dm6",
+              "display_symbol": "D-6",
               "root": "D",
               "quality": "m6",
               "extensions": [],
@@ -37882,6 +39781,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Ebmmaj7",
+                  "display_symbol": "E♭-△7",
                   "root": "Eb",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -37895,7 +39795,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmmaj7"
             },
             {
               "bar": 2,
@@ -37904,6 +39805,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Ebm6",
+                  "display_symbol": "E♭-6",
                   "root": "Eb",
                   "quality": "m6",
                   "extensions": [],
@@ -37917,7 +39819,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm6"
             },
             {
               "bar": 3,
@@ -37926,6 +39829,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -37939,7 +39843,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 4,
@@ -37948,6 +39853,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -37961,7 +39867,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 5,
@@ -37970,6 +39877,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -37983,7 +39891,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 6,
@@ -37992,6 +39901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -38005,7 +39915,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 7,
@@ -38014,6 +39925,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -38027,7 +39939,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 8,
@@ -38036,6 +39949,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -38049,7 +39963,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 9,
@@ -38058,6 +39973,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -38071,7 +39987,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 10,
@@ -38080,6 +39997,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -38093,7 +40011,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 11,
@@ -38102,6 +40021,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -38115,7 +40035,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 12,
@@ -38124,6 +40045,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -38137,7 +40059,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 13,
@@ -38146,6 +40069,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -38159,7 +40083,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 14,
@@ -38168,6 +40093,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Bb7(b9)",
+                  "display_symbol": "B♭7♭9",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [
@@ -38183,7 +40109,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7(b9)"
             },
             {
               "bar": 15,
@@ -38192,6 +40119,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Ebm6",
+                  "display_symbol": "E♭-6",
                   "root": "Eb",
                   "quality": "m6",
                   "extensions": [],
@@ -38205,7 +40133,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm6"
             }
           ],
           "chords": [
@@ -38213,6 +40142,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Ebmmaj7",
+              "display_symbol": "E♭-△7",
               "root": "Eb",
               "quality": "mmaj7",
               "extensions": [],
@@ -38224,6 +40154,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Ebm6",
+              "display_symbol": "E♭-6",
               "root": "Eb",
               "quality": "m6",
               "extensions": [],
@@ -38235,6 +40166,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -38246,6 +40178,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -38257,6 +40190,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -38268,6 +40202,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -38279,6 +40214,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -38290,6 +40226,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -38301,6 +40238,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -38312,6 +40250,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -38323,6 +40262,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -38334,6 +40274,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -38345,6 +40286,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -38356,6 +40298,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Bb7(b9)",
+              "display_symbol": "B♭7♭9",
               "root": "Bb",
               "quality": "7",
               "extensions": [
@@ -38369,6 +40312,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Ebm6",
+              "display_symbol": "E♭-6",
               "root": "Eb",
               "quality": "m6",
               "extensions": [],
@@ -38790,6 +40734,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Emmaj7",
+                  "display_symbol": "E-△7",
                   "root": "E",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -38803,7 +40748,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emmaj7"
             },
             {
               "bar": 2,
@@ -38812,6 +40758,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Em6",
+                  "display_symbol": "E-6",
                   "root": "E",
                   "quality": "m6",
                   "extensions": [],
@@ -38825,7 +40772,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em6"
             },
             {
               "bar": 3,
@@ -38834,6 +40782,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -38847,7 +40796,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 4,
@@ -38856,6 +40806,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -38869,7 +40820,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 5,
@@ -38878,6 +40830,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -38891,7 +40844,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 6,
@@ -38900,6 +40854,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -38913,7 +40868,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 7,
@@ -38922,6 +40878,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -38935,7 +40892,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 8,
@@ -38944,6 +40902,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -38957,7 +40916,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 9,
@@ -38966,6 +40926,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -38979,7 +40940,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 10,
@@ -38988,6 +40950,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -39001,7 +40964,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 11,
@@ -39010,6 +40974,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -39023,7 +40988,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 12,
@@ -39032,6 +40998,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -39045,7 +41012,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 13,
@@ -39054,6 +41022,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -39067,7 +41036,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 14,
@@ -39076,6 +41046,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "B7(b9)",
+                  "display_symbol": "B7♭9",
                   "root": "B",
                   "quality": "7",
                   "extensions": [
@@ -39091,7 +41062,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7(b9)"
             },
             {
               "bar": 15,
@@ -39100,6 +41072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Em6",
+                  "display_symbol": "E-6",
                   "root": "E",
                   "quality": "m6",
                   "extensions": [],
@@ -39113,7 +41086,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em6"
             }
           ],
           "chords": [
@@ -39121,6 +41095,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Emmaj7",
+              "display_symbol": "E-△7",
               "root": "E",
               "quality": "mmaj7",
               "extensions": [],
@@ -39132,6 +41107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Em6",
+              "display_symbol": "E-6",
               "root": "E",
               "quality": "m6",
               "extensions": [],
@@ -39143,6 +41119,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -39154,6 +41131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -39165,6 +41143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -39176,6 +41155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -39187,6 +41167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -39198,6 +41179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -39209,6 +41191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -39220,6 +41203,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -39231,6 +41215,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -39242,6 +41227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -39253,6 +41239,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -39264,6 +41251,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "B7(b9)",
+              "display_symbol": "B7♭9",
               "root": "B",
               "quality": "7",
               "extensions": [
@@ -39277,6 +41265,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Em6",
+              "display_symbol": "E-6",
               "root": "E",
               "quality": "m6",
               "extensions": [],
@@ -39698,6 +41687,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Fmmaj7",
+                  "display_symbol": "F-△7",
                   "root": "F",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -39711,7 +41701,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmmaj7"
             },
             {
               "bar": 2,
@@ -39720,6 +41711,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Fm6",
+                  "display_symbol": "F-6",
                   "root": "F",
                   "quality": "m6",
                   "extensions": [],
@@ -39733,7 +41725,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm6"
             },
             {
               "bar": 3,
@@ -39742,6 +41735,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -39755,7 +41749,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 4,
@@ -39764,6 +41759,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -39777,7 +41773,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 5,
@@ -39786,6 +41783,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -39799,7 +41797,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 6,
@@ -39808,6 +41807,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -39821,7 +41821,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 7,
@@ -39830,6 +41831,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -39843,7 +41845,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 8,
@@ -39852,6 +41855,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -39865,7 +41869,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 9,
@@ -39874,6 +41879,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -39887,7 +41893,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 10,
@@ -39896,6 +41903,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -39909,7 +41917,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 11,
@@ -39918,6 +41927,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -39931,7 +41941,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 12,
@@ -39940,6 +41951,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -39953,7 +41965,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 13,
@@ -39962,6 +41975,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -39975,7 +41989,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 14,
@@ -39984,6 +41999,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "C7(b9)",
+                  "display_symbol": "C7♭9",
                   "root": "C",
                   "quality": "7",
                   "extensions": [
@@ -39999,7 +42015,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7(b9)"
             },
             {
               "bar": 15,
@@ -40008,6 +42025,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Fm6",
+                  "display_symbol": "F-6",
                   "root": "F",
                   "quality": "m6",
                   "extensions": [],
@@ -40021,7 +42039,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm6"
             }
           ],
           "chords": [
@@ -40029,6 +42048,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Fmmaj7",
+              "display_symbol": "F-△7",
               "root": "F",
               "quality": "mmaj7",
               "extensions": [],
@@ -40040,6 +42060,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Fm6",
+              "display_symbol": "F-6",
               "root": "F",
               "quality": "m6",
               "extensions": [],
@@ -40051,6 +42072,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -40062,6 +42084,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -40073,6 +42096,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -40084,6 +42108,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -40095,6 +42120,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -40106,6 +42132,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -40117,6 +42144,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -40128,6 +42156,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -40139,6 +42168,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -40150,6 +42180,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -40161,6 +42192,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -40172,6 +42204,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "C7(b9)",
+              "display_symbol": "C7♭9",
               "root": "C",
               "quality": "7",
               "extensions": [
@@ -40185,6 +42218,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Fm6",
+              "display_symbol": "F-6",
               "root": "F",
               "quality": "m6",
               "extensions": [],
@@ -40606,6 +42640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gbmmaj7",
+                  "display_symbol": "G♭-△7",
                   "root": "Gb",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -40619,7 +42654,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmmaj7"
             },
             {
               "bar": 2,
@@ -40628,6 +42664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gbm6",
+                  "display_symbol": "G♭-6",
                   "root": "Gb",
                   "quality": "m6",
                   "extensions": [],
@@ -40641,7 +42678,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm6"
             },
             {
               "bar": 3,
@@ -40650,6 +42688,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -40663,7 +42702,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 4,
@@ -40672,6 +42712,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -40685,7 +42726,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 5,
@@ -40694,6 +42736,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -40707,7 +42750,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 6,
@@ -40716,6 +42760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -40729,7 +42774,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 7,
@@ -40738,6 +42784,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -40751,7 +42798,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 8,
@@ -40760,6 +42808,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -40773,7 +42822,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 9,
@@ -40782,6 +42832,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -40795,7 +42846,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 10,
@@ -40804,6 +42856,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -40817,7 +42870,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 11,
@@ -40826,6 +42880,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -40839,7 +42894,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 12,
@@ -40848,6 +42904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -40861,7 +42918,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 13,
@@ -40870,6 +42928,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -40883,7 +42942,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 14,
@@ -40892,6 +42952,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Db7(b9)",
+                  "display_symbol": "D♭7♭9",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [
@@ -40907,7 +42968,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7(b9)"
             },
             {
               "bar": 15,
@@ -40916,6 +42978,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gbm6",
+                  "display_symbol": "G♭-6",
                   "root": "Gb",
                   "quality": "m6",
                   "extensions": [],
@@ -40929,7 +42992,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm6"
             }
           ],
           "chords": [
@@ -40937,6 +43001,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gbmmaj7",
+              "display_symbol": "G♭-△7",
               "root": "Gb",
               "quality": "mmaj7",
               "extensions": [],
@@ -40948,6 +43013,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gbm6",
+              "display_symbol": "G♭-6",
               "root": "Gb",
               "quality": "m6",
               "extensions": [],
@@ -40959,6 +43025,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -40970,6 +43037,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -40981,6 +43049,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -40992,6 +43061,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -41003,6 +43073,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -41014,6 +43085,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -41025,6 +43097,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -41036,6 +43109,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -41047,6 +43121,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -41058,6 +43133,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -41069,6 +43145,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -41080,6 +43157,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Db7(b9)",
+              "display_symbol": "D♭7♭9",
               "root": "Db",
               "quality": "7",
               "extensions": [
@@ -41093,6 +43171,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gbm6",
+              "display_symbol": "G♭-6",
               "root": "Gb",
               "quality": "m6",
               "extensions": [],
@@ -41514,6 +43593,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gmmaj7",
+                  "display_symbol": "G-△7",
                   "root": "G",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -41527,7 +43607,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmmaj7"
             },
             {
               "bar": 2,
@@ -41536,6 +43617,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gm6",
+                  "display_symbol": "G-6",
                   "root": "G",
                   "quality": "m6",
                   "extensions": [],
@@ -41549,7 +43631,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm6"
             },
             {
               "bar": 3,
@@ -41558,6 +43641,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -41571,7 +43655,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 4,
@@ -41580,6 +43665,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -41593,7 +43679,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 5,
@@ -41602,6 +43689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -41615,7 +43703,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 6,
@@ -41624,6 +43713,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -41637,7 +43727,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 7,
@@ -41646,6 +43737,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -41659,7 +43751,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 8,
@@ -41668,6 +43761,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -41681,7 +43775,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 9,
@@ -41690,6 +43785,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -41703,7 +43799,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 10,
@@ -41712,6 +43809,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -41725,7 +43823,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 11,
@@ -41734,6 +43833,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -41747,7 +43847,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 12,
@@ -41756,6 +43857,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -41769,7 +43871,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 13,
@@ -41778,6 +43881,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -41791,7 +43895,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 14,
@@ -41800,6 +43905,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "D7(b9)",
+                  "display_symbol": "D7♭9",
                   "root": "D",
                   "quality": "7",
                   "extensions": [
@@ -41815,7 +43921,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7(b9)"
             },
             {
               "bar": 15,
@@ -41824,6 +43931,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gm6",
+                  "display_symbol": "G-6",
                   "root": "G",
                   "quality": "m6",
                   "extensions": [],
@@ -41837,7 +43945,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm6"
             }
           ],
           "chords": [
@@ -41845,6 +43954,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gmmaj7",
+              "display_symbol": "G-△7",
               "root": "G",
               "quality": "mmaj7",
               "extensions": [],
@@ -41856,6 +43966,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gm6",
+              "display_symbol": "G-6",
               "root": "G",
               "quality": "m6",
               "extensions": [],
@@ -41867,6 +43978,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -41878,6 +43990,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -41889,6 +44002,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -41900,6 +44014,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -41911,6 +44026,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -41922,6 +44038,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -41933,6 +44050,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -41944,6 +44062,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -41955,6 +44074,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -41966,6 +44086,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -41977,6 +44098,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -41988,6 +44110,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "D7(b9)",
+              "display_symbol": "D7♭9",
               "root": "D",
               "quality": "7",
               "extensions": [
@@ -42001,6 +44124,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gm6",
+              "display_symbol": "G-6",
               "root": "G",
               "quality": "m6",
               "extensions": [],
@@ -42422,6 +44546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Abmmaj7",
+                  "display_symbol": "A♭-△7",
                   "root": "Ab",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -42435,7 +44560,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmmaj7"
             },
             {
               "bar": 2,
@@ -42444,6 +44570,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Abm6",
+                  "display_symbol": "A♭-6",
                   "root": "Ab",
                   "quality": "m6",
                   "extensions": [],
@@ -42457,7 +44584,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm6"
             },
             {
               "bar": 3,
@@ -42466,6 +44594,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -42479,7 +44608,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 4,
@@ -42488,6 +44618,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -42501,7 +44632,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 5,
@@ -42510,6 +44642,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -42523,7 +44656,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 6,
@@ -42532,6 +44666,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -42545,7 +44680,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 7,
@@ -42554,6 +44690,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -42567,7 +44704,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 8,
@@ -42576,6 +44714,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -42589,7 +44728,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 9,
@@ -42598,6 +44738,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -42611,7 +44752,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 10,
@@ -42620,6 +44762,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -42633,7 +44776,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 11,
@@ -42642,6 +44786,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -42655,7 +44800,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 12,
@@ -42664,6 +44810,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -42677,7 +44824,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 13,
@@ -42686,6 +44834,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -42699,7 +44848,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 14,
@@ -42708,6 +44858,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Eb7(b9)",
+                  "display_symbol": "E♭7♭9",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [
@@ -42723,7 +44874,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7(b9)"
             },
             {
               "bar": 15,
@@ -42732,6 +44884,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Abm6",
+                  "display_symbol": "A♭-6",
                   "root": "Ab",
                   "quality": "m6",
                   "extensions": [],
@@ -42745,7 +44898,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm6"
             }
           ],
           "chords": [
@@ -42753,6 +44907,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Abmmaj7",
+              "display_symbol": "A♭-△7",
               "root": "Ab",
               "quality": "mmaj7",
               "extensions": [],
@@ -42764,6 +44919,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Abm6",
+              "display_symbol": "A♭-6",
               "root": "Ab",
               "quality": "m6",
               "extensions": [],
@@ -42775,6 +44931,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -42786,6 +44943,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -42797,6 +44955,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -42808,6 +44967,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -42819,6 +44979,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -42830,6 +44991,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -42841,6 +45003,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -42852,6 +45015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -42863,6 +45027,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -42874,6 +45039,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -42885,6 +45051,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -42896,6 +45063,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Eb7(b9)",
+              "display_symbol": "E♭7♭9",
               "root": "Eb",
               "quality": "7",
               "extensions": [
@@ -42909,6 +45077,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Abm6",
+              "display_symbol": "A♭-6",
               "root": "Ab",
               "quality": "m6",
               "extensions": [],
@@ -43330,6 +45499,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Ammaj7",
+                  "display_symbol": "A-△7",
                   "root": "A",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -43343,7 +45513,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ammaj7"
             },
             {
               "bar": 2,
@@ -43352,6 +45523,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Am6",
+                  "display_symbol": "A-6",
                   "root": "A",
                   "quality": "m6",
                   "extensions": [],
@@ -43365,7 +45537,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am6"
             },
             {
               "bar": 3,
@@ -43374,6 +45547,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -43387,7 +45561,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 4,
@@ -43396,6 +45571,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -43409,7 +45585,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 5,
@@ -43418,6 +45595,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -43431,7 +45609,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 6,
@@ -43440,6 +45619,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -43453,7 +45633,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 7,
@@ -43462,6 +45643,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -43475,7 +45657,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 8,
@@ -43484,6 +45667,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -43497,7 +45681,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 9,
@@ -43506,6 +45691,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -43519,7 +45705,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 10,
@@ -43528,6 +45715,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -43541,7 +45729,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 11,
@@ -43550,6 +45739,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -43563,7 +45753,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 12,
@@ -43572,6 +45763,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -43585,7 +45777,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 13,
@@ -43594,6 +45787,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -43607,7 +45801,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 14,
@@ -43616,6 +45811,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "E7(b9)",
+                  "display_symbol": "E7♭9",
                   "root": "E",
                   "quality": "7",
                   "extensions": [
@@ -43631,7 +45827,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7(b9)"
             },
             {
               "bar": 15,
@@ -43640,6 +45837,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Am6",
+                  "display_symbol": "A-6",
                   "root": "A",
                   "quality": "m6",
                   "extensions": [],
@@ -43653,7 +45851,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am6"
             }
           ],
           "chords": [
@@ -43661,6 +45860,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Ammaj7",
+              "display_symbol": "A-△7",
               "root": "A",
               "quality": "mmaj7",
               "extensions": [],
@@ -43672,6 +45872,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Am6",
+              "display_symbol": "A-6",
               "root": "A",
               "quality": "m6",
               "extensions": [],
@@ -43683,6 +45884,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -43694,6 +45896,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -43705,6 +45908,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -43716,6 +45920,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -43727,6 +45932,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -43738,6 +45944,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -43749,6 +45956,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -43760,6 +45968,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -43771,6 +45980,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -43782,6 +45992,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -43793,6 +46004,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -43804,6 +46016,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "E7(b9)",
+              "display_symbol": "E7♭9",
               "root": "E",
               "quality": "7",
               "extensions": [
@@ -43817,6 +46030,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Am6",
+              "display_symbol": "A-6",
               "root": "A",
               "quality": "m6",
               "extensions": [],
@@ -44238,6 +46452,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bbmmaj7",
+                  "display_symbol": "B♭-△7",
                   "root": "Bb",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -44251,7 +46466,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmmaj7"
             },
             {
               "bar": 2,
@@ -44260,6 +46476,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bbm6",
+                  "display_symbol": "B♭-6",
                   "root": "Bb",
                   "quality": "m6",
                   "extensions": [],
@@ -44273,7 +46490,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm6"
             },
             {
               "bar": 3,
@@ -44282,6 +46500,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -44295,7 +46514,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 4,
@@ -44304,6 +46524,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -44317,7 +46538,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 5,
@@ -44326,6 +46548,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -44339,7 +46562,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 6,
@@ -44348,6 +46572,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -44361,7 +46586,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 7,
@@ -44370,6 +46596,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -44383,7 +46610,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 8,
@@ -44392,6 +46620,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -44405,7 +46634,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 9,
@@ -44414,6 +46644,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -44427,7 +46658,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 10,
@@ -44436,6 +46668,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -44449,7 +46682,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 11,
@@ -44458,6 +46692,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -44471,7 +46706,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 12,
@@ -44480,6 +46716,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -44493,7 +46730,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 13,
@@ -44502,6 +46740,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -44515,7 +46754,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 14,
@@ -44524,6 +46764,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "F7(b9)",
+                  "display_symbol": "F7♭9",
                   "root": "F",
                   "quality": "7",
                   "extensions": [
@@ -44539,7 +46780,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7(b9)"
             },
             {
               "bar": 15,
@@ -44548,6 +46790,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bbm6",
+                  "display_symbol": "B♭-6",
                   "root": "Bb",
                   "quality": "m6",
                   "extensions": [],
@@ -44561,7 +46804,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm6"
             }
           ],
           "chords": [
@@ -44569,6 +46813,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bbmmaj7",
+              "display_symbol": "B♭-△7",
               "root": "Bb",
               "quality": "mmaj7",
               "extensions": [],
@@ -44580,6 +46825,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bbm6",
+              "display_symbol": "B♭-6",
               "root": "Bb",
               "quality": "m6",
               "extensions": [],
@@ -44591,6 +46837,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -44602,6 +46849,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -44613,6 +46861,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -44624,6 +46873,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -44635,6 +46885,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -44646,6 +46897,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -44657,6 +46909,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -44668,6 +46921,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -44679,6 +46933,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -44690,6 +46945,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -44701,6 +46957,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -44712,6 +46969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "F7(b9)",
+              "display_symbol": "F7♭9",
               "root": "F",
               "quality": "7",
               "extensions": [
@@ -44725,6 +46983,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bbm6",
+              "display_symbol": "B♭-6",
               "root": "Bb",
               "quality": "m6",
               "extensions": [],
@@ -45146,6 +47405,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bmmaj7",
+                  "display_symbol": "B-△7",
                   "root": "B",
                   "quality": "mmaj7",
                   "extensions": [],
@@ -45159,7 +47419,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmmaj7"
             },
             {
               "bar": 2,
@@ -45168,6 +47429,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bm6",
+                  "display_symbol": "B-6",
                   "root": "B",
                   "quality": "m6",
                   "extensions": [],
@@ -45181,7 +47443,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm6"
             },
             {
               "bar": 3,
@@ -45190,6 +47453,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -45203,7 +47467,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 4,
@@ -45212,6 +47477,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -45225,7 +47491,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 5,
@@ -45234,6 +47501,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -45247,7 +47515,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 6,
@@ -45256,6 +47525,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -45269,7 +47539,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 7,
@@ -45278,6 +47549,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -45291,7 +47563,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 8,
@@ -45300,6 +47573,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -45313,7 +47587,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 9,
@@ -45322,6 +47597,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -45335,7 +47611,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 10,
@@ -45344,6 +47621,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -45357,7 +47635,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 11,
@@ -45366,6 +47645,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -45379,7 +47659,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 12,
@@ -45388,6 +47669,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -45401,7 +47683,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 13,
@@ -45410,6 +47693,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -45423,7 +47707,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 14,
@@ -45432,6 +47717,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Gb7(b9)",
+                  "display_symbol": "G♭7♭9",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [
@@ -45447,7 +47733,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7(b9)"
             },
             {
               "bar": 15,
@@ -45456,6 +47743,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bm6",
+                  "display_symbol": "B-6",
                   "root": "B",
                   "quality": "m6",
                   "extensions": [],
@@ -45469,7 +47757,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm6"
             }
           ],
           "chords": [
@@ -45477,6 +47766,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bmmaj7",
+              "display_symbol": "B-△7",
               "root": "B",
               "quality": "mmaj7",
               "extensions": [],
@@ -45488,6 +47778,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bm6",
+              "display_symbol": "B-6",
               "root": "B",
               "quality": "m6",
               "extensions": [],
@@ -45499,6 +47790,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -45510,6 +47802,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -45521,6 +47814,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -45532,6 +47826,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -45543,6 +47838,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -45554,6 +47850,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -45565,6 +47862,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -45576,6 +47874,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -45587,6 +47886,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -45598,6 +47898,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -45609,6 +47910,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -45620,6 +47922,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Gb7(b9)",
+              "display_symbol": "G♭7♭9",
               "root": "Gb",
               "quality": "7",
               "extensions": [
@@ -45633,6 +47936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bm6",
+              "display_symbol": "B-6",
               "root": "B",
               "quality": "m6",
               "extensions": [],
@@ -46066,6 +48370,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -46079,7 +48384,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 2,
@@ -46088,6 +48394,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -46101,7 +48408,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 3,
@@ -46110,6 +48418,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -46123,7 +48432,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 4,
@@ -46132,6 +48442,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -46145,7 +48456,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 5,
@@ -46154,6 +48466,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -46167,7 +48480,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 6,
@@ -46176,6 +48490,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -46189,7 +48504,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 7,
@@ -46198,6 +48514,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -46211,7 +48528,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 8,
@@ -46220,6 +48538,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -46233,7 +48552,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 9,
@@ -46242,6 +48562,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -46255,7 +48576,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 10,
@@ -46264,6 +48586,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -46277,7 +48600,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 11,
@@ -46286,6 +48610,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -46299,7 +48624,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 12,
@@ -46308,6 +48634,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -46321,7 +48648,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 13,
@@ -46330,6 +48658,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Am7b5",
+                  "display_symbol": "Aø7",
                   "root": "A",
                   "quality": "m7b5",
                   "extensions": [],
@@ -46343,7 +48672,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7b5"
             },
             {
               "bar": 14,
@@ -46352,6 +48682,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -46365,7 +48696,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 15,
@@ -46374,6 +48706,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -46387,7 +48720,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 16,
@@ -46396,6 +48730,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -46409,7 +48744,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 17,
@@ -46418,6 +48754,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -46431,7 +48768,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 18,
@@ -46440,6 +48778,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -46453,7 +48792,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 19,
@@ -46462,6 +48802,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -46475,7 +48816,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 20,
@@ -46484,6 +48826,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -46497,7 +48840,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             }
           ],
           "chords": [
@@ -46505,6 +48849,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -46516,6 +48861,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -46527,6 +48873,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -46538,6 +48885,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -46549,6 +48897,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -46560,6 +48909,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -46571,6 +48921,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -46582,6 +48933,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -46593,6 +48945,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -46604,6 +48957,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -46615,6 +48969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -46626,6 +48981,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -46637,6 +48993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Am7b5",
+              "display_symbol": "Aø7",
               "root": "A",
               "quality": "m7b5",
               "extensions": [],
@@ -46648,6 +49005,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -46659,6 +49017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -46670,6 +49029,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -46681,6 +49041,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -46692,6 +49053,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -46703,6 +49065,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -46714,6 +49077,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -47221,6 +49585,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -47234,7 +49599,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 2,
@@ -47243,6 +49609,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -47256,7 +49623,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 3,
@@ -47265,6 +49633,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -47278,7 +49647,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 4,
@@ -47287,6 +49657,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -47300,7 +49671,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 5,
@@ -47309,6 +49681,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -47322,7 +49695,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 6,
@@ -47331,6 +49705,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -47344,7 +49719,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 7,
@@ -47353,6 +49729,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -47366,7 +49743,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 8,
@@ -47375,6 +49753,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -47388,7 +49767,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 9,
@@ -47397,6 +49777,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -47410,7 +49791,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 10,
@@ -47419,6 +49801,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -47432,7 +49815,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 11,
@@ -47441,6 +49825,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -47454,7 +49839,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 12,
@@ -47463,6 +49849,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -47476,7 +49863,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 13,
@@ -47485,6 +49873,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bbm7b5",
+                  "display_symbol": "B♭ø7",
                   "root": "Bb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -47498,7 +49887,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7b5"
             },
             {
               "bar": 14,
@@ -47507,6 +49897,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -47520,7 +49911,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 15,
@@ -47529,6 +49921,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -47542,7 +49935,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 16,
@@ -47551,6 +49945,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -47564,7 +49959,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 17,
@@ -47573,6 +49969,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -47586,7 +49983,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 18,
@@ -47595,6 +49993,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -47608,7 +50007,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 19,
@@ -47617,6 +50017,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -47630,7 +50031,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 20,
@@ -47639,6 +50041,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -47652,7 +50055,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             }
           ],
           "chords": [
@@ -47660,6 +50064,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -47671,6 +50076,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -47682,6 +50088,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -47693,6 +50100,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -47704,6 +50112,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -47715,6 +50124,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -47726,6 +50136,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -47737,6 +50148,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -47748,6 +50160,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -47759,6 +50172,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -47770,6 +50184,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -47781,6 +50196,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -47792,6 +50208,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bbm7b5",
+              "display_symbol": "B♭ø7",
               "root": "Bb",
               "quality": "m7b5",
               "extensions": [],
@@ -47803,6 +50220,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -47814,6 +50232,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -47825,6 +50244,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -47836,6 +50256,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -47847,6 +50268,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -47858,6 +50280,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -47869,6 +50292,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -48376,6 +50800,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -48389,7 +50814,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 2,
@@ -48398,6 +50824,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -48411,7 +50838,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 3,
@@ -48420,6 +50848,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -48433,7 +50862,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 4,
@@ -48442,6 +50872,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -48455,7 +50886,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 5,
@@ -48464,6 +50896,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -48477,7 +50910,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 6,
@@ -48486,6 +50920,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -48499,7 +50934,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 7,
@@ -48508,6 +50944,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -48521,7 +50958,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 8,
@@ -48530,6 +50968,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -48543,7 +50982,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 9,
@@ -48552,6 +50992,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -48565,7 +51006,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 10,
@@ -48574,6 +51016,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -48587,7 +51030,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 11,
@@ -48596,6 +51040,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -48609,7 +51054,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 12,
@@ -48618,6 +51064,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -48631,7 +51078,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 13,
@@ -48640,6 +51088,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Bm7b5",
+                  "display_symbol": "Bø7",
                   "root": "B",
                   "quality": "m7b5",
                   "extensions": [],
@@ -48653,7 +51102,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7b5"
             },
             {
               "bar": 14,
@@ -48662,6 +51112,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -48675,7 +51126,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 15,
@@ -48684,6 +51136,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -48697,7 +51150,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 16,
@@ -48706,6 +51160,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -48719,7 +51174,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 17,
@@ -48728,6 +51184,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -48741,7 +51198,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 18,
@@ -48750,6 +51208,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -48763,7 +51222,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 19,
@@ -48772,6 +51232,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -48785,7 +51246,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 20,
@@ -48794,6 +51256,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -48807,7 +51270,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             }
           ],
           "chords": [
@@ -48815,6 +51279,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -48826,6 +51291,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -48837,6 +51303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -48848,6 +51315,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -48859,6 +51327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -48870,6 +51339,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -48881,6 +51351,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -48892,6 +51363,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -48903,6 +51375,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -48914,6 +51387,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -48925,6 +51399,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -48936,6 +51411,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -48947,6 +51423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Bm7b5",
+              "display_symbol": "Bø7",
               "root": "B",
               "quality": "m7b5",
               "extensions": [],
@@ -48958,6 +51435,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -48969,6 +51447,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -48980,6 +51459,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -48991,6 +51471,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -49002,6 +51483,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -49013,6 +51495,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -49024,6 +51507,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -49531,6 +52015,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -49544,7 +52029,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 2,
@@ -49553,6 +52039,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -49566,7 +52053,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 3,
@@ -49575,6 +52063,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -49588,7 +52077,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 4,
@@ -49597,6 +52087,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -49610,7 +52101,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 5,
@@ -49619,6 +52111,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -49632,7 +52125,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 6,
@@ -49641,6 +52135,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -49654,7 +52149,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 7,
@@ -49663,6 +52159,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -49676,7 +52173,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 8,
@@ -49685,6 +52183,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -49698,7 +52197,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 9,
@@ -49707,6 +52207,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -49720,7 +52221,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 10,
@@ -49729,6 +52231,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -49742,7 +52245,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 11,
@@ -49751,6 +52255,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -49764,7 +52269,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 12,
@@ -49773,6 +52279,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -49786,7 +52293,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 13,
@@ -49795,6 +52303,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Cm7b5",
+                  "display_symbol": "Cø7",
                   "root": "C",
                   "quality": "m7b5",
                   "extensions": [],
@@ -49808,7 +52317,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7b5"
             },
             {
               "bar": 14,
@@ -49817,6 +52327,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -49830,7 +52341,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 15,
@@ -49839,6 +52351,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -49852,7 +52365,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 16,
@@ -49861,6 +52375,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -49874,7 +52389,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 17,
@@ -49883,6 +52399,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -49896,7 +52413,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 18,
@@ -49905,6 +52423,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -49918,7 +52437,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 19,
@@ -49927,6 +52447,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -49940,7 +52461,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 20,
@@ -49949,6 +52471,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -49962,7 +52485,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             }
           ],
           "chords": [
@@ -49970,6 +52494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -49981,6 +52506,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -49992,6 +52518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -50003,6 +52530,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -50014,6 +52542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -50025,6 +52554,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -50036,6 +52566,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -50047,6 +52578,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -50058,6 +52590,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -50069,6 +52602,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -50080,6 +52614,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -50091,6 +52626,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -50102,6 +52638,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Cm7b5",
+              "display_symbol": "Cø7",
               "root": "C",
               "quality": "m7b5",
               "extensions": [],
@@ -50113,6 +52650,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -50124,6 +52662,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -50135,6 +52674,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -50146,6 +52686,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -50157,6 +52698,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -50168,6 +52710,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -50179,6 +52722,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -50686,6 +53230,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -50699,7 +53244,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 2,
@@ -50708,6 +53254,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -50721,7 +53268,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 3,
@@ -50730,6 +53278,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -50743,7 +53292,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 4,
@@ -50752,6 +53302,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -50765,7 +53316,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 5,
@@ -50774,6 +53326,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -50787,7 +53340,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 6,
@@ -50796,6 +53350,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -50809,7 +53364,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 7,
@@ -50818,6 +53374,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -50831,7 +53388,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 8,
@@ -50840,6 +53398,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -50853,7 +53412,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 9,
@@ -50862,6 +53422,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -50875,7 +53436,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 10,
@@ -50884,6 +53446,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -50897,7 +53460,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 11,
@@ -50906,6 +53470,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -50919,7 +53484,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 12,
@@ -50928,6 +53494,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -50941,7 +53508,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 13,
@@ -50950,6 +53518,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dbm7b5",
+                  "display_symbol": "D♭ø7",
                   "root": "Db",
                   "quality": "m7b5",
                   "extensions": [],
@@ -50963,7 +53532,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7b5"
             },
             {
               "bar": 14,
@@ -50972,6 +53542,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -50985,7 +53556,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 15,
@@ -50994,6 +53566,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -51007,7 +53580,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 16,
@@ -51016,6 +53590,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -51029,7 +53604,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 17,
@@ -51038,6 +53614,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -51051,7 +53628,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 18,
@@ -51060,6 +53638,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -51073,7 +53652,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 19,
@@ -51082,6 +53662,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -51095,7 +53676,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 20,
@@ -51104,6 +53686,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -51117,7 +53700,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             }
           ],
           "chords": [
@@ -51125,6 +53709,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -51136,6 +53721,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -51147,6 +53733,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -51158,6 +53745,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -51169,6 +53757,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -51180,6 +53769,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -51191,6 +53781,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -51202,6 +53793,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -51213,6 +53805,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -51224,6 +53817,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -51235,6 +53829,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -51246,6 +53841,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -51257,6 +53853,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dbm7b5",
+              "display_symbol": "D♭ø7",
               "root": "Db",
               "quality": "m7b5",
               "extensions": [],
@@ -51268,6 +53865,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -51279,6 +53877,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -51290,6 +53889,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -51301,6 +53901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -51312,6 +53913,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -51323,6 +53925,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -51334,6 +53937,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -51841,6 +54445,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -51854,7 +54459,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 2,
@@ -51863,6 +54469,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -51876,7 +54483,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 3,
@@ -51885,6 +54493,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -51898,7 +54507,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 4,
@@ -51907,6 +54517,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -51920,7 +54531,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 5,
@@ -51929,6 +54541,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -51942,7 +54555,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 6,
@@ -51951,6 +54565,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -51964,7 +54579,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 7,
@@ -51973,6 +54589,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -51986,7 +54603,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 8,
@@ -51995,6 +54613,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -52008,7 +54627,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 9,
@@ -52017,6 +54637,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -52030,7 +54651,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 10,
@@ -52039,6 +54661,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -52052,7 +54675,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 11,
@@ -52061,6 +54685,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -52074,7 +54699,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 12,
@@ -52083,6 +54709,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -52096,7 +54723,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 13,
@@ -52105,6 +54733,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Dm7b5",
+                  "display_symbol": "Dø7",
                   "root": "D",
                   "quality": "m7b5",
                   "extensions": [],
@@ -52118,7 +54747,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7b5"
             },
             {
               "bar": 14,
@@ -52127,6 +54757,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -52140,7 +54771,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 15,
@@ -52149,6 +54781,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -52162,7 +54795,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 16,
@@ -52171,6 +54805,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -52184,7 +54819,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 17,
@@ -52193,6 +54829,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -52206,7 +54843,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 18,
@@ -52215,6 +54853,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -52228,7 +54867,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 19,
@@ -52237,6 +54877,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -52250,7 +54891,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 20,
@@ -52259,6 +54901,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -52272,7 +54915,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             }
           ],
           "chords": [
@@ -52280,6 +54924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -52291,6 +54936,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -52302,6 +54948,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -52313,6 +54960,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -52324,6 +54972,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -52335,6 +54984,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -52346,6 +54996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -52357,6 +55008,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -52368,6 +55020,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -52379,6 +55032,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -52390,6 +55044,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -52401,6 +55056,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -52412,6 +55068,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Dm7b5",
+              "display_symbol": "Dø7",
               "root": "D",
               "quality": "m7b5",
               "extensions": [],
@@ -52423,6 +55080,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -52434,6 +55092,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -52445,6 +55104,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -52456,6 +55116,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -52467,6 +55128,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -52478,6 +55140,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -52489,6 +55152,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -52996,6 +55660,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -53009,7 +55674,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 2,
@@ -53018,6 +55684,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -53031,7 +55698,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 3,
@@ -53040,6 +55708,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -53053,7 +55722,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 4,
@@ -53062,6 +55732,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -53075,7 +55746,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 5,
@@ -53084,6 +55756,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -53097,7 +55770,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 6,
@@ -53106,6 +55780,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -53119,7 +55794,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 7,
@@ -53128,6 +55804,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -53141,7 +55818,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 8,
@@ -53150,6 +55828,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -53163,7 +55842,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 9,
@@ -53172,6 +55852,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -53185,7 +55866,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 10,
@@ -53194,6 +55876,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -53207,7 +55890,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 11,
@@ -53216,6 +55900,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -53229,7 +55914,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 12,
@@ -53238,6 +55924,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -53251,7 +55938,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 13,
@@ -53260,6 +55948,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Ebm7b5",
+                  "display_symbol": "E♭ø7",
                   "root": "Eb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -53273,7 +55962,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7b5"
             },
             {
               "bar": 14,
@@ -53282,6 +55972,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -53295,7 +55986,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 15,
@@ -53304,6 +55996,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -53317,7 +56010,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 16,
@@ -53326,6 +56020,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -53339,7 +56034,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 17,
@@ -53348,6 +56044,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -53361,7 +56058,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 18,
@@ -53370,6 +56068,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -53383,7 +56082,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 19,
@@ -53392,6 +56092,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -53405,7 +56106,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 20,
@@ -53414,6 +56116,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -53427,7 +56130,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             }
           ],
           "chords": [
@@ -53435,6 +56139,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -53446,6 +56151,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -53457,6 +56163,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -53468,6 +56175,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -53479,6 +56187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -53490,6 +56199,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -53501,6 +56211,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -53512,6 +56223,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -53523,6 +56235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -53534,6 +56247,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -53545,6 +56259,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -53556,6 +56271,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -53567,6 +56283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Ebm7b5",
+              "display_symbol": "E♭ø7",
               "root": "Eb",
               "quality": "m7b5",
               "extensions": [],
@@ -53578,6 +56295,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -53589,6 +56307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -53600,6 +56319,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -53611,6 +56331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -53622,6 +56343,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -53633,6 +56355,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -53644,6 +56367,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -54151,6 +56875,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -54164,7 +56889,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 2,
@@ -54173,6 +56899,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Fm7",
+                  "display_symbol": "F-7",
                   "root": "F",
                   "quality": "m7",
                   "extensions": [],
@@ -54186,7 +56913,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7"
             },
             {
               "bar": 3,
@@ -54195,6 +56923,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -54208,7 +56937,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 4,
@@ -54217,6 +56947,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -54230,7 +56961,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 5,
@@ -54239,6 +56971,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -54252,7 +56985,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 6,
@@ -54261,6 +56995,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -54274,7 +57009,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 7,
@@ -54283,6 +57019,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -54296,7 +57033,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 8,
@@ -54305,6 +57043,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -54318,7 +57057,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 9,
@@ -54327,6 +57067,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -54340,7 +57081,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 10,
@@ -54349,6 +57091,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -54362,7 +57105,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 11,
@@ -54371,6 +57115,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -54384,7 +57129,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 12,
@@ -54393,6 +57139,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -54406,7 +57153,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 13,
@@ -54415,6 +57163,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Em7b5",
+                  "display_symbol": "Eø7",
                   "root": "E",
                   "quality": "m7b5",
                   "extensions": [],
@@ -54428,7 +57177,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7b5"
             },
             {
               "bar": 14,
@@ -54437,6 +57187,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -54450,7 +57201,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 15,
@@ -54459,6 +57211,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -54472,7 +57225,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 16,
@@ -54481,6 +57235,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -54494,7 +57249,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 17,
@@ -54503,6 +57259,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Cm7",
+                  "display_symbol": "C-7",
                   "root": "C",
                   "quality": "m7",
                   "extensions": [],
@@ -54516,7 +57273,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cm7"
             },
             {
               "bar": 18,
@@ -54525,6 +57283,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -54538,7 +57297,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 19,
@@ -54547,6 +57307,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -54560,7 +57321,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 20,
@@ -54569,6 +57331,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -54582,7 +57345,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             }
           ],
           "chords": [
@@ -54590,6 +57354,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -54601,6 +57366,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Fm7",
+              "display_symbol": "F-7",
               "root": "F",
               "quality": "m7",
               "extensions": [],
@@ -54612,6 +57378,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -54623,6 +57390,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -54634,6 +57402,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -54645,6 +57414,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -54656,6 +57426,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -54667,6 +57438,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -54678,6 +57450,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -54689,6 +57462,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -54700,6 +57474,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -54711,6 +57486,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -54722,6 +57498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Em7b5",
+              "display_symbol": "Eø7",
               "root": "E",
               "quality": "m7b5",
               "extensions": [],
@@ -54733,6 +57510,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -54744,6 +57522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -54755,6 +57534,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -54766,6 +57546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Cm7",
+              "display_symbol": "C-7",
               "root": "C",
               "quality": "m7",
               "extensions": [],
@@ -54777,6 +57558,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -54788,6 +57570,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -54799,6 +57582,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -55306,6 +58090,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -55319,7 +58104,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 2,
@@ -55328,6 +58114,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gbm7",
+                  "display_symbol": "G♭-7",
                   "root": "Gb",
                   "quality": "m7",
                   "extensions": [],
@@ -55341,7 +58128,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7"
             },
             {
               "bar": 3,
@@ -55350,6 +58138,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -55363,7 +58152,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 4,
@@ -55372,6 +58162,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -55385,7 +58176,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 5,
@@ -55394,6 +58186,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -55407,7 +58200,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 6,
@@ -55416,6 +58210,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -55429,7 +58224,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 7,
@@ -55438,6 +58234,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -55451,7 +58248,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 8,
@@ -55460,6 +58258,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -55473,7 +58272,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 9,
@@ -55482,6 +58282,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -55495,7 +58296,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 10,
@@ -55504,6 +58306,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -55517,7 +58320,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 11,
@@ -55526,6 +58330,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -55539,7 +58344,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 12,
@@ -55548,6 +58354,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -55561,7 +58368,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 13,
@@ -55570,6 +58378,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Fm7b5",
+                  "display_symbol": "Fø7",
                   "root": "F",
                   "quality": "m7b5",
                   "extensions": [],
@@ -55583,7 +58392,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fm7b5"
             },
             {
               "bar": 14,
@@ -55592,6 +58402,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Bb7",
+                  "display_symbol": "B♭7",
                   "root": "Bb",
                   "quality": "7",
                   "extensions": [],
@@ -55605,7 +58416,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bb7"
             },
             {
               "bar": 15,
@@ -55614,6 +58426,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -55627,7 +58440,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 16,
@@ -55636,6 +58450,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Ebmaj7",
+                  "display_symbol": "E♭△7",
                   "root": "Eb",
                   "quality": "maj7",
                   "extensions": [],
@@ -55649,7 +58464,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebmaj7"
             },
             {
               "bar": 17,
@@ -55658,6 +58474,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Dbm7",
+                  "display_symbol": "D♭-7",
                   "root": "Db",
                   "quality": "m7",
                   "extensions": [],
@@ -55671,7 +58488,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbm7"
             },
             {
               "bar": 18,
@@ -55680,6 +58498,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -55693,7 +58512,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 19,
@@ -55702,6 +58522,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -55715,7 +58536,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 20,
@@ -55724,6 +58546,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -55737,7 +58560,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             }
           ],
           "chords": [
@@ -55745,6 +58569,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -55756,6 +58581,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gbm7",
+              "display_symbol": "G♭-7",
               "root": "Gb",
               "quality": "m7",
               "extensions": [],
@@ -55767,6 +58593,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -55778,6 +58605,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -55789,6 +58617,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -55800,6 +58629,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -55811,6 +58641,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -55822,6 +58653,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -55833,6 +58665,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -55844,6 +58677,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -55855,6 +58689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -55866,6 +58701,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -55877,6 +58713,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Fm7b5",
+              "display_symbol": "Fø7",
               "root": "F",
               "quality": "m7b5",
               "extensions": [],
@@ -55888,6 +58725,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Bb7",
+              "display_symbol": "B♭7",
               "root": "Bb",
               "quality": "7",
               "extensions": [],
@@ -55899,6 +58737,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -55910,6 +58749,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Ebmaj7",
+              "display_symbol": "E♭△7",
               "root": "Eb",
               "quality": "maj7",
               "extensions": [],
@@ -55921,6 +58761,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Dbm7",
+              "display_symbol": "D♭-7",
               "root": "Db",
               "quality": "m7",
               "extensions": [],
@@ -55932,6 +58773,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -55943,6 +58785,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -55954,6 +58797,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -56461,6 +59305,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -56474,7 +59319,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 2,
@@ -56483,6 +59329,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Gm7",
+                  "display_symbol": "G-7",
                   "root": "G",
                   "quality": "m7",
                   "extensions": [],
@@ -56496,7 +59343,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7"
             },
             {
               "bar": 3,
@@ -56505,6 +59353,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -56518,7 +59367,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 4,
@@ -56527,6 +59377,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -56540,7 +59391,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 5,
@@ -56549,6 +59401,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -56562,7 +59415,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 6,
@@ -56571,6 +59425,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -56584,7 +59439,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 7,
@@ -56593,6 +59449,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -56606,7 +59463,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 8,
@@ -56615,6 +59473,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -56628,7 +59487,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 9,
@@ -56637,6 +59497,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -56650,7 +59511,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 10,
@@ -56659,6 +59521,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -56672,7 +59535,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 11,
@@ -56681,6 +59545,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -56694,7 +59559,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 12,
@@ -56703,6 +59569,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -56716,7 +59583,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 13,
@@ -56725,6 +59593,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gbm7b5",
+                  "display_symbol": "G♭ø7",
                   "root": "Gb",
                   "quality": "m7b5",
                   "extensions": [],
@@ -56738,7 +59607,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbm7b5"
             },
             {
               "bar": 14,
@@ -56747,6 +59617,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "B7",
+                  "display_symbol": "B7",
                   "root": "B",
                   "quality": "7",
                   "extensions": [],
@@ -56760,7 +59631,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "B7"
             },
             {
               "bar": 15,
@@ -56769,6 +59641,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -56782,7 +59655,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 16,
@@ -56791,6 +59665,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Emaj7",
+                  "display_symbol": "E△7",
                   "root": "E",
                   "quality": "maj7",
                   "extensions": [],
@@ -56804,7 +59679,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Emaj7"
             },
             {
               "bar": 17,
@@ -56813,6 +59689,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Dm7",
+                  "display_symbol": "D-7",
                   "root": "D",
                   "quality": "m7",
                   "extensions": [],
@@ -56826,7 +59703,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dm7"
             },
             {
               "bar": 18,
@@ -56835,6 +59713,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "G7",
+                  "display_symbol": "G7",
                   "root": "G",
                   "quality": "7",
                   "extensions": [],
@@ -56848,7 +59727,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "G7"
             },
             {
               "bar": 19,
@@ -56857,6 +59737,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -56870,7 +59751,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 20,
@@ -56879,6 +59761,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -56892,7 +59775,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             }
           ],
           "chords": [
@@ -56900,6 +59784,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -56911,6 +59796,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Gm7",
+              "display_symbol": "G-7",
               "root": "G",
               "quality": "m7",
               "extensions": [],
@@ -56922,6 +59808,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -56933,6 +59820,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -56944,6 +59832,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -56955,6 +59844,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -56966,6 +59856,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -56977,6 +59868,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -56988,6 +59880,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -56999,6 +59892,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -57010,6 +59904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -57021,6 +59916,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -57032,6 +59928,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gbm7b5",
+              "display_symbol": "G♭ø7",
               "root": "Gb",
               "quality": "m7b5",
               "extensions": [],
@@ -57043,6 +59940,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "B7",
+              "display_symbol": "B7",
               "root": "B",
               "quality": "7",
               "extensions": [],
@@ -57054,6 +59952,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -57065,6 +59964,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Emaj7",
+              "display_symbol": "E△7",
               "root": "E",
               "quality": "maj7",
               "extensions": [],
@@ -57076,6 +59976,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Dm7",
+              "display_symbol": "D-7",
               "root": "D",
               "quality": "m7",
               "extensions": [],
@@ -57087,6 +59988,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "G7",
+              "display_symbol": "G7",
               "root": "G",
               "quality": "7",
               "extensions": [],
@@ -57098,6 +60000,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -57109,6 +60012,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -57616,6 +60520,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -57629,7 +60534,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 2,
@@ -57638,6 +60544,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Abm7",
+                  "display_symbol": "A♭-7",
                   "root": "Ab",
                   "quality": "m7",
                   "extensions": [],
@@ -57651,7 +60558,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7"
             },
             {
               "bar": 3,
@@ -57660,6 +60568,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -57673,7 +60582,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 4,
@@ -57682,6 +60592,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -57695,7 +60606,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 5,
@@ -57704,6 +60616,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -57717,7 +60630,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 6,
@@ -57726,6 +60640,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "F7",
+                  "display_symbol": "F7",
                   "root": "F",
                   "quality": "7",
                   "extensions": [],
@@ -57739,7 +60654,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "F7"
             },
             {
               "bar": 7,
@@ -57748,6 +60664,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -57761,7 +60678,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 8,
@@ -57770,6 +60688,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bbmaj7",
+                  "display_symbol": "B♭△7",
                   "root": "Bb",
                   "quality": "maj7",
                   "extensions": [],
@@ -57783,7 +60702,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbmaj7"
             },
             {
               "bar": 9,
@@ -57792,6 +60712,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bbm7",
+                  "display_symbol": "B♭-7",
                   "root": "Bb",
                   "quality": "m7",
                   "extensions": [],
@@ -57805,7 +60726,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bbm7"
             },
             {
               "bar": 10,
@@ -57814,6 +60736,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "Eb7",
+                  "display_symbol": "E♭7",
                   "root": "Eb",
                   "quality": "7",
                   "extensions": [],
@@ -57827,7 +60750,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Eb7"
             },
             {
               "bar": 11,
@@ -57836,6 +60760,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -57849,7 +60774,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 12,
@@ -57858,6 +60784,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Abmaj7",
+                  "display_symbol": "A♭△7",
                   "root": "Ab",
                   "quality": "maj7",
                   "extensions": [],
@@ -57871,7 +60798,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abmaj7"
             },
             {
               "bar": 13,
@@ -57880,6 +60808,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Gm7b5",
+                  "display_symbol": "Gø7",
                   "root": "G",
                   "quality": "m7b5",
                   "extensions": [],
@@ -57893,7 +60822,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gm7b5"
             },
             {
               "bar": 14,
@@ -57902,6 +60832,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "C7",
+                  "display_symbol": "C7",
                   "root": "C",
                   "quality": "7",
                   "extensions": [],
@@ -57915,7 +60846,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "C7"
             },
             {
               "bar": 15,
@@ -57924,6 +60856,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -57937,7 +60870,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 16,
@@ -57946,6 +60880,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Fmaj7",
+                  "display_symbol": "F△7",
                   "root": "F",
                   "quality": "maj7",
                   "extensions": [],
@@ -57959,7 +60894,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Fmaj7"
             },
             {
               "bar": 17,
@@ -57968,6 +60904,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Ebm7",
+                  "display_symbol": "E♭-7",
                   "root": "Eb",
                   "quality": "m7",
                   "extensions": [],
@@ -57981,7 +60918,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ebm7"
             },
             {
               "bar": 18,
@@ -57990,6 +60928,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "Ab7",
+                  "display_symbol": "A♭7",
                   "root": "Ab",
                   "quality": "7",
                   "extensions": [],
@@ -58003,7 +60942,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Ab7"
             },
             {
               "bar": 19,
@@ -58012,6 +60952,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Dbmaj7",
+                  "display_symbol": "D♭△7",
                   "root": "Db",
                   "quality": "maj7",
                   "extensions": [],
@@ -58025,7 +60966,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dbmaj7"
             },
             {
               "bar": 20,
@@ -58034,6 +60976,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -58047,7 +60990,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             }
           ],
           "chords": [
@@ -58055,6 +60999,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -58066,6 +61011,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Abm7",
+              "display_symbol": "A♭-7",
               "root": "Ab",
               "quality": "m7",
               "extensions": [],
@@ -58077,6 +61023,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -58088,6 +61035,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -58099,6 +61047,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -58110,6 +61059,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "F7",
+              "display_symbol": "F7",
               "root": "F",
               "quality": "7",
               "extensions": [],
@@ -58121,6 +61071,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -58132,6 +61083,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bbmaj7",
+              "display_symbol": "B♭△7",
               "root": "Bb",
               "quality": "maj7",
               "extensions": [],
@@ -58143,6 +61095,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bbm7",
+              "display_symbol": "B♭-7",
               "root": "Bb",
               "quality": "m7",
               "extensions": [],
@@ -58154,6 +61107,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "Eb7",
+              "display_symbol": "E♭7",
               "root": "Eb",
               "quality": "7",
               "extensions": [],
@@ -58165,6 +61119,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -58176,6 +61131,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Abmaj7",
+              "display_symbol": "A♭△7",
               "root": "Ab",
               "quality": "maj7",
               "extensions": [],
@@ -58187,6 +61143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Gm7b5",
+              "display_symbol": "Gø7",
               "root": "G",
               "quality": "m7b5",
               "extensions": [],
@@ -58198,6 +61155,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "C7",
+              "display_symbol": "C7",
               "root": "C",
               "quality": "7",
               "extensions": [],
@@ -58209,6 +61167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -58220,6 +61179,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Fmaj7",
+              "display_symbol": "F△7",
               "root": "F",
               "quality": "maj7",
               "extensions": [],
@@ -58231,6 +61191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Ebm7",
+              "display_symbol": "E♭-7",
               "root": "Eb",
               "quality": "m7",
               "extensions": [],
@@ -58242,6 +61203,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "Ab7",
+              "display_symbol": "A♭7",
               "root": "Ab",
               "quality": "7",
               "extensions": [],
@@ -58253,6 +61215,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Dbmaj7",
+              "display_symbol": "D♭△7",
               "root": "Db",
               "quality": "maj7",
               "extensions": [],
@@ -58264,6 +61227,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -58771,6 +61735,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 1,
                   "sequence_index": 1,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -58784,7 +61749,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 2,
@@ -58793,6 +61759,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 2,
                   "sequence_index": 2,
                   "symbol": "Am7",
+                  "display_symbol": "A-7",
                   "root": "A",
                   "quality": "m7",
                   "extensions": [],
@@ -58806,7 +61773,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Am7"
             },
             {
               "bar": 3,
@@ -58815,6 +61783,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 3,
                   "sequence_index": 3,
                   "symbol": "D7",
+                  "display_symbol": "D7",
                   "root": "D",
                   "quality": "7",
                   "extensions": [],
@@ -58828,7 +61797,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "D7"
             },
             {
               "bar": 4,
@@ -58837,6 +61807,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 4,
                   "sequence_index": 4,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -58850,7 +61821,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             },
             {
               "bar": 5,
@@ -58859,6 +61831,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 5,
                   "sequence_index": 5,
                   "symbol": "Cmaj7",
+                  "display_symbol": "C△7",
                   "root": "C",
                   "quality": "maj7",
                   "extensions": [],
@@ -58872,7 +61845,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Cmaj7"
             },
             {
               "bar": 6,
@@ -58881,6 +61855,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 6,
                   "sequence_index": 6,
                   "symbol": "Gb7",
+                  "display_symbol": "G♭7",
                   "root": "Gb",
                   "quality": "7",
                   "extensions": [],
@@ -58894,7 +61869,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gb7"
             },
             {
               "bar": 7,
@@ -58903,6 +61879,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 7,
                   "sequence_index": 7,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -58916,7 +61893,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 8,
@@ -58925,6 +61903,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 8,
                   "sequence_index": 8,
                   "symbol": "Bmaj7",
+                  "display_symbol": "B△7",
                   "root": "B",
                   "quality": "maj7",
                   "extensions": [],
@@ -58938,7 +61917,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bmaj7"
             },
             {
               "bar": 9,
@@ -58947,6 +61927,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 9,
                   "sequence_index": 9,
                   "symbol": "Bm7",
+                  "display_symbol": "B-7",
                   "root": "B",
                   "quality": "m7",
                   "extensions": [],
@@ -58960,7 +61941,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Bm7"
             },
             {
               "bar": 10,
@@ -58969,6 +61951,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 10,
                   "sequence_index": 10,
                   "symbol": "E7",
+                  "display_symbol": "E7",
                   "root": "E",
                   "quality": "7",
                   "extensions": [],
@@ -58982,7 +61965,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "E7"
             },
             {
               "bar": 11,
@@ -58991,6 +61975,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 11,
                   "sequence_index": 11,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -59004,7 +61989,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 12,
@@ -59013,6 +61999,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 12,
                   "sequence_index": 12,
                   "symbol": "Amaj7",
+                  "display_symbol": "A△7",
                   "root": "A",
                   "quality": "maj7",
                   "extensions": [],
@@ -59026,7 +62013,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "ambiguous-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Amaj7"
             },
             {
               "bar": 13,
@@ -59035,6 +62023,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 13,
                   "sequence_index": 13,
                   "symbol": "Abm7b5",
+                  "display_symbol": "A♭ø7",
                   "root": "Ab",
                   "quality": "m7b5",
                   "extensions": [],
@@ -59048,7 +62037,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Abm7b5"
             },
             {
               "bar": 14,
@@ -59057,6 +62047,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 14,
                   "sequence_index": 14,
                   "symbol": "Db7",
+                  "display_symbol": "D♭7",
                   "root": "Db",
                   "quality": "7",
                   "extensions": [],
@@ -59070,7 +62061,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "minor-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Db7"
             },
             {
               "bar": 15,
@@ -59079,6 +62071,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 15,
                   "sequence_index": 15,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -59092,7 +62085,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 16,
@@ -59101,6 +62095,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 16,
                   "sequence_index": 16,
                   "symbol": "Gbmaj7",
+                  "display_symbol": "G♭△7",
                   "root": "Gb",
                   "quality": "maj7",
                   "extensions": [],
@@ -59114,7 +62109,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gbmaj7"
             },
             {
               "bar": 17,
@@ -59123,6 +62119,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 17,
                   "sequence_index": 17,
                   "symbol": "Em7",
+                  "display_symbol": "E-7",
                   "root": "E",
                   "quality": "m7",
                   "extensions": [],
@@ -59136,7 +62133,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Em7"
             },
             {
               "bar": 18,
@@ -59145,6 +62143,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 18,
                   "sequence_index": 18,
                   "symbol": "A7",
+                  "display_symbol": "A7",
                   "root": "A",
                   "quality": "7",
                   "extensions": [],
@@ -59158,7 +62157,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "A7"
             },
             {
               "bar": 19,
@@ -59167,6 +62167,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 19,
                   "sequence_index": 19,
                   "symbol": "Dmaj7",
+                  "display_symbol": "D△7",
                   "root": "D",
                   "quality": "maj7",
                   "extensions": [],
@@ -59180,7 +62181,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Dmaj7"
             },
             {
               "bar": 20,
@@ -59189,6 +62191,7 @@ window.JAZZCAT_PREVIEW_DATA = {
                   "bar": 20,
                   "sequence_index": 20,
                   "symbol": "Gmaj7",
+                  "display_symbol": "G△7",
                   "root": "G",
                   "quality": "maj7",
                   "extensions": [],
@@ -59202,7 +62205,8 @@ window.JAZZCAT_PREVIEW_DATA = {
               ],
               "colour_role": "major-key-region",
               "section_id": null,
-              "section_label": null
+              "section_label": null,
+              "raw": "Gmaj7"
             }
           ],
           "chords": [
@@ -59210,6 +62214,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 1,
               "sequence_index": 1,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -59221,6 +62226,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 2,
               "sequence_index": 2,
               "symbol": "Am7",
+              "display_symbol": "A-7",
               "root": "A",
               "quality": "m7",
               "extensions": [],
@@ -59232,6 +62238,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 3,
               "sequence_index": 3,
               "symbol": "D7",
+              "display_symbol": "D7",
               "root": "D",
               "quality": "7",
               "extensions": [],
@@ -59243,6 +62250,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 4,
               "sequence_index": 4,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],
@@ -59254,6 +62262,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 5,
               "sequence_index": 5,
               "symbol": "Cmaj7",
+              "display_symbol": "C△7",
               "root": "C",
               "quality": "maj7",
               "extensions": [],
@@ -59265,6 +62274,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 6,
               "sequence_index": 6,
               "symbol": "Gb7",
+              "display_symbol": "G♭7",
               "root": "Gb",
               "quality": "7",
               "extensions": [],
@@ -59276,6 +62286,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 7,
               "sequence_index": 7,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -59287,6 +62298,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 8,
               "sequence_index": 8,
               "symbol": "Bmaj7",
+              "display_symbol": "B△7",
               "root": "B",
               "quality": "maj7",
               "extensions": [],
@@ -59298,6 +62310,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 9,
               "sequence_index": 9,
               "symbol": "Bm7",
+              "display_symbol": "B-7",
               "root": "B",
               "quality": "m7",
               "extensions": [],
@@ -59309,6 +62322,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 10,
               "sequence_index": 10,
               "symbol": "E7",
+              "display_symbol": "E7",
               "root": "E",
               "quality": "7",
               "extensions": [],
@@ -59320,6 +62334,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 11,
               "sequence_index": 11,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -59331,6 +62346,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 12,
               "sequence_index": 12,
               "symbol": "Amaj7",
+              "display_symbol": "A△7",
               "root": "A",
               "quality": "maj7",
               "extensions": [],
@@ -59342,6 +62358,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 13,
               "sequence_index": 13,
               "symbol": "Abm7b5",
+              "display_symbol": "A♭ø7",
               "root": "Ab",
               "quality": "m7b5",
               "extensions": [],
@@ -59353,6 +62370,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 14,
               "sequence_index": 14,
               "symbol": "Db7",
+              "display_symbol": "D♭7",
               "root": "Db",
               "quality": "7",
               "extensions": [],
@@ -59364,6 +62382,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 15,
               "sequence_index": 15,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -59375,6 +62394,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 16,
               "sequence_index": 16,
               "symbol": "Gbmaj7",
+              "display_symbol": "G♭△7",
               "root": "Gb",
               "quality": "maj7",
               "extensions": [],
@@ -59386,6 +62406,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 17,
               "sequence_index": 17,
               "symbol": "Em7",
+              "display_symbol": "E-7",
               "root": "E",
               "quality": "m7",
               "extensions": [],
@@ -59397,6 +62418,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 18,
               "sequence_index": 18,
               "symbol": "A7",
+              "display_symbol": "A7",
               "root": "A",
               "quality": "7",
               "extensions": [],
@@ -59408,6 +62430,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 19,
               "sequence_index": 19,
               "symbol": "Dmaj7",
+              "display_symbol": "D△7",
               "root": "D",
               "quality": "maj7",
               "extensions": [],
@@ -59419,6 +62442,7 @@ window.JAZZCAT_PREVIEW_DATA = {
               "bar": 20,
               "sequence_index": 20,
               "symbol": "Gmaj7",
+              "display_symbol": "G△7",
               "root": "G",
               "quality": "maj7",
               "extensions": [],

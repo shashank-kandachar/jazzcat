@@ -1,6 +1,7 @@
 import type { IrealMetadata, ParsedIrealPayload } from "../import/parseIrealMetadata.ts";
 import type { HarmonyAnalysis, PracticeObject, SemanticRegion } from "../core/types.ts";
 import type { ChartSection } from "../core/tuneStudyTypes.ts";
+import { jazzChordDisplay } from "../core/chordDisplay.ts";
 import { analyseProgression } from "../core/harmony/analyseProgression.ts";
 import { preferFlatNames } from "../core/harmony/intervals.ts";
 import { transposeChart } from "../core/chord/transposeChord.ts";
@@ -13,6 +14,7 @@ export interface UiChordViewModel {
   bar: number;
   sequence_index: number;
   symbol: string;
+  display_symbol: string;
   root: string;
   quality: string;
   extensions: string[];
@@ -28,6 +30,7 @@ export interface UiBarViewModel {
   colour_role: string | null;
   section_id: string | null;
   section_label: string | null;
+  raw: string | null;
 }
 
 export interface UiIrealPayloadViewModel {
@@ -110,6 +113,7 @@ export function createChartViewModel(fixture: ManualTuneFixture, options: ChartV
       bar: chord.bar,
       sequence_index: chord.bar,
       symbol: chord.parsed.symbol,
+      display_symbol: jazzChordDisplay(chord.parsed.symbol),
       root: chord.parsed.root,
       quality: chord.parsed.quality,
       extensions: chord.parsed.extensions,
@@ -138,7 +142,8 @@ export function createChartViewModel(fixture: ManualTuneFixture, options: ChartV
       region_ids: chord.region_id ? [chord.region_id] : [],
       colour_role: chord.colour_role,
       section_id: null,
-      section_label: null
+      section_label: null,
+      raw: chord.symbol
     })),
     chords,
     regions: analysed.regions,
@@ -247,6 +252,7 @@ export function createPlainTextChartViewModel(
         bar: bar.bar,
         sequence_index: sequenceIndex,
         symbol: chartChord?.parsed.symbol ?? symbol,
+        display_symbol: jazzChordDisplay(chartChord?.parsed.symbol ?? symbol),
         root: chartChord?.parsed.root ?? "",
         quality: chartChord?.parsed.quality ?? "",
         extensions: chartChord?.parsed.extensions ?? [],
@@ -280,7 +286,8 @@ export function createPlainTextChartViewModel(
         region_ids: regionIds,
         colour_role: barChords.find((chord) => chord.colour_role)?.colour_role ?? null,
         section_id: sourceBar?.section_id ?? null,
-        section_label: sourceBar?.section_label ?? null
+        section_label: sourceBar?.section_label ?? null,
+        raw: sourceBar?.raw ?? null
       };
     }),
     chords,

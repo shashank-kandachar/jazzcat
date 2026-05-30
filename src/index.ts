@@ -1,5 +1,6 @@
 export * from "./core/types.ts";
 export * from "./core/tuneStudyTypes.ts";
+export { jazzChordDisplay } from "./core/chordDisplay.ts";
 export { normaliseChord } from "./core/chord/normaliseChord.ts";
 export { parseChord, formatChord } from "./core/chord/parseChord.ts";
 export {

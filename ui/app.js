@@ -77,7 +77,7 @@ const NOTE_TO_PC = {
 
 const SHARP_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 const FLAT_NAMES = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"];
-const SUPPORTED_QUALITIES = new Set(["major", "maj", "maj7", "6", "m", "m6", "m7", "m7b5", "mmaj7", "7", "7sus", "dim7"]);
+const SUPPORTED_QUALITIES = new Set(["major", "maj", "maj7", "6", "m", "m6", "m7", "m7b5", "mmaj7", "7", "7sus", "dim7", "dim", "aug"]);
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -133,7 +133,10 @@ function preferFlatNames(...signals) {
 
 function cleanDescriptor(descriptor) {
   return descriptor
+    .replace(/half[- ]?dim(?:inished)?/gi, "m7b5")
     .replace(/majmin/i, "mmaj")
+    .replace(/major/gi, "maj")
+    .replace(/minor/gi, "m")
     .replace(/min/gi, "m")
     .replace(/[∆Δ^]/g, "maj")
     .replace(/-/g, "m")
@@ -146,6 +149,8 @@ function detectQuality(descriptor) {
   if (lower.startsWith("mmaj7")) return "mmaj7";
   if (lower.startsWith("m7b5")) return "m7b5";
   if (lower.startsWith("dim7") || lower.startsWith("o7")) return "dim7";
+  if (lower.startsWith("dim") || lower.startsWith("o")) return "dim";
+  if (lower.startsWith("aug") || lower.startsWith("+")) return "aug";
   if (lower.startsWith("maj7")) return "maj7";
   if (lower.startsWith("maj")) return "maj";
   if (lower.startsWith("m7")) return "m7";
@@ -154,6 +159,7 @@ function detectQuality(descriptor) {
   if (lower.startsWith("7sus")) return "7sus";
   if (lower.startsWith("7")) return "7";
   if (lower.startsWith("13") || lower.startsWith("11") || lower.startsWith("9")) return "7";
+  if (lower.startsWith("69") || lower.startsWith("6/9")) return "6";
   if (lower.startsWith("6")) return "6";
   if (lower === "") return "major";
   return descriptor;
@@ -182,7 +188,9 @@ function formatChord(chord) {
 function parseChord(raw) {
   const compact = String(raw).trim().replace(/\s+/g, "");
   if (!compact) throw new Error("Cannot parse an empty chord symbol.");
-  const [symbolPart, bassPart] = compact.split("/");
+  const slashBass = /^(.+)\/([A-Ga-g][#b]?)$/.exec(compact);
+  const symbolPart = slashBass ? slashBass[1] : compact;
+  const bassPart = slashBass ? slashBass[2] : null;
   const rootMatch = /^([A-Ga-g][#b]?)/.exec(symbolPart);
   if (!rootMatch) throw new Error(`Cannot parse chord root from: ${raw}`);
   const root = normalisePitchName(rootMatch[1]);
@@ -192,6 +200,79 @@ function parseChord(raw) {
   const bass = bassPart ? normalisePitchName(bassPart) : null;
   const model = { raw, root, quality, extensions, bass };
   return { ...model, symbol: formatChord(model) };
+}
+
+function displayPitchName(note) {
+  return String(note).replace(/#/g, "♯").replace(/b/g, "♭");
+}
+
+function splitDisplayChord(raw) {
+  const compact = String(raw ?? "").trim().replace(/\s+/g, "");
+  const slashBass = /^(.+)\/([A-Ga-g][#b]?)$/.exec(compact);
+  const symbolPart = slashBass ? slashBass[1] : compact;
+  const bass = slashBass ? slashBass[2] : null;
+  const rootMatch = /^([A-Ga-g][#b]?)/.exec(symbolPart);
+  if (!rootMatch) return { root: compact, descriptor: "", bass: null };
+  return {
+    root: `${rootMatch[1][0].toUpperCase()}${rootMatch[1].slice(1)}`,
+    descriptor: symbolPart.slice(rootMatch[1].length),
+    bass
+  };
+}
+
+function cleanDisplayDescriptor(descriptor) {
+  return descriptor
+    .replace(/half[- ]?dim(?:inished)?/gi, "m7b5")
+    .replace(/majmin/gi, "mmaj")
+    .replace(/major/gi, "maj")
+    .replace(/minor|min/gi, "m")
+    .replace(/[∆Δ^△]/g, "maj")
+    .replace(/[øØ]/g, "m7b5")
+    .replace(/\(([^)]+)\)/g, "$1")
+    .replace(/-/g, "m")
+    .toLowerCase();
+}
+
+function displayExtension(value) {
+  return String(value).replace(/b(?=(5|9|13))/g, "♭").replace(/#(?=(5|9|11))/g, "♯");
+}
+
+function majorDisplay(descriptor) {
+  const extension = descriptor.replace(/^maj/, "");
+  if (extension === "" || extension === "or") return "△";
+  if (extension === "7") return "△7";
+  if (extension === "9") return "△9";
+  if (extension === "13") return "△13";
+  return `△${displayExtension(extension)}`;
+}
+
+function minorDisplay(descriptor) {
+  const extension = descriptor.replace(/^m/, "");
+  if (extension === "") return "-";
+  if (extension === "7") return "-7";
+  if (extension === "9") return "-9";
+  if (extension === "6") return "-6";
+  if (extension === "maj7") return "-△7";
+  return `-${displayExtension(extension)}`;
+}
+
+function qualityDisplay(descriptor) {
+  if (descriptor === "") return "";
+  if (descriptor.startsWith("m7b5")) return "ø7";
+  if (descriptor.startsWith("dim7") || descriptor.startsWith("o7")) return "°7";
+  if (descriptor.startsWith("dim") || descriptor === "o") return "°";
+  if (descriptor.startsWith("aug") || descriptor.startsWith("+")) return "+";
+  if (descriptor.startsWith("maj")) return majorDisplay(descriptor);
+  if (descriptor.startsWith("m")) return minorDisplay(descriptor);
+  if (descriptor.startsWith("69") || descriptor.startsWith("6/9")) return "6/9";
+  if (descriptor.startsWith("7alt")) return "7alt";
+  return displayExtension(descriptor);
+}
+
+function jazzChordDisplay(raw) {
+  const parts = splitDisplayChord(raw);
+  const bass = parts.bass ? `/${displayPitchName(parts.bass)}` : "";
+  return `${displayPitchName(parts.root)}${qualityDisplay(cleanDisplayDescriptor(parts.descriptor))}${bass}`;
 }
 
 function transposeChord(raw, semitones, preferFlats = false) {
@@ -870,6 +951,7 @@ function createPlainTextModel(input, title, declaredKey, shift) {
         bar: bar.bar,
         sequence_index: sequenceIndex,
         symbol: analysedChord?.parsed.symbol ?? shiftedChords[sequenceIndex - 1],
+        display_symbol: jazzChordDisplay(analysedChord?.parsed.symbol ?? shiftedChords[sequenceIndex - 1]),
         root: analysedChord?.parsed.root ?? "",
         quality: analysedChord?.parsed.quality ?? "",
         extensions: analysedChord?.parsed.extensions ?? [],
@@ -1166,6 +1248,35 @@ function renderWarnings(model) {
     : "";
 }
 
+function barSignature(bar) {
+  if (!bar.chords.length) return null;
+  return bar.chords.map((chord) => chord.symbol).join("|");
+}
+
+function heldMarker(raw) {
+  const value = String(raw ?? "").trim();
+  if (value === "%") return "%";
+  if (/^n\.?c\.?$/i.test(value)) return "N.C.";
+  return "/";
+}
+
+function createLeadSheetMeasures(bars) {
+  let previousSignature = null;
+  return bars.map((bar) => {
+    const signature = barSignature(bar);
+    const repeatsPrevious = signature !== null && signature === previousSignature;
+    const displayKind = bar.chords.length === 0 ? "held" : repeatsPrevious ? "repeat-previous-bar" : "chords";
+    if (signature) previousSignature = signature;
+    return {
+      ...bar,
+      display_kind: displayKind,
+      display_symbols: displayKind === "chords" ? bar.chords.map((chord) => chord.display_symbol ?? jazzChordDisplay(chord.symbol)) : [],
+      marker: displayKind === "held" ? heldMarker(bar.raw) : displayKind === "repeat-previous-bar" ? "%" : null,
+      chord_count: bar.chords.length
+    };
+  });
+}
+
 function renderChart(model) {
   const selectedRegion = model.regions[state.regionIndex] ?? null;
   const bars = model.bars?.length
@@ -1177,7 +1288,8 @@ function renderChart(model) {
         region_ids: chord.region_id ? [chord.region_id] : [],
         colour_role: chord.colour_role,
         section_id: null,
-        section_label: null
+        section_label: null,
+        raw: chord.symbol
       }));
 
   if (bars.length === 0) {
@@ -1185,33 +1297,38 @@ function renderChart(model) {
     return;
   }
 
-  const phrases = groupBarsIntoPhrases(bars);
+  const phrases = groupBarsIntoPhrases(createLeadSheetMeasures(bars));
   elements.chartGrid.innerHTML = `
     <div class="lead-sheet" aria-label="Lead-sheet chord chart">
       ${phrases
-        .map((phrase) => {
+        .map((phrase, phraseIndex) => {
           const cells = [...phrase.bars];
           while (cells.length < 4) cells.push(null);
           return `
-            <div class="lead-sheet-phrase">
+            <div class="lead-sheet-phrase ${phraseIndex === phrases.length - 1 ? "is-final-phrase" : ""}">
               <div class="phrase-label">${phrase.sectionLabel ? escapeHtml(phrase.sectionLabel) : ""}</div>
               <div class="measure-row">
                 ${cells
-                  .map((bar) => {
+                  .map((bar, cellIndex) => {
                     if (!bar) return `<div class="measure-cell is-empty" aria-hidden="true"></div>`;
                     const active = selectedRegion && bar.region_ids.includes(selectedRegion.region_id);
                     const role = bar.colour_role ?? "ambiguous-region";
                     const regionId = bar.region_ids[0] ?? "";
-                    const chordText = bar.chords.length > 0 ? bar.chords.map((chord) => `<span>${escapeHtml(chord.symbol)}</span>`).join("") : `<span class="hold-mark">${escapeHtml(bar.raw || "%")}</span>`;
+                    const isPhraseEnd = cellIndex === phrase.bars.length - 1;
+                    const isFinalBar = phraseIndex === phrases.length - 1 && cellIndex === phrase.bars.length - 1;
+                    const chordText =
+                      bar.display_kind === "chords"
+                        ? bar.display_symbols.map((symbol) => `<span class="chord-event">${escapeHtml(symbol)}</span>`).join("")
+                        : `<span class="${bar.display_kind === "held" ? "hold-mark" : "repeat-mark"}">${escapeHtml(bar.marker)}</span>`;
                     return `
                       <button
                         type="button"
-                        class="measure-cell ${escapeHtml(role)} ${active ? "is-active" : ""}"
+                        class="measure-cell ${escapeHtml(role)} ${active ? "is-active" : ""} ${bar.display_kind === "repeat-previous-bar" ? "is-repeat" : ""} ${bar.display_kind === "held" ? "is-held" : ""} ${isPhraseEnd ? "is-phrase-end" : ""} ${isFinalBar ? "is-final-bar" : ""}"
                         data-region-id="${escapeHtml(regionId)}"
                         aria-label="Bar ${bar.bar} ${escapeHtml(bar.chords.map((chord) => chord.symbol).join(" ") || bar.raw || "held")}"
                       >
                         <span class="measure-number">${bar.bar}</span>
-                        <span class="measure-chords">${chordText}</span>
+                        <span class="measure-chords chords-${Math.max(1, Math.min(4, bar.chord_count))}">${chordText}</span>
                       </button>
                     `;
                   })

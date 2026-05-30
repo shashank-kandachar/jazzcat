@@ -15,6 +15,8 @@ The current milestone is "Smarter Tune Study Mode":
 - rule-based cadence, turnaround, dominant-chain, modal-vamp, and local key-centre detection;
 - semantic harmony regions and guitarist-ready practice objects;
 - lead-sheet-style Tune Study chart view with 4-bar phrase grouping;
+- fake-book-style chord notation with jazz shorthand display symbols;
+- musical repeat and held-bar display for repeated harmony;
 - harmony map / region summary for the current tune study;
 - selected-region Practice Mode with guitar tasks;
 - mini key trainer for transposed practice versions;

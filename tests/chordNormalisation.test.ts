@@ -5,13 +5,19 @@ import { parseChord, normaliseChord } from "../src/index.ts";
 test("normalises common jazz chord spellings", () => {
   assert.equal(normaliseChord("C-7"), "Cm7");
   assert.equal(normaliseChord("Cmin7"), "Cm7");
+  assert.equal(normaliseChord("Cminor7"), "Cm7");
+  assert.equal(normaliseChord("Cmajor7"), "Cmaj7");
   assert.equal(normaliseChord("C∆7"), "Cmaj7");
   assert.equal(normaliseChord("C^7"), "Cmaj7");
   assert.equal(normaliseChord("C7b9"), "C7(b9)");
   assert.equal(normaliseChord("C7b13"), "C7(b13)");
   assert.equal(normaliseChord("Cø7"), "Cm7b5");
+  assert.equal(normaliseChord("Chalf-dim"), "Cm7b5");
   assert.equal(normaliseChord("C-7b5"), "Cm7b5");
   assert.equal(normaliseChord("Cdim7"), "Cdim7");
+  assert.equal(normaliseChord("Cdim"), "Cdim");
+  assert.equal(normaliseChord("Caug"), "Caug");
+  assert.equal(normaliseChord("C6/9"), "C6(9)");
   assert.equal(normaliseChord("C/G"), "C/G");
 });
 

@@ -5,7 +5,10 @@ const EXTENSION_PATTERN = /#11|b13|#9|b9|#5|b5|13|11|9/g;
 
 function cleanDescriptor(descriptor: string): string {
   return descriptor
+    .replace(/half[- ]?dim(?:inished)?/gi, "m7b5")
     .replace(/majmin/i, "mmaj")
+    .replace(/major/gi, "maj")
+    .replace(/minor/gi, "m")
     .replace(/min/gi, "m")
     .replace(/[∆Δ^]/g, "maj")
     .replace(/-/g, "m")
@@ -19,6 +22,8 @@ function detectQuality(descriptor: string): string {
   if (lower.startsWith("mmaj7")) return "mmaj7";
   if (lower.startsWith("m7b5")) return "m7b5";
   if (lower.startsWith("dim7") || lower.startsWith("o7")) return "dim7";
+  if (lower.startsWith("dim") || lower.startsWith("o")) return "dim";
+  if (lower.startsWith("aug") || lower.startsWith("+")) return "aug";
   if (lower.startsWith("maj7")) return "maj7";
   if (lower.startsWith("maj")) return "maj";
   if (lower.startsWith("m7")) return "m7";
@@ -27,6 +32,7 @@ function detectQuality(descriptor: string): string {
   if (lower.startsWith("7sus")) return "7sus";
   if (lower.startsWith("7")) return "7";
   if (lower.startsWith("13") || lower.startsWith("11") || lower.startsWith("9")) return "7";
+  if (lower.startsWith("69") || lower.startsWith("6/9")) return "6";
   if (lower.startsWith("6")) return "6";
   if (lower === "") return "major";
 
@@ -64,7 +70,9 @@ export function parseChord(raw: string): ParsedChord {
     throw new Error("Cannot parse an empty chord symbol.");
   }
 
-  const [symbolPart, bassPart] = compact.split("/");
+  const slashBass = /^(.+)\/([A-Ga-g][#b]?)$/.exec(compact);
+  const symbolPart = slashBass ? slashBass[1] : compact;
+  const bassPart = slashBass ? slashBass[2] : null;
   const rootMatch = /^([A-Ga-g][#b]?)/.exec(symbolPart);
   if (!rootMatch) {
     throw new Error(`Cannot parse chord root from: ${raw}`);

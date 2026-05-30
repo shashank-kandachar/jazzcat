@@ -35,7 +35,9 @@ const SUPPORTED_QUALITIES = new Set([
   "mmaj7",
   "7",
   "7sus",
-  "dim7"
+  "dim7",
+  "dim",
+  "aug"
 ]);
 
 const METADATA_KEYS: Record<string, keyof TuneMetadata> = {
